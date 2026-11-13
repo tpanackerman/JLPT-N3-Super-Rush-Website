@@ -30,12 +30,6 @@
    ```bash
    npm run dev
    ```
-   *(Hoặc nếu bạn đang mở trực tiếp từ thư mục làm việc cá nhân:*
-   ```bash
-   cd "/home/tpan/Study Material /JLPT /jlpt-n3-app"
-   npm run dev
-   ```
-   *)*
 
 4. Mở trình duyệt và truy cập địa chỉ hiển thị trên Terminal (thường là `http://localhost:5173` hoặc `http://localhost:3000`).
 
