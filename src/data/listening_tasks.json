@@ -1,0 +1,840 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "Lộ trình ôn JLPT N3 cấp tốc 25 ngày (10_11 - 04_12).md",
+    "sha256": "039e186797f3b1325cc7f9e443769e76cec9c94c6409ca7960d82db37f43d0aa",
+    "lineCount": 605
+  },
+  "textbooks": [
+    {
+      "id": "mimi_choukai",
+      "titleJa": "耳から覚える N3 聴解",
+      "titleRomaji": "Mimi kara Oboeru N3 Choukai",
+      "skill": "listening"
+    },
+    {
+      "id": "speed_choukai",
+      "titleJa": null,
+      "titleRomaji": "Speed Master N3 Choukai",
+      "skill": "listening"
+    },
+    {
+      "id": "jlpt_past_papers",
+      "titleJa": null,
+      "titleRomaji": "Đề thi thật JLPT N3 (user-provided)",
+      "skill": "mixed"
+    }
+  ],
+  "priorityOrder": [
+    {
+      "step": 1,
+      "mondai": [
+        4,
+        5
+      ]
+    },
+    {
+      "step": 2,
+      "mondai": [
+        1,
+        2
+      ]
+    },
+    {
+      "step": 3,
+      "mondai": [
+        3
+      ]
+    }
+  ],
+  "priorityOrderSourceLine": 25,
+  "mondaiCatalog": [
+    {
+      "mondai": 1,
+      "nameVi": "Nghe hiểu tác vụ",
+      "sourceLine": 114
+    },
+    {
+      "mondai": 2,
+      "nameVi": "Nghe hiểu điểm chính",
+      "sourceLine": 140
+    },
+    {
+      "mondai": 3,
+      "nameVi": "Nghe ý chính / Nghe hiểu khái quát",
+      "sourceLine": 168
+    },
+    {
+      "mondai": 4,
+      "nameVi": "Phát ngôn theo tranh",
+      "sourceLine": 67
+    },
+    {
+      "mondai": 5,
+      "nameVi": "Phản xạ nhanh",
+      "sourceLine": 91
+    }
+  ],
+  "assignments": [
+    {
+      "id": "ls-d01-01",
+      "taskId": "d01-listening-01",
+      "dayNumber": 1,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Mondai 4: Phát ngôn theo tranh, Bài luyện 1 & 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        4
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "～てもいいですか",
+        "～ていただけませんか",
+        "～ましょうか"
+      ],
+      "instructions": [
+        "Ôn lại các mẫu câu xin phép (`～てもいいですか`), nhờ vả (`～ていただけませんか`), đề nghị giúp đỡ (`～ましょうか`)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Mondai 4: Phát ngôn theo tranh, Bài luyện 1 & 2)**:\n  - Ôn lại các mẫu câu xin phép (`～てもいいですか`), nhờ vả (`～ていただけませんか`), đề nghị giúp đỡ (`～ましょうか`).",
+      "sourceLines": [
+        67,
+        68
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d02-01",
+      "taskId": "d02-listening-01",
+      "dayNumber": 2,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Mondai 5: Phản xạ nhanh, Bài luyện 1 & 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        5
+      ],
+      "target": "20 câu",
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "おかげさまで",
+        "恐れ入りますが",
+        "たいしたことないよ"
+      ],
+      "instructions": [
+        "Luyện 20 câu phản xạ ngắn, chú ý các cụm cố định: `おかげさまで` (Nhờ trời/nhờ bạn), `恐れ入りますが` (Xin lỗi phiền bạn...), `たいしたことないよ` (Không có gì to tát đâu)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Mondai 5: Phản xạ nhanh, Bài luyện 1 & 2)**:\n  - Luyện 20 câu phản xạ ngắn, chú ý các cụm cố định: `おかげさまで` (Nhờ trời/nhờ bạn), `恐れ入りますが` (Xin lỗi phiền bạn...), `たいしたことないよ` (Không có gì to tát đâu).",
+      "sourceLines": [
+        91,
+        92
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d03-01",
+      "taskId": "d03-listening-01",
+      "dayNumber": 3,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Mondai 1: Nghe hiểu tác vụ, Bài 1 & 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        1
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "やっぱり",
+        "じゃなくて",
+        "まず",
+        "後で"
+      ],
+      "instructions": [
+        "Tập ghi chú nhanh (Note-taking) 4 đáp án trước khi băng đọc. Chú ý các từ đổi ý: `やっぱり` (thôi cứ như cũ/đổi ý), `じゃなくて` (không phải thế mà là), `まず` (trước tiên), `後で` (để sau)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Mondai 1: Nghe hiểu tác vụ, Bài 1 & 2)**:\n  - Tập ghi chú nhanh (Note-taking) 4 đáp án trước khi băng đọc. Chú ý các từ đổi ý: `やっぱり` (thôi cứ như cũ/đổi ý), `じゃなくて` (không phải thế mà là), `まず` (trước tiên), `後で` (để sau).",
+      "sourceLines": [
+        114,
+        115
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d04-01",
+      "taskId": "d04-listening-01",
+      "dayNumber": 4,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Mondai 2: Nghe hiểu điểm chính, Bài 1 & 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        2
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "どうして",
+        "何が一番",
+        "どんな"
+      ],
+      "instructions": [
+        "Đọc trước câu hỏi và 4 đáp án trong 10 giây nghỉ, gạch chân từ để hỏi (`どうして`, `何が一番`, `どんな`)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Mondai 2: Nghe hiểu điểm chính, Bài 1 & 2)**:\n  - Đọc trước câu hỏi và 4 đáp án trong 10 giây nghỉ, gạch chân từ để hỏi (`どうして`, `何が一番`, `どんな`).",
+      "sourceLines": [
+        140,
+        141
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d05-01",
+      "taskId": "d05-listening-01",
+      "dayNumber": 5,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Mondai 3: Nghe ý chính, Bài 1 & 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        3
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "実は",
+        "つまり",
+        "一番言いたいのは"
+      ],
+      "instructions": [
+        "Lắng nghe câu mở đầu và câu kết luận của đoạn độc thoại (thường chứa `実は`, `つまり`, `一番言いたいのは`)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Mondai 3: Nghe ý chính, Bài 1 & 2)**:\n  - Lắng nghe câu mở đầu và câu kết luận của đoạn độc thoại (thường chứa `実は`, `つまり`, `一番言いたいのは`).",
+      "sourceLines": [
+        168,
+        169
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d06-01",
+      "taskId": "d06-listening-01",
+      "dayNumber": 6,
+      "taskType": "revision",
+      "title": "Nghe hiểu — Ôn tập Kính ngữ & Khiêm nhường ngữ trong Mondai 4 & 5",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "いらっしゃる",
+        "おっしゃる",
+        "ご覧になる",
+        "召し上がる",
+        "伺う",
+        "参る",
+        "申す",
+        "拝見する"
+      ],
+      "instructions": [
+        "Ôn bảng động từ đặc biệt hay bẫy trong bài nghe: `いらっしゃる` (đi/đến/ở), `おっしゃる` (nói), `ご覧になる` (xem), `召し上がる` (ăn/uống), `伺う` (hỏi/đến thăm), `参る` (đi/đến), `申す` (nói/tên là), `拝見する` (xem)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Ôn tập Kính ngữ & Khiêm nhường ngữ trong Mondai 4 & 5)**:\n  - Ôn bảng động từ đặc biệt hay bẫy trong bài nghe: `いらっしゃる` (đi/đến/ở), `おっしゃる` (nói), `ご覧になる` (xem), `召し上がる` (ăn/uống), `伺う` (hỏi/đến thăm), `参る` (đi/đến), `申す` (nói/tên là), `拝見する` (xem).",
+      "sourceLines": [
+        191,
+        192
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d07-01",
+      "taskId": "d07-listening-01",
+      "dayNumber": 7,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 1, Bài 3 & 4",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [
+        1
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Tập trung nghe dạng hội thoại tại văn phòng (nhờ photo tài liệu, đặt phòng họp, sửa báo cáo)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 1, Bài 3 & 4)**:\n  - Tập trung nghe dạng hội thoại tại văn phòng (nhờ photo tài liệu, đặt phòng họp, sửa báo cáo).",
+      "sourceLines": [
+        214,
+        215
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d08-01",
+      "taskId": "d08-listening-01",
+      "dayNumber": 8,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 2, Bài 3 & 4",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [
+        2
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Tập trung nghe hội thoại giữa bạn bè/gia đình và phỏng vấn ngắn."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 2, Bài 3 & 4)**:\n  - Tập trung nghe hội thoại giữa bạn bè/gia đình và phỏng vấn ngắn.",
+      "sourceLines": [
+        244,
+        245
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d09-01",
+      "taskId": "d09-listening-01",
+      "dayNumber": 9,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 4 & 5, Đề luyện số 2",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "～せる/させる",
+        "～れる/られる",
+        "～せられる/される",
+        "～ていただく / ～てもらう"
+      ],
+      "instructions": [
+        "Chú ý phân biệt thể Sai khiến (`～せる/させる`), Bị động (`～れる/られる`) và Sai khiến bị động (`～せられる/される`) kết hợp với `～ていただく / ～てもらう`."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 4 & 5, Đề luyện số 2)**:\n  - Chú ý phân biệt thể Sai khiến (`～せる/させる`), Bị động (`～れる/られる`) và Sai khiến bị động (`～せられる/される`) kết hợp với `～ていただく / ～てもらう`.",
+      "sourceLines": [
+        271,
+        272
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d10-01",
+      "taskId": "d10-listening-01",
+      "dayNumber": 10,
+      "taskType": "shadowing",
+      "title": "Nghe hiểu — Luyện Mondai 1 & 2, Đề thực hành",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        1,
+        2
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Nghe và đọc to theo Script (Shadowing) để làm quen với các từ Katakana khi phát âm nhanh trong bài nghe."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Luyện Mondai 1 & 2, Đề thực hành)**:\n  - Nghe và đọc to theo Script (Shadowing) để làm quen với các từ Katakana khi phát âm nhanh trong bài nghe.",
+      "sourceLines": [
+        294,
+        295
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d11-01",
+      "taskId": "d11-listening-01",
+      "dayNumber": 11,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 3: Nghe hiểu khái quát, Bài 3 & 4",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [
+        3
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Tập phân biệt dạng câu hỏi: \"Bản tin này nói về điều gì?\" và \"Ý kiến chính của người nói là gì?\"."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 3: Nghe hiểu khái quát, Bài 3 & 4)**:\n  - Tập phân biệt dạng câu hỏi: \"Bản tin này nói về điều gì?\" và \"Ý kiến chính của người nói là gì?\".",
+      "sourceLines": [
+        318,
+        319
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d12-01",
+      "taskId": "d12-listening-01",
+      "dayNumber": 12,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 4 & 5, Tổng hợp câu bẫy",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": "30 câu",
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Luyện 30 câu phản xạ Mondai 5 liên tục để tăng độ nhạy tai."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Luyện Mondai 4 & 5, Tổng hợp câu bẫy)**:\n  - Luyện 30 câu phản xạ Mondai 5 liên tục để tăng độ nhạy tai.",
+      "sourceLines": [
+        344,
+        345
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d13-01",
+      "taskId": "d13-listening-01",
+      "dayNumber": 13,
+      "taskType": "learning",
+      "title": "Nghe hiểu — Luyện Mondai 1 & 2, Đề luyện số 3",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [
+        1,
+        2
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [
+        "ただし",
+        "～を除いて",
+        "～に限る"
+      ],
+      "instructions": [
+        "Chú ý các câu có điều kiện ngoại lệ trong bài nghe: `ただし` (tuy nhiên/có điều là), `～を除いて` (ngoại trừ), `～に限る` (chỉ giới hạn ở)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 1 & 2, Đề luyện số 3)**:\n  - Chú ý các câu có điều kiện ngoại lệ trong bài nghe: `ただし` (tuy nhiên/có điều là), `～を除いて` (ngoại trừ), `～に限る` (chỉ giới hạn ở).",
+      "sourceLines": [
+        365,
+        366
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d14-01",
+      "taskId": "d14-listening-01",
+      "dayNumber": 14,
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 1",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [],
+      "target": null,
+      "timeLimitMinutes": 40,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Bấm giờ 40 phút làm trọn 1 đề Nghe hiểu hoàn chỉnh."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Làm Đề thi thử Nghe hiểu số 1)**:\n  - Bấm giờ 40 phút làm trọn 1 đề Nghe hiểu hoàn chỉnh.",
+      "sourceLines": [
+        388,
+        389
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d15-01",
+      "taskId": "d15-listening-01",
+      "dayNumber": 15,
+      "taskType": "error_review",
+      "title": "Nghe hiểu — Chữa chi tiết Đề thi thử số 1",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Nghe lại các câu sai trong Đề 1 hôm qua, tra từ mới và nhại lại câu thoại quyết định đáp án."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Chữa chi tiết Đề thi thử số 1)**:\n  - Nghe lại các câu sai trong Đề 1 hôm qua, tra từ mới và nhại lại câu thoại quyết định đáp án.",
+      "sourceLines": [
+        409,
+        410
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d16-01",
+      "taskId": "d16-listening-01",
+      "dayNumber": 16,
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 1 trong Speed Master",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Làm trọn đề thi thử Nghe hiểu trong sách Speed Master (trang cuối)."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Làm Đề thi thử Nghe hiểu số 1 trong Speed Master)**:\n  - Làm trọn đề thi thử Nghe hiểu trong sách Speed Master (trang cuối).",
+      "sourceLines": [
+        433,
+        434
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d17-01",
+      "taskId": "d17-listening-01",
+      "dayNumber": 17,
+      "taskType": "error_review",
+      "title": "Nghe hiểu — Chữa chi tiết Đề thi thử số 1",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "mondai": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Phân tích lỗi sai từng Mondai, ghi lại các cụm từ đồng nghĩa giữa băng nghe và đáp án in trên giấy."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Chữa chi tiết Đề thi thử số 1)**:\n  - Phân tích lỗi sai từng Mondai, ghi lại các cụm từ đồng nghĩa giữa băng nghe và đáp án in trên giấy.",
+      "sourceLines": [
+        468,
+        469
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d18-01",
+      "taskId": "d18-listening-01",
+      "dayNumber": 18,
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "mondai": [],
+      "target": null,
+      "timeLimitMinutes": 40,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [
+        "Bấm giờ 40 phút làm trọn Đề thi thử số 2 cuối sách Mimi kara Choukai."
+      ],
+      "originalText": "- **5. Nghe hiểu (*Mimi kara Oboeru N3 Choukai* — Làm Đề thi thử Nghe hiểu số 2)**:\n  - Bấm giờ 40 phút làm trọn Đề thi thử số 2 cuối sách Mimi kara Choukai.",
+      "sourceLines": [
+        487,
+        488
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d20-01",
+      "taskId": "d20-listening-01",
+      "dayNumber": 20,
+      "taskType": "revision",
+      "title": "Nghe hiểu",
+      "textbookIds": [],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [
+        "1.1x",
+        "1.25x"
+      ],
+      "focusExpressions": [],
+      "instructions": [
+        "Nghe lại (tốc độ 1.1x hoặc 1.25x) phần Mondai 4 & Mondai 5 của Đề thi thử số 1 để luyện phản xạ tức thì."
+      ],
+      "originalText": "- **5. Nghe hiểu**:\n  - Nghe lại (tốc độ 1.1x hoặc 1.25x) phần Mondai 4 & Mondai 5 của Đề thi thử số 1 để luyện phản xạ tức thì.",
+      "sourceLines": [
+        518,
+        519
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d22-01",
+      "taskId": "d22-listening-01",
+      "dayNumber": 22,
+      "taskType": "revision",
+      "title": "Nghe hiểu — 20 câu Mondai 4 & 5 chuyên về Kính ngữ và Cho nhận",
+      "textbookIds": [],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": "20 câu",
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [],
+      "originalText": "- **4. Đọc hiểu & Nghe hiểu**:\n  - Nghe luyện 20 câu Mondai 4 & 5 chuyên về Kính ngữ và Cho nhận.",
+      "sourceLines": [
+        554,
+        556
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    },
+    {
+      "id": "ls-d25-01",
+      "taskId": "d25-listening-01",
+      "dayNumber": 25,
+      "taskType": "revision",
+      "title": "Buổi chiều — Nghe nhẹ nhàng 15 phút Mondai 4 & Mondai 5",
+      "textbookIds": [],
+      "mondai": [
+        4,
+        5
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "playbackSpeeds": [],
+      "focusExpressions": [],
+      "instructions": [],
+      "originalText": "- **2. Buổi chiều (45 phút) — Quét nhanh Kanji & Làm nóng tai nghe**:\n  - Nghe nhẹ nhàng 15 phút phần **Mondai 4 & Mondai 5** (không cần làm đề nặng, chỉ để tai quen tốc độ tiếng Nhật trước ngày thi).",
+      "sourceLines": [
+        591,
+        593
+      ],
+      "audioStatus": "not_included",
+      "transcriptStatus": "not_included",
+      "contentNote": "Audio/script thuộc giáo trình — người học tự tải lên. Ứng dụng không tạo audio giả."
+    }
+  ],
+  "focusTopics": [
+    {
+      "key": "immediate_response",
+      "labelVi": "Phản xạ tức thì (Mondai 5)",
+      "dayNumbers": [
+        2,
+        12
+      ],
+      "assignmentIds": [
+        "ls-d02-01",
+        "ls-d12-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "requests_permissions",
+      "labelVi": "Xin phép / Nhờ vả / Đề nghị",
+      "dayNumbers": [
+        1
+      ],
+      "assignmentIds": [
+        "ls-d01-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "honorifics",
+      "labelVi": "Kính ngữ & Khiêm nhường ngữ",
+      "dayNumbers": [
+        6,
+        22
+      ],
+      "assignmentIds": [
+        "ls-d06-01",
+        "ls-d22-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "giving_receiving",
+      "labelVi": "Cho nhận (ていただく・てもらう…)",
+      "dayNumbers": [
+        9,
+        22
+      ],
+      "assignmentIds": [
+        "ls-d09-01",
+        "ls-d22-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "speaker_intention",
+      "labelVi": "Ý chính / Ý kiến người nói",
+      "dayNumbers": [
+        5,
+        11
+      ],
+      "assignmentIds": [
+        "ls-d05-01",
+        "ls-d11-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "decision_changes",
+      "labelVi": "Từ đổi ý (やっぱり・じゃなくて・まず・後で)",
+      "dayNumbers": [
+        3
+      ],
+      "assignmentIds": [
+        "ls-d03-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "reasons_actions",
+      "labelVi": "Nghe bắt hành động & lý do (Mondai 1 & 2)",
+      "dayNumbers": [
+        3,
+        4
+      ],
+      "assignmentIds": [
+        "ls-d03-01",
+        "ls-d04-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    },
+    {
+      "key": "exceptions_conditions",
+      "labelVi": "Điều kiện ngoại lệ (ただし・～を除いて・～に限る)",
+      "dayNumbers": [
+        13
+      ],
+      "assignmentIds": [
+        "ls-d13-01"
+      ],
+      "classification": "derived_from_source_focus_text"
+    }
+  ],
+  "speedTraining": {
+    "allowedSpeeds": [
+      1.0,
+      1.1,
+      1.25
+    ],
+    "assigned": [
+      {
+        "dayNumber": 20,
+        "assignmentId": "ls-d20-01",
+        "speeds": [
+          "1.1x",
+          "1.25x"
+        ]
+      }
+    ]
+  },
+  "extractionStatus": {
+    "status": "complete_for_schedule",
+    "missing": [
+      "file audio",
+      "script",
+      "câu hỏi/đáp án"
+    ],
+    "explanation": "Lịch, Mondai, mục tiêu số câu và biểu hiện trọng tâm đầy đủ. Audio phải do người học tải lên."
+  },
+  "importTemplate": {
+    "format": "json",
+    "fields": [
+      "id",
+      "source",
+      "textbookId",
+      "mondai",
+      "audioFile",
+      "transcript",
+      "question",
+      "choices",
+      "answerIndex",
+      "explanation",
+      "keyExpressions"
+    ]
+  }
+}

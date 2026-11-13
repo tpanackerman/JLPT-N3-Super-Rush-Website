@@ -1,0 +1,1461 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "Lộ trình ôn JLPT N3 cấp tốc 25 ngày (10_11 - 04_12).md",
+    "sha256": "039e186797f3b1325cc7f9e443769e76cec9c94c6409ca7960d82db37f43d0aa",
+    "lineCount": 605
+  },
+  "textbooks": [
+    {
+      "id": "shinkanzen_dokkai",
+      "titleJa": "新完全マスター N3 読解",
+      "titleRomaji": "Shinkanzen Master N3 Dokkai",
+      "skill": "reading"
+    },
+    {
+      "id": "speed_dokkai",
+      "titleJa": "スピードマスター N3 読解",
+      "titleRomaji": "Speed Master N3 Dokkai",
+      "skill": "reading"
+    }
+  ],
+  "phasePlan": {
+    "declaredInSectionI": [
+      {
+        "days": "1–8",
+        "book": "shinkanzen_dokkai",
+        "parts": "Phần 1 & 2",
+        "sourceLine": 22
+      },
+      {
+        "days": "9–22",
+        "book": "speed_dokkai",
+        "parts": "Phần 2 & 3",
+        "sourceLine": 23
+      }
+    ],
+    "actualSchedule": [
+      {
+        "days": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "book": "shinkanzen_dokkai"
+      },
+      {
+        "days": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20
+        ],
+        "book": "speed_dokkai"
+      }
+    ]
+  },
+  "passageTypes": [
+    {
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "exercises": "1–20"
+    },
+    {
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Đoạn trung",
+      "exercises": "21–32"
+    },
+    {
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Đoạn dài",
+      "exercises": "33–38"
+    },
+    {
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "exercises": "39–45"
+    }
+  ],
+  "passageTypesSourceLine": 23,
+  "assignments": [
+    {
+      "id": "rd-d01-01",
+      "taskId": "d01-reading-01",
+      "dayNumber": 1,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 1, Bài 1: trang 6–11",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 1,
+        "lesson": 1,
+        "topic": null,
+        "pageRange": "6–11"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "6–11",
+        "8–11"
+      ],
+      "timeGuidance": [],
+      "target": "4 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Nội dung: Cách tìm Chủ ngữ (主語) bị lược bỏ trong câu tiếng Nhật & phân biệt tác giả làm hay người khác làm (dựa vào `～てくれる`, `～てもらう`, kính ngữ, khiêm nhường ngữ). Làm 4 bài luyện ngắn trang 8–11."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 1, Bài 1: trang 6–11)**:\n  - **Nội dung**: Cách tìm Chủ ngữ (主語) bị lược bỏ trong câu tiếng Nhật & phân biệt tác giả làm hay người khác làm (dựa vào `～てくれる`, `～てもらう`, kính ngữ, khiêm nhường ngữ). Làm 4 bài luyện ngắn trang 8–11.",
+      "sourceLines": [
+        65,
+        66
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d02-01",
+      "taskId": "d02-reading-01",
+      "dayNumber": 2,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 1, Bài 2: trang 12–17",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 1,
+        "lesson": 2,
+        "topic": null,
+        "pageRange": "12–17"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "12–17",
+        "14–17"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Nội dung: Cách dịch câu có mệnh đề bổ nghĩa danh từ dài (`[Mệnh đề bổ nghĩa] + Danh từ`). Tập tìm động từ chính ở cuối câu trước, sau đó dịch ngược từ danh từ chính. Làm bài tập trang 14–17."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 1, Bài 2: trang 12–17)**:\n  - **Nội dung**: Cách dịch câu có mệnh đề bổ nghĩa danh từ dài (`[Mệnh đề bổ nghĩa] + Danh từ`). Tập tìm động từ chính ở cuối câu trước, sau đó dịch ngược từ danh từ chính. Làm bài tập trang 14–17.",
+      "sourceLines": [
+        89,
+        90
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d03-01",
+      "taskId": "d03-reading-01",
+      "dayNumber": 3,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 1, Bài 3: trang 18–23",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 1,
+        "lesson": 3,
+        "topic": null,
+        "pageRange": "18–23"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "18–23"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Nội dung: Cách xác định Từ chỉ thị (`これ・それ・あれ・この・その・あの・こう・そう`). Quy tắc vàng: đáp án luôn nằm ở ngay câu đứng trước từ chỉ thị `それ/その/そう`."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 1, Bài 3: trang 18–23)**:\n  - **Nội dung**: Cách xác định Từ chỉ thị (`これ・それ・あれ・この・その・あの・こう・そう`). Quy tắc vàng: đáp án luôn nằm ở ngay câu đứng trước từ chỉ thị `それ/その/そう`.",
+      "sourceLines": [
+        112,
+        113
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d04-01",
+      "taskId": "d04-reading-01",
+      "dayNumber": 4,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 1, Bài 4: trang 24–29",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 1,
+        "lesson": 4,
+        "topic": null,
+        "pageRange": "24–29"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "24–29"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Nội dung: Hệ thống Từ nối (接続詞) quyết định mạch logic bài đọc:",
+        "Chuyển ý/Ngược lại: `しかし・ところが・それなのに・もっとも・ただ`.",
+        "Giải thích/Tóm lại: `つまり・すなわち・要するに・というのは`.",
+        "Bổ sung: `しかも・さらに・そのうえ・また`."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 1, Bài 4: trang 24–29)**:\n  - **Nội dung**: Hệ thống Từ nối (接続詞) quyết định mạch logic bài đọc:\n    - Chuyển ý/Ngược lại: `しかし・ところが・それなのに・もっとも・ただ`.\n    - Giải thích/Tóm lại: `つまり・すなわち・要するに・というのは`.\n    - Bổ sung: `しかも・さらに・そのうえ・また`.",
+      "sourceLines": [
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d05-01",
+      "taskId": "d05-reading-01",
+      "dayNumber": 5,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 1, Bài 5: trang 30–37",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 1,
+        "lesson": 5,
+        "topic": null,
+        "pageRange": "30–37"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "30–37"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Nội dung: Các cách diễn đạt ẩn ý, phủ định kép (`～ないわけではない`, `～ないことはない`, `～とは限らない`) và câu hỏi tu từ (`～だろうか` = tác giả phủ định ngầm)."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 1, Bài 5: trang 30–37)**:\n  - **Nội dung**: Các cách diễn đạt ẩn ý, phủ định kép (`～ないわけではない`, `～ないことはない`, `～とは限らない`) và câu hỏi tu từ (`～だろうか` = tác giả phủ định ngầm).",
+      "sourceLines": [
+        166,
+        167
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d06-01",
+      "taskId": "d06-reading-01",
+      "dayNumber": 6,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 2: Đọc Thư từ, Email & Thông báo - trang 40–51",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 2,
+        "lesson": null,
+        "topic": "Đọc Thư từ, Email & Thông báo",
+        "pageRange": "40–51"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "40–51"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm toàn bộ phần Email công việc & Thông báo (お知らせ). Học cách quét nhanh: Người gửi, Người nhận, Mục đích email (nhờ vả, xin lỗi, đổi lịch) và Thời hạn/Điều kiện."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 2: Đọc Thư từ, Email & Thông báo - trang 40–51)**:\n  - Làm toàn bộ phần Email công việc & Thông báo (お知らせ). Học cách quét nhanh: Người gửi, Người nhận, Mục đích email (nhờ vả, xin lỗi, đổi lịch) và Thời hạn/Điều kiện.",
+      "sourceLines": [
+        189,
+        190
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d07-01",
+      "taskId": "d07-reading-01",
+      "dayNumber": 7,
+      "taskType": "learning",
+      "title": "Đọc hiểu — Phần 2: Đọc Văn giải thích & Nghị luận - trang 52–65",
+      "textbookIds": [
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": {
+        "part": 2,
+        "lesson": null,
+        "topic": "Đọc Văn giải thích & Nghị luận",
+        "pageRange": "52–65"
+      },
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [
+        "52–65"
+      ],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Học cách tìm câu Chủ đề (Topic sentence) của đoạn văn giải thích (説明文) và bài viết nêu quan điểm (意見文). Chú ý các đuôi câu thể hiện ý kiến tác giả: `～のではないだろうか`, `～と考えられる`, `～べきだ`, `～必要がある`."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Shinkanzen Master N3 Dokkai* — Phần 2: Đọc Văn giải thích & Nghị luận - trang 52–65)**:\n  - Học cách tìm câu Chủ đề (Topic sentence) của đoạn văn giải thích (説明文) và bài viết nêu quan điểm (意見文). Chú ý các đuôi câu thể hiện ý kiến tác giả: `～のではないだろうか`, `～と考えられる`, `～べきだ`, `～必要がある`.",
+      "sourceLines": [
+        212,
+        213
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d08-01",
+      "taskId": "d08-reading-01",
+      "dayNumber": 8,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 1: Khởi động Bài 1–5 & Phần 2: Đoạn ngắn Bài 1–3",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "warmup",
+          "typeJa": "ウォーミングアップ",
+          "labelVi": "Khởi động",
+          "from": 1,
+          "to": 5
+        },
+        {
+          "type": "short",
+          "typeJa": "短文",
+          "labelVi": "Đoạn ngắn",
+          "from": 1,
+          "to": 3
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [
+        "tối đa 3 phút/bài"
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Chuyển sang sách Speed Master Dokkai: Làm nhanh Phần 1 (ウォーミングアップ) để quen nhịp và làm Bài 1, 2, 3 phần Đoạn văn ngắn (短文) (bấm giờ tối đa 3 phút/bài)."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 1: Khởi động Bài 1–5 & Phần 2: Đoạn ngắn Bài 1–3)**:\n  - Chuyển sang sách **Speed Master Dokkai**: Làm nhanh Phần 1 (ウォーミングアップ) để quen nhịp và làm **Bài 1, 2, 3 phần Đoạn văn ngắn (短文)** (bấm giờ tối đa 3 phút/bài).",
+      "sourceLines": [
+        242,
+        243
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d09-01",
+      "taskId": "d09-reading-01",
+      "dayNumber": 9,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Đoạn ngắn Bài 4 – 8",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "short",
+          "typeJa": "短文",
+          "labelVi": "Đoạn ngắn",
+          "from": 4,
+          "to": 8
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": "5 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm 5 bài Đoạn văn ngắn (短文 - Bài 4, 5, 6, 7, 8). Rèn kỹ năng: đọc câu hỏi trước → tìm câu chứa từ khóa trong đoạn → đối chiếu câu văn được viết lại bằng từ đồng nghĩa (Paraphrase) ở 4 đáp án."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Đoạn ngắn Bài 4 – 8)**:\n  - Làm 5 bài Đoạn văn ngắn (短文 - Bài 4, 5, 6, 7, 8). Rèn kỹ năng: đọc câu hỏi trước $\\rightarrow$ tìm câu chứa từ khóa trong đoạn $\\rightarrow$ đối chiếu câu văn được viết lại bằng từ đồng nghĩa (Paraphrase) ở 4 đáp án.",
+      "sourceLines": [
+        269,
+        270
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d10-01",
+      "taskId": "d10-reading-01",
+      "dayNumber": 10,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Đoạn ngắn Bài 9 – 14",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "short",
+          "typeJa": "短文",
+          "labelVi": "Đoạn ngắn",
+          "from": 9,
+          "to": 14
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": "6 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm 6 bài Đoạn văn ngắn (短文 - Bài 9 đến 14). Rà soát kỹ các câu hỏi dạng \"Tại sao tác giả lại nghĩ như vậy?\" và \"Điểm nào đúng với nội dung bài?\"."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Đoạn ngắn Bài 9 – 14)**:\n  - Làm 6 bài Đoạn văn ngắn (短文 - Bài 9 đến 14). Rà soát kỹ các câu hỏi dạng \"Tại sao tác giả lại nghĩ như vậy?\" và \"Điểm nào đúng với nội dung bài?\".",
+      "sourceLines": [
+        292,
+        293
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d11-01",
+      "taskId": "d11-reading-01",
+      "dayNumber": 11,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Đoạn ngắn Bài 15 – 20",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "short",
+          "typeJa": "短文",
+          "labelVi": "Đoạn ngắn",
+          "from": 15,
+          "to": 20
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [
+        "2.5 – 3 phút"
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Hoàn thành toàn bộ 20 bài Đoạn văn ngắn (短文 - Bài 15 đến 20). Tổng kết thời gian trung bình: mỗi câu Đoạn ngắn trong phòng thi chỉ được làm trong 2.5 – 3 phút."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Đoạn ngắn Bài 15 – 20)**:\n  - Hoàn thành toàn bộ 20 bài Đoạn văn ngắn (短文 - Bài 15 đến 20). Tổng kết thời gian trung bình: mỗi câu Đoạn ngắn trong phòng thi chỉ được làm trong **2.5 – 3 phút**.",
+      "sourceLines": [
+        316,
+        317
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d12-01",
+      "taskId": "d12-reading-01",
+      "dayNumber": 12,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Trung văn Bài 21 – 24",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "medium",
+          "typeJa": "中文",
+          "labelVi": "Trung văn",
+          "from": 21,
+          "to": 24
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [
+        "7–8 phút/bài"
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Bắt đầu phần Đoạn văn trung bình (中文 - Chuubun, Bài 21, 22, 23, 24). Mỗi bài có 3 câu hỏi, tương ứng với 3 đoạn trong bài đọc (Câu 1 nằm ở đoạn 1, Câu 2 nằm ở đoạn 2, Câu 3 hỏi toàn bài). Bấm giờ: 7–8 phút/bài."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Trung văn Bài 21 – 24)**:\n  - Bắt đầu phần **Đoạn văn trung bình (中文 - Chuubun, Bài 21, 22, 23, 24)**. Mỗi bài có 3 câu hỏi, tương ứng với 3 đoạn trong bài đọc (Câu 1 nằm ở đoạn 1, Câu 2 nằm ở đoạn 2, Câu 3 hỏi toàn bài). Bấm giờ: **7–8 phút/bài**.",
+      "sourceLines": [
+        342,
+        343
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d13-01",
+      "taskId": "d13-reading-01",
+      "dayNumber": 13,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Trung văn Bài 25 – 28",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "medium",
+          "typeJa": "中文",
+          "labelVi": "Trung văn",
+          "from": 25,
+          "to": 28
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": "4 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm 4 bài Đoạn văn trung bình (中文 - Bài 25, 26, 27, 28). Chú ý dạng câu hỏi gạch chân `「……」とあるが、どういうことか` (Giải nghĩa câu gạch chân): chỉ cần tìm câu ngay trước và ngay sau câu gạch chân để ghép nghĩa."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Trung văn Bài 25 – 28)**:\n  - Làm 4 bài Đoạn văn trung bình (中文 - Bài 25, 26, 27, 28). Chú ý dạng câu hỏi gạch chân `「……」とあるが、どういうことか` (Giải nghĩa câu gạch chân): chỉ cần tìm câu ngay trước và ngay sau câu gạch chân để ghép nghĩa.",
+      "sourceLines": [
+        363,
+        364
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d14-01",
+      "taskId": "d14-reading-01",
+      "dayNumber": 14,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Trung văn Bài 29 – 32",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "medium",
+          "typeJa": "中文",
+          "labelVi": "Trung văn",
+          "from": 29,
+          "to": 32
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Hoàn thành toàn bộ phần Đoạn văn trung bình (中文 - Bài 29, 30, 31, 32)."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Trung văn Bài 29 – 32)**:\n  - Hoàn thành toàn bộ phần **Đoạn văn trung bình (中文 - Bài 29, 30, 31, 32)**.",
+      "sourceLines": [
+        386,
+        387
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d15-01",
+      "taskId": "d15-reading-01",
+      "dayNumber": 15,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Trường văn Bài 33 – 35",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "long",
+          "typeJa": "長文",
+          "labelVi": "Trường văn",
+          "from": 33,
+          "to": 35
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": "3 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm 3 bài Đoạn văn dài (長文 - Choubun, Bài 33, 34, 35). Mỗi bài có 4 câu hỏi (mỗi câu 4 điểm — điểm rất lớn!). Mẹo làm bài: Đọc câu hỏi 1 → đọc 1/4 đầu bài để trả lời ngay → đọc câu hỏi 2 → đọc tiếp đoạn 2. Không đọc hết cả trang dài rồi mới nhìn câu hỏi!"
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Trường văn Bài 33 – 35)**:\n  - Làm 3 bài **Đoạn văn dài (長文 - Choubun, Bài 33, 34, 35)**. Mỗi bài có 4 câu hỏi (mỗi câu 4 điểm — điểm rất lớn!). Mẹo làm bài: Đọc câu hỏi 1 $\\rightarrow$ đọc 1/4 đầu bài để trả lời ngay $\\rightarrow$ đọc câu hỏi 2 $\\rightarrow$ đọc tiếp đoạn 2. Không đọc hết cả trang dài rồi mới nhìn câu hỏi!",
+      "sourceLines": [
+        407,
+        408
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d16-01",
+      "taskId": "d16-reading-01",
+      "dayNumber": 16,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Trường văn Bài 36 – 38",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "long",
+          "typeJa": "長文",
+          "labelVi": "Trường văn",
+          "from": 36,
+          "to": 38
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [
+        "12–14 phút/bài"
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Hoàn thành toàn bộ phần Đoạn văn dài (長文 - Bài 36, 37, 38). Bấm giờ: 12–14 phút/bài."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Trường văn Bài 36 – 38)**:\n  - Hoàn thành toàn bộ phần **Đoạn văn dài (長文 - Bài 36, 37, 38)**. Bấm giờ: **12–14 phút/bài**.",
+      "sourceLines": [
+        431,
+        432
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d17-01",
+      "taskId": "d17-reading-01",
+      "dayNumber": 17,
+      "taskType": "timed_practice",
+      "title": "Đọc hiểu — Phần 2: Tìm kiếm thông tin Bài 39 – 45",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [
+        {
+          "type": "info_retrieval",
+          "typeJa": "情報検索",
+          "labelVi": "Tìm kiếm thông tin",
+          "from": 39,
+          "to": 45
+        }
+      ],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": "7 bài",
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm trọn vẹn 7 bài Tìm kiếm thông tin (情報検索 - Bài 39 đến 45).",
+        "Chiến thuật ăn trọn 100% điểm bài này (làm ĐẦU TIÊN khi phát đề Đọc hiểu!):",
+        "Đọc câu hỏi xem nhân vật cần điều kiện gì (Ví dụ: Đi vào thứ Tư, ngân sách dưới 3000 yên, là sinh viên).",
+        "Đối chiếu lên bảng giá/lịch trình loại trừ từng phương án.",
+        "Bắt buộc nhìn xuống phần dấu hoa thị chú thích (`※` / `注`) ở cuối bảng vì đáp án bẫy luôn nằm ở dòng chú thích cuối cùng!"
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 2: Tìm kiếm thông tin Bài 39 – 45)**:\n  - Làm trọn vẹn 7 bài **Tìm kiếm thông tin (情報検索 - Bài 39 đến 45)**.\n  - *Chiến thuật ăn trọn 100% điểm bài này (làm ĐẦU TIÊN khi phát đề Đọc hiểu!)*:\n    1. Đọc câu hỏi xem nhân vật cần điều kiện gì (Ví dụ: Đi vào thứ Tư, ngân sách dưới 3000 yên, là sinh viên).\n    2. Đối chiếu lên bảng giá/lịch trình loại trừ từng phương án.\n    3. **Bắt buộc nhìn xuống phần dấu hoa thị chú thích (`※` / `注`) ở cuối bảng** vì đáp án bẫy luôn nằm ở dòng chú thích cuối cùng!",
+      "sourceLines": [
+        462,
+        463,
+        464,
+        465,
+        466,
+        467
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d18-01",
+      "taskId": "d18-reading-01",
+      "dayNumber": 18,
+      "taskType": "mock_exam",
+      "title": "Đọc hiểu — Phần 3: Đề thi thử Đọc hiểu số 1 & số 2",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [
+        1
+      ],
+      "pageRanges": [],
+      "timeGuidance": [
+        "50 phút/đề",
+        "7–8 phút",
+        "10–12 phút",
+        "15 phút"
+      ],
+      "target": null,
+      "timeLimitMinutes": 50,
+      "instructions": [
+        "Bấm giờ nghiêm ngặt 50 phút/đề làm 模擬試験 1 (Đề thi thử 1) và chữa kỹ.",
+        "Thứ tự làm bài Đọc hiểu chuẩn trong phòng thi:",
+        "Mondai 7 (Tìm kiếm thông tin - Bài cuối cùng): Làm mất 7–8 phút → chắc chắn 100% ăn điểm.",
+        "Mondai 4 (Đoạn ngắn - 4 bài): Làm mất 10–12 phút.",
+        "Mondai 5 (Đoạn trung - 2 bài): Làm mất 15 phút.",
+        "Mondai 6 (Đoạn dài - 1 bài): Làm mất 15 phút cuối."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 3: Đề thi thử Đọc hiểu số 1 & số 2)**:\n  - Bấm giờ nghiêm ngặt **50 phút/đề** làm **模擬試験 1 (Đề thi thử 1)** và chữa kỹ.\n  - Thứ tự làm bài Đọc hiểu chuẩn trong phòng thi:\n    1. **Mondai 7 (Tìm kiếm thông tin - Bài cuối cùng)**: Làm mất 7–8 phút $\\rightarrow$ chắc chắn 100% ăn điểm.\n    2. **Mondai 4 (Đoạn ngắn - 4 bài)**: Làm mất 10–12 phút.\n    3. **Mondai 5 (Đoạn trung - 2 bài)**: Làm mất 15 phút.\n    4. **Mondai 6 (Đoạn dài - 1 bài)**: Làm mất 15 phút cuối.",
+      "sourceLines": [
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d20-01",
+      "taskId": "d20-reading-01",
+      "dayNumber": 20,
+      "taskType": "mock_exam",
+      "title": "Đọc hiểu — Phần 3: Đề thi thử Đọc hiểu số 2 & Shinkanzen Master Đề tổng hợp",
+      "textbookIds": [
+        "speed_dokkai",
+        "shinkanzen_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [
+        2
+      ],
+      "pageRanges": [],
+      "timeGuidance": [
+        "50 phút"
+      ],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [
+        "Làm 模擬試験 2 (Đề thi thử 2) trong Speed Master Dokkai (50 phút)."
+      ],
+      "originalText": "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 3: Đề thi thử Đọc hiểu số 2 & *Shinkanzen Master* Đề tổng hợp)**:\n  - Làm **模擬試験 2 (Đề thi thử 2)** trong *Speed Master Dokkai* (50 phút).",
+      "sourceLines": [
+        516,
+        517
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    },
+    {
+      "id": "rd-d22-01",
+      "taskId": "d22-reading-01",
+      "dayNumber": 22,
+      "taskType": "error_review",
+      "title": "Đọc hiểu — Làm lại các bài đã từng làm sai (Shinkanzen Master & Speed Master)",
+      "textbookIds": [
+        "shinkanzen_dokkai",
+        "speed_dokkai"
+      ],
+      "shinkanzen": null,
+      "speedMasterRanges": [],
+      "speedMasterMockNumbers": [],
+      "pageRanges": [],
+      "timeGuidance": [],
+      "target": null,
+      "timeLimitMinutes": null,
+      "instructions": [],
+      "originalText": "- **4. Đọc hiểu & Nghe hiểu**:\n  - Làm lại các bài Đọc hiểu đã từng làm sai trong *Shinkanzen Master* và *Speed Master*.",
+      "sourceLines": [
+        554,
+        555
+      ],
+      "contentStatus": "passages_not_included",
+      "contentNote": "Bài đọc/câu hỏi thuộc bản quyền giáo trình — người học tự nhập (import) nội dung."
+    }
+  ],
+  "speedMasterCatalog": [
+    {
+      "id": "SM-warmup-1",
+      "number": 1,
+      "type": "warmup",
+      "typeJa": "ウォーミングアップ",
+      "labelVi": "Khởi động",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-warmup-2",
+      "number": 2,
+      "type": "warmup",
+      "typeJa": "ウォーミングアップ",
+      "labelVi": "Khởi động",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-warmup-3",
+      "number": 3,
+      "type": "warmup",
+      "typeJa": "ウォーミングアップ",
+      "labelVi": "Khởi động",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-warmup-4",
+      "number": 4,
+      "type": "warmup",
+      "typeJa": "ウォーミングアップ",
+      "labelVi": "Khởi động",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-warmup-5",
+      "number": 5,
+      "type": "warmup",
+      "typeJa": "ウォーミングアップ",
+      "labelVi": "Khởi động",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-1",
+      "number": 1,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-2",
+      "number": 2,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-3",
+      "number": 3,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 8,
+      "taskId": "d08-reading-01"
+    },
+    {
+      "id": "SM-4",
+      "number": 4,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 9,
+      "taskId": "d09-reading-01"
+    },
+    {
+      "id": "SM-5",
+      "number": 5,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 9,
+      "taskId": "d09-reading-01"
+    },
+    {
+      "id": "SM-6",
+      "number": 6,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 9,
+      "taskId": "d09-reading-01"
+    },
+    {
+      "id": "SM-7",
+      "number": 7,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 9,
+      "taskId": "d09-reading-01"
+    },
+    {
+      "id": "SM-8",
+      "number": 8,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 9,
+      "taskId": "d09-reading-01"
+    },
+    {
+      "id": "SM-9",
+      "number": 9,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-10",
+      "number": 10,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-11",
+      "number": 11,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-12",
+      "number": 12,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-13",
+      "number": 13,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-14",
+      "number": 14,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 10,
+      "taskId": "d10-reading-01"
+    },
+    {
+      "id": "SM-15",
+      "number": 15,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-16",
+      "number": 16,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-17",
+      "number": 17,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-18",
+      "number": 18,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-19",
+      "number": 19,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-20",
+      "number": 20,
+      "type": "short",
+      "typeJa": "短文",
+      "labelVi": "Đoạn ngắn",
+      "dayNumber": 11,
+      "taskId": "d11-reading-01"
+    },
+    {
+      "id": "SM-21",
+      "number": 21,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 12,
+      "taskId": "d12-reading-01"
+    },
+    {
+      "id": "SM-22",
+      "number": 22,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 12,
+      "taskId": "d12-reading-01"
+    },
+    {
+      "id": "SM-23",
+      "number": 23,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 12,
+      "taskId": "d12-reading-01"
+    },
+    {
+      "id": "SM-24",
+      "number": 24,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 12,
+      "taskId": "d12-reading-01"
+    },
+    {
+      "id": "SM-25",
+      "number": 25,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 13,
+      "taskId": "d13-reading-01"
+    },
+    {
+      "id": "SM-26",
+      "number": 26,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 13,
+      "taskId": "d13-reading-01"
+    },
+    {
+      "id": "SM-27",
+      "number": 27,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 13,
+      "taskId": "d13-reading-01"
+    },
+    {
+      "id": "SM-28",
+      "number": 28,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 13,
+      "taskId": "d13-reading-01"
+    },
+    {
+      "id": "SM-29",
+      "number": 29,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 14,
+      "taskId": "d14-reading-01"
+    },
+    {
+      "id": "SM-30",
+      "number": 30,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 14,
+      "taskId": "d14-reading-01"
+    },
+    {
+      "id": "SM-31",
+      "number": 31,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 14,
+      "taskId": "d14-reading-01"
+    },
+    {
+      "id": "SM-32",
+      "number": 32,
+      "type": "medium",
+      "typeJa": "中文",
+      "labelVi": "Trung văn",
+      "dayNumber": 14,
+      "taskId": "d14-reading-01"
+    },
+    {
+      "id": "SM-33",
+      "number": 33,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 15,
+      "taskId": "d15-reading-01"
+    },
+    {
+      "id": "SM-34",
+      "number": 34,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 15,
+      "taskId": "d15-reading-01"
+    },
+    {
+      "id": "SM-35",
+      "number": 35,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 15,
+      "taskId": "d15-reading-01"
+    },
+    {
+      "id": "SM-36",
+      "number": 36,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 16,
+      "taskId": "d16-reading-01"
+    },
+    {
+      "id": "SM-37",
+      "number": 37,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 16,
+      "taskId": "d16-reading-01"
+    },
+    {
+      "id": "SM-38",
+      "number": 38,
+      "type": "long",
+      "typeJa": "長文",
+      "labelVi": "Trường văn",
+      "dayNumber": 16,
+      "taskId": "d16-reading-01"
+    },
+    {
+      "id": "SM-39",
+      "number": 39,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-40",
+      "number": 40,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-41",
+      "number": 41,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-42",
+      "number": 42,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-43",
+      "number": 43,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-44",
+      "number": 44,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    },
+    {
+      "id": "SM-45",
+      "number": 45,
+      "type": "info_retrieval",
+      "typeJa": "情報検索",
+      "labelVi": "Tìm kiếm thông tin",
+      "dayNumber": 17,
+      "taskId": "d17-reading-01"
+    }
+  ],
+  "strategies": [
+    {
+      "id": "rs-hidden-subject",
+      "titleVi": "Tìm chủ ngữ bị ẩn",
+      "dayNumber": 1,
+      "sourceLines": [
+        66
+      ],
+      "text": "- Nội dung: Cách tìm Chủ ngữ (主語) bị lược bỏ trong câu tiếng Nhật & phân biệt tác giả làm hay người khác làm (dựa vào `～てくれる`, `～てもらう`, kính ngữ, khiêm nhường ngữ). Làm 4 bài luyện ngắn trang 8–11."
+    },
+    {
+      "id": "rs-main-verb-noun-clause",
+      "titleVi": "Tìm động từ chính & dịch mệnh đề bổ nghĩa danh từ dài",
+      "dayNumber": 2,
+      "sourceLines": [
+        90
+      ],
+      "text": "- Nội dung: Cách dịch câu có mệnh đề bổ nghĩa danh từ dài (`[Mệnh đề bổ nghĩa] + Danh từ`). Tập tìm động từ chính ở cuối câu trước, sau đó dịch ngược từ danh từ chính. Làm bài tập trang 14–17."
+    },
+    {
+      "id": "rs-demonstratives",
+      "titleVi": "Xác định từ chỉ thị こ・そ・あ",
+      "dayNumber": 3,
+      "sourceLines": [
+        113
+      ],
+      "text": "- Nội dung: Cách xác định Từ chỉ thị (`これ・それ・あれ・この・その・あの・こう・そう`). Quy tắc vàng: đáp án luôn nằm ở ngay câu đứng trước từ chỉ thị `それ/その/そう`."
+    },
+    {
+      "id": "rs-connectors",
+      "titleVi": "Hiểu từ nối (接続詞)",
+      "dayNumber": 4,
+      "sourceLines": [
+        136,
+        137,
+        138,
+        139
+      ],
+      "text": "- Nội dung: Hệ thống Từ nối (接続詞) quyết định mạch logic bài đọc:\n- Chuyển ý/Ngược lại: `しかし・ところが・それなのに・もっとも・ただ`.\n- Giải thích/Tóm lại: `つまり・すなわち・要するに・というのは`.\n- Bổ sung: `しかも・さらに・そのうえ・また`."
+    },
+    {
+      "id": "rs-implicit-negation",
+      "titleVi": "Ẩn ý, phủ định kép, câu hỏi tu từ",
+      "dayNumber": 5,
+      "sourceLines": [
+        167
+      ],
+      "text": "- Nội dung: Các cách diễn đạt ẩn ý, phủ định kép (`～ないわけではない`, `～ないことはない`, `～とは限らない`) và câu hỏi tu từ (`～だろうか` = tác giả phủ định ngầm)."
+    },
+    {
+      "id": "rs-email-notice",
+      "titleVi": "Quét nhanh Email & Thông báo",
+      "dayNumber": 6,
+      "sourceLines": [
+        190
+      ],
+      "text": "- Làm toàn bộ phần Email công việc & Thông báo (お知らせ). Học cách quét nhanh: Người gửi, Người nhận, Mục đích email (nhờ vả, xin lỗi, đổi lịch) và Thời hạn/Điều kiện."
+    },
+    {
+      "id": "rs-topic-sentence",
+      "titleVi": "Tìm câu chủ đề & đuôi câu nêu ý kiến",
+      "dayNumber": 7,
+      "sourceLines": [
+        213
+      ],
+      "text": "- Học cách tìm câu Chủ đề (Topic sentence) của đoạn văn giải thích (説明文) và bài viết nêu quan điểm (意見文). Chú ý các đuôi câu thể hiện ý kiến tác giả: `～のではないだろうか`, `～と考えられる`, `～べきだ`, `～必要がある`."
+    },
+    {
+      "id": "rs-question-first",
+      "titleVi": "Đọc câu hỏi trước → tìm từ khóa → đối chiếu paraphrase",
+      "dayNumber": 9,
+      "sourceLines": [
+        270
+      ],
+      "text": "- Làm 5 bài Đoạn văn ngắn (短文 - Bài 4, 5, 6, 7, 8). Rèn kỹ năng: đọc câu hỏi trước → tìm câu chứa từ khóa trong đoạn → đối chiếu câu văn được viết lại bằng từ đồng nghĩa (Paraphrase) ở 4 đáp án."
+    },
+    {
+      "id": "rs-short-timing",
+      "titleVi": "Thời gian Đoạn ngắn: 2.5–3 phút/bài",
+      "dayNumber": 11,
+      "sourceLines": [
+        317
+      ],
+      "text": "- Hoàn thành toàn bộ 20 bài Đoạn văn ngắn (短文 - Bài 15 đến 20). Tổng kết thời gian trung bình: mỗi câu Đoạn ngắn trong phòng thi chỉ được làm trong 2.5 – 3 phút."
+    },
+    {
+      "id": "rs-medium-structure",
+      "titleVi": "Đoạn trung: 3 câu hỏi ↔ 3 đoạn, 7–8 phút/bài",
+      "dayNumber": 12,
+      "sourceLines": [
+        343
+      ],
+      "text": "- Bắt đầu phần Đoạn văn trung bình (中文 - Chuubun, Bài 21, 22, 23, 24). Mỗi bài có 3 câu hỏi, tương ứng với 3 đoạn trong bài đọc (Câu 1 nằm ở đoạn 1, Câu 2 nằm ở đoạn 2, Câu 3 hỏi toàn bài). Bấm giờ: 7–8 phút/bài."
+    },
+    {
+      "id": "rs-underline",
+      "titleVi": "Câu hỏi gạch chân 「……」とあるが",
+      "dayNumber": 13,
+      "sourceLines": [
+        364
+      ],
+      "text": "- Làm 4 bài Đoạn văn trung bình (中文 - Bài 25, 26, 27, 28). Chú ý dạng câu hỏi gạch chân `「……」とあるが、どういうことか` (Giải nghĩa câu gạch chân): chỉ cần tìm câu ngay trước và ngay sau câu gạch chân để ghép nghĩa."
+    },
+    {
+      "id": "rs-long-question-by-question",
+      "titleVi": "Trường văn: đọc từng câu hỏi rồi đọc đoạn tương ứng",
+      "dayNumber": 15,
+      "sourceLines": [
+        408
+      ],
+      "text": "- Làm 3 bài Đoạn văn dài (長文 - Choubun, Bài 33, 34, 35). Mỗi bài có 4 câu hỏi (mỗi câu 4 điểm — điểm rất lớn!). Mẹo làm bài: Đọc câu hỏi 1 → đọc 1/4 đầu bài để trả lời ngay → đọc câu hỏi 2 → đọc tiếp đoạn 2. Không đọc hết cả trang dài rồi mới nhìn câu hỏi!"
+    },
+    {
+      "id": "rs-long-timing",
+      "titleVi": "Thời gian Trường văn: 12–14 phút/bài",
+      "dayNumber": 16,
+      "sourceLines": [
+        432
+      ],
+      "text": "- Hoàn thành toàn bộ phần Đoạn văn dài (長文 - Bài 36, 37, 38). Bấm giờ: 12–14 phút/bài."
+    },
+    {
+      "id": "rs-info-retrieval",
+      "titleVi": "Tìm kiếm thông tin: điều kiện → loại trừ → đọc chú thích ※/注",
+      "dayNumber": 17,
+      "sourceLines": [
+        464,
+        465,
+        466,
+        467
+      ],
+      "text": "- Chiến thuật ăn trọn 100% điểm bài này (làm ĐẦU TIÊN khi phát đề Đọc hiểu!):\n1. Đọc câu hỏi xem nhân vật cần điều kiện gì (Ví dụ: Đi vào thứ Tư, ngân sách dưới 3000 yên, là sinh viên).\n2. Đối chiếu lên bảng giá/lịch trình loại trừ từng phương án.\n3. Bắt buộc nhìn xuống phần dấu hoa thị chú thích (`※` / `注`) ở cuối bảng vì đáp án bẫy luôn nằm ở dòng chú thích cuối cùng!"
+    },
+    {
+      "id": "rs-exam-order",
+      "titleVi": "Thứ tự làm bài Đọc hiểu trong phòng thi",
+      "dayNumber": 18,
+      "sourceLines": [
+        482,
+        483,
+        484,
+        485,
+        486
+      ],
+      "text": "- Thứ tự làm bài Đọc hiểu chuẩn trong phòng thi:\n1. Mondai 7 (Tìm kiếm thông tin - Bài cuối cùng): Làm mất 7–8 phút → chắc chắn 100% ăn điểm.\n2. Mondai 4 (Đoạn ngắn - 4 bài): Làm mất 10–12 phút.\n3. Mondai 5 (Đoạn trung - 2 bài): Làm mất 15 phút.\n4. Mondai 6 (Đoạn dài - 1 bài): Làm mất 15 phút cuối."
+    },
+    {
+      "id": "rs-distractors",
+      "titleVi": "Loại đáp án nhiễu: phạm vi (すべて/全員/いつも) & đảo quan hệ nhân quả",
+      "dayNumber": 21,
+      "sourceLines": [
+        528
+      ],
+      "text": "- Phân tích kỹ phần Đọc hiểu: Tại sao mình lại phân vân giữa 2 đáp án? (Thường đáp án sai sẽ chứa 1 từ giống hệt trong bài nhưng bị thay đổi phạm vi như `すべて/全員/いつも` hoặc đảo ngược quan hệ nhân quả)."
+    },
+    {
+      "id": "rs-exam-day-section2",
+      "titleVi": "Chiến thuật Tiết 2 ngày thi (Ngữ pháp 18–20 phút → Mondai 7 trước)",
+      "dayNumber": 25,
+      "sourceLines": [
+        601,
+        602,
+        603
+      ],
+      "text": "2. Tiết 2 (Ngữ pháp & Đọc hiểu - 70 phút):\n- Làm Ngữ pháp Mondai 1, 2, 3 trong tối đa 18–20 phút.\n- Ngay phút thứ 20, lật xuống cuối đề làm Mondai 7 (Tìm kiếm thông tin) trước để lấy trọn điểm dễ, sau đó quay lại làm Mondai 4 (Đoạn ngắn) → Mondai 5 (Đoạn trung) → Mondai 6 (Đoạn dài)."
+    }
+  ],
+  "extractionStatus": {
+    "status": "complete_for_schedule",
+    "missing": [
+      "nội dung bài đọc",
+      "câu hỏi",
+      "đáp án",
+      "giải thích"
+    ],
+    "explanation": "Lịch, số bài, trang, thời gian và chiến thuật đầy đủ. Bài đọc phải do người học nhập."
+  },
+  "importTemplate": {
+    "format": "json",
+    "fields": [
+      "id",
+      "source",
+      "textbookId",
+      "exerciseRef",
+      "passageType",
+      "passage",
+      "questions[{id,question,choices[4],answerIndex,explanation,questionType}]",
+      "timeLimitMinutes"
+    ]
+  }
+}

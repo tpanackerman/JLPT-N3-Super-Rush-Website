@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "1.0.0",
+  "allPassed": true,
+  "checks": [
+    {
+      "name": "25_days_present",
+      "passed": true,
+      "detail": "25 days (1..25)"
+    },
+    {
+      "name": "3_phases_present",
+      "passed": true,
+      "detail": "Phases: [(1, '2026-11-10', '2026-11-17'), (2, '2026-11-18', '2026-11-27'), (3, '2026-11-28', '2026-12-04')]"
+    },
+    {
+      "name": "section_ii_100pct_line_coverage",
+      "passed": true,
+      "detail": "Uncovered lines in Section II: 0"
+    },
+    {
+      "name": "verbatim_original_text_match",
+      "passed": true,
+      "detail": "Tasks verified verbatim against source lines: 165, mismatches: 0"
+    },
+    {
+      "name": "unique_task_ids",
+      "passed": true,
+      "detail": "Total tasks: 165, unique: 165"
+    },
+    {
+      "name": "vocabulary_range_1_to_880",
+      "passed": true,
+      "detail": "Units=10, range=1..880, listed items=428, synonyms=12, polysemous=5"
+    },
+    {
+      "name": "grammar_range_1_to_112",
+      "passed": true,
+      "detail": "Units=9, range=1..112, listed patterns=103, confusingPairs=5"
+    },
+    {
+      "name": "kanji_36_lessons_6_weeks",
+      "passed": true,
+      "detail": "Weeks=6, lessons=36, weeklyTests=6, words=269, homophoneGroups=7"
+    },
+    {
+      "name": "reading_assignments_complete",
+      "passed": true,
+      "detail": "Assignments=20, SpeedMaster 1..45=True, strategies=17"
+    },
+    {
+      "name": "four_full_mocks_exact_dates",
+      "passed": true,
+      "detail": "Full mocks: [(1, 19, '2026-11-28'), (2, 21, '2026-11-30'), (3, 23, '2026-12-02'), (4, 24, '2026-12-03')]"
+    }
+  ],
+  "counts": {
+    "days": 25,
+    "tasks": 165,
+    "vocabularyListed": 428,
+    "vocabularyTarget": 880,
+    "grammarListed": 103,
+    "grammarTarget": 112,
+    "kanjiLessons": 36,
+    "kanjiWordsListed": 269,
+    "kanjiTarget": 336,
+    "readingAssignments": 20,
+    "readingStrategies": 17,
+    "listeningAssignments": 21,
+    "fullMockExams": 4,
+    "flaggedIssues": {
+      "error": 2,
+      "warning": 20,
+      "info": 20
+    }
+  }
+}

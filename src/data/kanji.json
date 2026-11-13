@@ -1,0 +1,7424 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "Lộ trình ôn JLPT N3 cấp tốc 25 ngày (10_11 - 04_12).md",
+    "sha256": "039e186797f3b1325cc7f9e443769e76cec9c94c6409ca7960d82db37f43d0aa",
+    "lineCount": 605
+  },
+  "textbook": {
+    "id": "soumatome_kanji",
+    "titleJa": "日本語総まとめ N3 漢字",
+    "titleRomaji": "Nihongo Soumatome N3 Kanji",
+    "skill": "kanji"
+  },
+  "totalKanji": 336,
+  "lessonCount": 36,
+  "weekCount": 6,
+  "learningFocus": "Nhận diện mặt chữ + đọc âm ghép Jukugo; không luyện viết tay (Mục I.3).",
+  "learningFocusSourceLine": 19,
+  "weeks": [
+    {
+      "week": 1,
+      "lessons": [
+        {
+          "id": "W1-L1",
+          "week": 1,
+          "lesson": 1,
+          "lessonGlobal": 1,
+          "topicVi": "Tàu điện",
+          "pageRange": "10–11",
+          "dayNumber": 1,
+          "taskId": "d01-kanji-01",
+          "sourceLine": 56,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l1-01",
+            "rm-kw-w1l1-02",
+            "rm-kw-w1l1-03",
+            "rm-kw-w1l1-04",
+            "rm-kw-w1l1-05",
+            "rm-kw-w1l1-06",
+            "rm-kw-w1l1-07"
+          ]
+        },
+        {
+          "id": "W1-L2",
+          "week": 1,
+          "lesson": 2,
+          "lessonGlobal": 2,
+          "topicVi": "Nhà ga & Đường phố",
+          "pageRange": "12–13",
+          "dayNumber": 1,
+          "taskId": "d01-kanji-02",
+          "sourceLine": 57,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l2-01",
+            "rm-kw-w1l2-02",
+            "rm-kw-w1l2-03",
+            "rm-kw-w1l2-04",
+            "rm-kw-w1l2-05",
+            "rm-kw-w1l2-06",
+            "rm-kw-w1l2-07"
+          ]
+        },
+        {
+          "id": "W1-L3",
+          "week": 1,
+          "lesson": 3,
+          "lessonGlobal": 3,
+          "topicVi": "Siêu thị",
+          "pageRange": "14–15",
+          "dayNumber": 2,
+          "taskId": "d02-kanji-01",
+          "sourceLine": 78,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l3-01",
+            "rm-kw-w1l3-02",
+            "rm-kw-w1l3-03",
+            "rm-kw-w1l3-04",
+            "rm-kw-w1l3-05",
+            "rm-kw-w1l3-06",
+            "rm-kw-w1l3-07"
+          ]
+        },
+        {
+          "id": "W1-L4",
+          "week": 1,
+          "lesson": 4,
+          "lessonGlobal": 4,
+          "topicVi": "Mua sắm & Sản phẩm",
+          "pageRange": "16–17",
+          "dayNumber": 2,
+          "taskId": "d02-kanji-02",
+          "sourceLine": 79,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l4-01",
+            "rm-kw-w1l4-02",
+            "rm-kw-w1l4-03",
+            "rm-kw-w1l4-04",
+            "rm-kw-w1l4-05",
+            "rm-kw-w1l4-06",
+            "rm-kw-w1l4-07"
+          ]
+        },
+        {
+          "id": "W1-L5",
+          "week": 1,
+          "lesson": 5,
+          "lessonGlobal": 5,
+          "topicVi": "Đồ ăn & Nấu nướng",
+          "pageRange": "18–19",
+          "dayNumber": 3,
+          "taskId": "d03-kanji-01",
+          "sourceLine": 102,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l5-01",
+            "rm-kw-w1l5-02",
+            "rm-kw-w1l5-03",
+            "rm-kw-w1l5-04",
+            "rm-kw-w1l5-05",
+            "rm-kw-w1l5-06",
+            "rm-kw-w1l5-07",
+            "rm-kw-w1l5-08"
+          ]
+        },
+        {
+          "id": "W1-L6",
+          "week": 1,
+          "lesson": 6,
+          "lessonGlobal": 6,
+          "topicVi": "Các biển báo nơi công cộng",
+          "pageRange": "20–21",
+          "dayNumber": 3,
+          "taskId": "d03-kanji-02",
+          "sourceLine": 103,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w1l6-01",
+            "rm-kw-w1l6-02",
+            "rm-kw-w1l6-03",
+            "rm-kw-w1l6-04",
+            "rm-kw-w1l6-05"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W1-TEST",
+        "week": 1,
+        "pageRange": "22–23",
+        "dayNumber": 3,
+        "taskId": "d03-kanji-03",
+        "sourceLine": 104
+      }
+    },
+    {
+      "week": 2,
+      "lessons": [
+        {
+          "id": "W2-L1",
+          "week": 2,
+          "lesson": 1,
+          "lessonGlobal": 7,
+          "topicVi": "Du lịch & Đặt phòng",
+          "pageRange": "24–25",
+          "dayNumber": 4,
+          "taskId": "d04-kanji-01",
+          "sourceLine": 125,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l1-01",
+            "rm-kw-w2l1-02",
+            "rm-kw-w2l1-03",
+            "rm-kw-w2l1-04",
+            "rm-kw-w2l1-05",
+            "rm-kw-w2l1-06",
+            "rm-kw-w2l1-07"
+          ]
+        },
+        {
+          "id": "W2-L2",
+          "week": 2,
+          "lesson": 2,
+          "lessonGlobal": 8,
+          "topicVi": "Sân bay & Khách sạn",
+          "pageRange": "26–27",
+          "dayNumber": 4,
+          "taskId": "d04-kanji-02",
+          "sourceLine": 126,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l2-01",
+            "rm-kw-w2l2-02",
+            "rm-kw-w2l2-03",
+            "rm-kw-w2l2-04",
+            "rm-kw-w2l2-05",
+            "rm-kw-w2l2-06",
+            "rm-kw-w2l2-07"
+          ]
+        },
+        {
+          "id": "W2-L3",
+          "week": 2,
+          "lesson": 3,
+          "lessonGlobal": 9,
+          "topicVi": "Tìm nhà & Chuyển nhà",
+          "pageRange": "28–29",
+          "dayNumber": 5,
+          "taskId": "d05-kanji-01",
+          "sourceLine": 150,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l3-01",
+            "rm-kw-w2l3-02",
+            "rm-kw-w2l3-03",
+            "rm-kw-w2l3-04",
+            "rm-kw-w2l3-05",
+            "rm-kw-w2l3-06",
+            "rm-kw-w2l3-07",
+            "rm-kw-w2l3-08"
+          ]
+        },
+        {
+          "id": "W2-L4",
+          "week": 2,
+          "lesson": 4,
+          "lessonGlobal": 10,
+          "topicVi": "Đổ rác & Quy tắc sống",
+          "pageRange": "30–31",
+          "dayNumber": 5,
+          "taskId": "d05-kanji-02",
+          "sourceLine": 151,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l4-01",
+            "rm-kw-w2l4-02",
+            "rm-kw-w2l4-03",
+            "rm-kw-w2l4-04",
+            "rm-kw-w2l4-05",
+            "rm-kw-w2l4-06",
+            "rm-kw-w2l4-07"
+          ]
+        },
+        {
+          "id": "W2-L5",
+          "week": 2,
+          "lesson": 5,
+          "lessonGlobal": 11,
+          "topicVi": "Làm việc nhà & Dọn dẹp",
+          "pageRange": "32–33",
+          "dayNumber": 6,
+          "taskId": "d06-kanji-01",
+          "sourceLine": 179,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l5-01",
+            "rm-kw-w2l5-02",
+            "rm-kw-w2l5-03",
+            "rm-kw-w2l5-04",
+            "rm-kw-w2l5-05",
+            "rm-kw-w2l5-06"
+          ]
+        },
+        {
+          "id": "W2-L6",
+          "week": 2,
+          "lesson": 6,
+          "lessonGlobal": 12,
+          "topicVi": "Ngân hàng & Bưu điện",
+          "pageRange": "34–35",
+          "dayNumber": 6,
+          "taskId": "d06-kanji-02",
+          "sourceLine": 180,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w2l6-01",
+            "rm-kw-w2l6-02",
+            "rm-kw-w2l6-03",
+            "rm-kw-w2l6-04",
+            "rm-kw-w2l6-05",
+            "rm-kw-w2l6-06",
+            "rm-kw-w2l6-07"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W2-TEST",
+        "week": 2,
+        "pageRange": "36–37",
+        "dayNumber": 6,
+        "taskId": "d06-kanji-03",
+        "sourceLine": 181
+      }
+    },
+    {
+      "week": 3,
+      "lessons": [
+        {
+          "id": "W3-L1",
+          "week": 3,
+          "lesson": 1,
+          "lessonGlobal": 13,
+          "topicVi": "Cơ thể & Triệu chứng bệnh",
+          "pageRange": "38–39",
+          "dayNumber": 7,
+          "taskId": "d07-kanji-01",
+          "sourceLine": 202,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l1-01",
+            "rm-kw-w3l1-02",
+            "rm-kw-w3l1-03",
+            "rm-kw-w3l1-04",
+            "rm-kw-w3l1-05",
+            "rm-kw-w3l1-06",
+            "rm-kw-w3l1-07",
+            "rm-kw-w3l1-08"
+          ]
+        },
+        {
+          "id": "W3-L2",
+          "week": 3,
+          "lesson": 2,
+          "lessonGlobal": 14,
+          "topicVi": "Bệnh viện & Thuốc",
+          "pageRange": "40–41",
+          "dayNumber": 7,
+          "taskId": "d07-kanji-02",
+          "sourceLine": 203,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l2-01",
+            "rm-kw-w3l2-02",
+            "rm-kw-w3l2-03",
+            "rm-kw-w3l2-04",
+            "rm-kw-w3l2-05",
+            "rm-kw-w3l2-06",
+            "rm-kw-w3l2-07",
+            "rm-kw-w3l2-08"
+          ]
+        },
+        {
+          "id": "W3-L3",
+          "week": 3,
+          "lesson": 3,
+          "lessonGlobal": 15,
+          "topicVi": "Sức khỏe & Làm đẹp",
+          "pageRange": "42–43",
+          "dayNumber": 8,
+          "taskId": "d08-kanji-01",
+          "sourceLine": 224,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l3-01",
+            "rm-kw-w3l3-02",
+            "rm-kw-w3l3-03",
+            "rm-kw-w3l3-04",
+            "rm-kw-w3l3-05",
+            "rm-kw-w3l3-06",
+            "rm-kw-w3l3-07"
+          ]
+        },
+        {
+          "id": "W3-L4",
+          "week": 3,
+          "lesson": 4,
+          "lessonGlobal": 16,
+          "topicVi": "Trường học & Học tập",
+          "pageRange": "44–45",
+          "dayNumber": 8,
+          "taskId": "d08-kanji-02",
+          "sourceLine": 225,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l4-01",
+            "rm-kw-w3l4-02",
+            "rm-kw-w3l4-03",
+            "rm-kw-w3l4-04",
+            "rm-kw-w3l4-05",
+            "rm-kw-w3l4-06",
+            "rm-kw-w3l4-07",
+            "rm-kw-w3l4-08"
+          ]
+        },
+        {
+          "id": "W3-L5",
+          "week": 3,
+          "lesson": 5,
+          "lessonGlobal": 17,
+          "topicVi": "Xin việc & Tuyển dụng",
+          "pageRange": "46–47",
+          "dayNumber": 9,
+          "taskId": "d09-kanji-01",
+          "sourceLine": 259,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l5-01",
+            "rm-kw-w3l5-02",
+            "rm-kw-w3l5-03",
+            "rm-kw-w3l5-04",
+            "rm-kw-w3l5-05",
+            "rm-kw-w3l5-06",
+            "rm-kw-w3l5-07"
+          ]
+        },
+        {
+          "id": "W3-L6",
+          "week": 3,
+          "lesson": 6,
+          "lessonGlobal": 18,
+          "topicVi": "Công sở & Văn phòng",
+          "pageRange": "48–49",
+          "dayNumber": 9,
+          "taskId": "d09-kanji-02",
+          "sourceLine": 260,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w3l6-01",
+            "rm-kw-w3l6-02",
+            "rm-kw-w3l6-03",
+            "rm-kw-w3l6-04",
+            "rm-kw-w3l6-05",
+            "rm-kw-w3l6-06",
+            "rm-kw-w3l6-07",
+            "rm-kw-w3l6-08"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W3-TEST",
+        "week": 3,
+        "pageRange": "50–51",
+        "dayNumber": 9,
+        "taskId": "d09-kanji-03",
+        "sourceLine": 261
+      }
+    },
+    {
+      "week": 4,
+      "lessons": [
+        {
+          "id": "W4-L1",
+          "week": 4,
+          "lesson": 1,
+          "lessonGlobal": 19,
+          "topicVi": "Thiên nhiên & Địa lý",
+          "pageRange": "52–53",
+          "dayNumber": 10,
+          "taskId": "d10-kanji-01",
+          "sourceLine": 282,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l1-01",
+            "rm-kw-w4l1-02",
+            "rm-kw-w4l1-03",
+            "rm-kw-w4l1-04",
+            "rm-kw-w4l1-05",
+            "rm-kw-w4l1-06",
+            "rm-kw-w4l1-07"
+          ]
+        },
+        {
+          "id": "W4-L2",
+          "week": 4,
+          "lesson": 2,
+          "lessonGlobal": 20,
+          "topicVi": "Dự báo thời tiết",
+          "pageRange": "54–55",
+          "dayNumber": 10,
+          "taskId": "d10-kanji-02",
+          "sourceLine": 283,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l2-01",
+            "rm-kw-w4l2-02",
+            "rm-kw-w4l2-03",
+            "rm-kw-w4l2-04",
+            "rm-kw-w4l2-05",
+            "rm-kw-w4l2-06",
+            "rm-kw-w4l2-07",
+            "rm-kw-w4l2-08"
+          ]
+        },
+        {
+          "id": "W4-L3",
+          "week": 4,
+          "lesson": 3,
+          "lessonGlobal": 21,
+          "topicVi": "Thiên tai & Sự cố",
+          "pageRange": "56–57",
+          "dayNumber": 11,
+          "taskId": "d11-kanji-01",
+          "sourceLine": 305,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l3-01",
+            "rm-kw-w4l3-02",
+            "rm-kw-w4l3-03",
+            "rm-kw-w4l3-04",
+            "rm-kw-w4l3-05",
+            "rm-kw-w4l3-06",
+            "rm-kw-w4l3-07",
+            "rm-kw-w4l3-08"
+          ]
+        },
+        {
+          "id": "W4-L4",
+          "week": 4,
+          "lesson": 4,
+          "lessonGlobal": 22,
+          "topicVi": "Môi trường & Năng lượng",
+          "pageRange": "58–59",
+          "dayNumber": 11,
+          "taskId": "d11-kanji-02",
+          "sourceLine": 306,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l4-01",
+            "rm-kw-w4l4-02",
+            "rm-kw-w4l4-03",
+            "rm-kw-w4l4-04",
+            "rm-kw-w4l4-05",
+            "rm-kw-w4l4-06"
+          ]
+        },
+        {
+          "id": "W4-L5",
+          "week": 4,
+          "lesson": 5,
+          "lessonGlobal": 23,
+          "topicVi": "Tin tức xã hội & Kinh tế",
+          "pageRange": "60–61",
+          "dayNumber": 12,
+          "taskId": "d12-kanji-01",
+          "sourceLine": 328,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l5-01",
+            "rm-kw-w4l5-02",
+            "rm-kw-w4l5-03",
+            "rm-kw-w4l5-04",
+            "rm-kw-w4l5-05",
+            "rm-kw-w4l5-06",
+            "rm-kw-w4l5-07",
+            "rm-kw-w4l5-08"
+          ]
+        },
+        {
+          "id": "W4-L6",
+          "week": 4,
+          "lesson": 6,
+          "lessonGlobal": 24,
+          "topicVi": "Chính trị & Quốc tế",
+          "pageRange": "62–63",
+          "dayNumber": 12,
+          "taskId": "d12-kanji-02",
+          "sourceLine": 329,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w4l6-01",
+            "rm-kw-w4l6-02",
+            "rm-kw-w4l6-03",
+            "rm-kw-w4l6-04",
+            "rm-kw-w4l6-05",
+            "rm-kw-w4l6-06",
+            "rm-kw-w4l6-07",
+            "rm-kw-w4l6-08"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W4-TEST",
+        "week": 4,
+        "pageRange": "64–65",
+        "dayNumber": 12,
+        "taskId": "d12-kanji-03",
+        "sourceLine": 330
+      }
+    },
+    {
+      "week": 5,
+      "lessons": [
+        {
+          "id": "W5-L1",
+          "week": 5,
+          "lesson": 1,
+          "lessonGlobal": 25,
+          "topicVi": "Cảm xúc vui buồn",
+          "pageRange": "66–67",
+          "dayNumber": 13,
+          "taskId": "d13-kanji-01",
+          "sourceLine": 354,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l1-01",
+            "rm-kw-w5l1-02",
+            "rm-kw-w5l1-03",
+            "rm-kw-w5l1-04",
+            "rm-kw-w5l1-05",
+            "rm-kw-w5l1-06",
+            "rm-kw-w5l1-07",
+            "rm-kw-w5l1-08"
+          ]
+        },
+        {
+          "id": "W5-L2",
+          "week": 5,
+          "lesson": 2,
+          "lessonGlobal": 26,
+          "topicVi": "Cảm giác & Suy nghĩ",
+          "pageRange": "68–69",
+          "dayNumber": 13,
+          "taskId": "d13-kanji-02",
+          "sourceLine": 355,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l2-01",
+            "rm-kw-w5l2-02",
+            "rm-kw-w5l2-03",
+            "rm-kw-w5l2-04",
+            "rm-kw-w5l2-05",
+            "rm-kw-w5l2-06",
+            "rm-kw-w5l2-07",
+            "rm-kw-w5l2-08"
+          ]
+        },
+        {
+          "id": "W5-L3",
+          "week": 5,
+          "lesson": 3,
+          "lessonGlobal": 27,
+          "topicVi": "Giao tiếp & Quan hệ",
+          "pageRange": "70–71",
+          "dayNumber": 14,
+          "taskId": "d14-kanji-01",
+          "sourceLine": 375,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l3-01",
+            "rm-kw-w5l3-02",
+            "rm-kw-w5l3-03",
+            "rm-kw-w5l3-04",
+            "rm-kw-w5l3-05",
+            "rm-kw-w5l3-06",
+            "rm-kw-w5l3-07",
+            "rm-kw-w5l3-08"
+          ]
+        },
+        {
+          "id": "W5-L4",
+          "week": 5,
+          "lesson": 4,
+          "lessonGlobal": 28,
+          "topicVi": "Gia đình & Cuộc đời",
+          "pageRange": "72–73",
+          "dayNumber": 14,
+          "taskId": "d14-kanji-02",
+          "sourceLine": 376,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l4-01",
+            "rm-kw-w5l4-02",
+            "rm-kw-w5l4-03",
+            "rm-kw-w5l4-04",
+            "rm-kw-w5l4-05",
+            "rm-kw-w5l4-06",
+            "rm-kw-w5l4-07",
+            "rm-kw-w5l4-08"
+          ]
+        },
+        {
+          "id": "W5-L5",
+          "week": 5,
+          "lesson": 5,
+          "lessonGlobal": 29,
+          "topicVi": "Tính cách & Đánh giá",
+          "pageRange": "74–75",
+          "dayNumber": 15,
+          "taskId": "d15-kanji-01",
+          "sourceLine": 398,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l5-01",
+            "rm-kw-w5l5-02",
+            "rm-kw-w5l5-03",
+            "rm-kw-w5l5-04",
+            "rm-kw-w5l5-05",
+            "rm-kw-w5l5-06",
+            "rm-kw-w5l5-07",
+            "rm-kw-w5l5-08"
+          ]
+        },
+        {
+          "id": "W5-L6",
+          "week": 5,
+          "lesson": 6,
+          "lessonGlobal": 30,
+          "topicVi": "Từ vựng trừu tượng",
+          "pageRange": "76–77",
+          "dayNumber": 15,
+          "taskId": "d15-kanji-02",
+          "sourceLine": 399,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w5l6-01",
+            "rm-kw-w5l6-02",
+            "rm-kw-w5l6-03",
+            "rm-kw-w5l6-04",
+            "rm-kw-w5l6-05",
+            "rm-kw-w5l6-06",
+            "rm-kw-w5l6-07",
+            "rm-kw-w5l6-08"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W5-TEST",
+        "week": 5,
+        "pageRange": "78–79",
+        "dayNumber": 15,
+        "taskId": "d15-kanji-03",
+        "sourceLine": 400
+      }
+    },
+    {
+      "week": 6,
+      "lessons": [
+        {
+          "id": "W6-L1",
+          "week": 6,
+          "lesson": 1,
+          "lessonGlobal": 31,
+          "topicVi": "Các chữ Kanji dễ nhìn nhầm nét",
+          "pageRange": "80–81",
+          "dayNumber": 16,
+          "taskId": "d16-kanji-01",
+          "sourceLine": 421,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w6l1-01",
+            "rm-kw-w6l1-02",
+            "rm-kw-w6l1-03",
+            "rm-kw-w6l1-04",
+            "rm-kw-w6l1-05",
+            "rm-kw-w6l1-06",
+            "rm-kw-w6l1-07",
+            "rm-kw-w6l1-08",
+            "rm-kw-w6l1-09",
+            "rm-kw-w6l1-10"
+          ]
+        },
+        {
+          "id": "W6-L2",
+          "week": 6,
+          "lesson": 2,
+          "lessonGlobal": 32,
+          "topicVi": "Các từ có tiền tố 不・無・未・非",
+          "pageRange": "82–83",
+          "dayNumber": 16,
+          "taskId": "d16-kanji-02",
+          "sourceLine": 422,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w6l2-01",
+            "rm-kw-w6l2-02",
+            "rm-kw-w6l2-03",
+            "rm-kw-w6l2-04",
+            "rm-kw-w6l2-05",
+            "rm-kw-w6l2-06",
+            "rm-kw-w6l2-07",
+            "rm-kw-w6l2-08",
+            "rm-kw-w6l2-09",
+            "rm-kw-w6l2-10"
+          ]
+        },
+        {
+          "id": "W6-L3",
+          "week": 6,
+          "lesson": 3,
+          "lessonGlobal": 33,
+          "topicVi": "Các từ có hậu tố 的・性・化・感",
+          "pageRange": "84–85",
+          "dayNumber": 16,
+          "taskId": "d16-kanji-03",
+          "sourceLine": 423,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w6l3-01",
+            "rm-kw-w6l3-02",
+            "rm-kw-w6l3-03",
+            "rm-kw-w6l3-04",
+            "rm-kw-w6l3-05",
+            "rm-kw-w6l3-06",
+            "rm-kw-w6l3-07",
+            "rm-kw-w6l3-08"
+          ]
+        },
+        {
+          "id": "W6-L4",
+          "week": 6,
+          "lesson": 4,
+          "lessonGlobal": 34,
+          "topicVi": "Các chữ có nhiều cách đọc đặc biệt",
+          "pageRange": "86–87",
+          "dayNumber": 17,
+          "taskId": "d17-kanji-01",
+          "sourceLine": 454,
+          "mergedWith": [],
+          "listedWordIds": [
+            "rm-kw-w6l4-01",
+            "rm-kw-w6l4-02",
+            "rm-kw-w6l4-03",
+            "rm-kw-w6l4-04",
+            "rm-kw-w6l4-05",
+            "rm-kw-w6l4-06",
+            "rm-kw-w6l4-07",
+            "rm-kw-w6l4-08",
+            "rm-kw-w6l4-09",
+            "rm-kw-w6l4-10",
+            "rm-kw-w6l4-11"
+          ]
+        },
+        {
+          "id": "W6-L5",
+          "week": 6,
+          "lesson": 5,
+          "lessonGlobal": 35,
+          "topicVi": "Động từ & Tính từ phức hợp",
+          "pageRange": "88–91",
+          "dayNumber": 17,
+          "taskId": "d17-kanji-02",
+          "sourceLine": 455,
+          "mergedWith": [
+            "W6-L6"
+          ],
+          "listedWordIds": [
+            "rm-kw-w6l5-01",
+            "rm-kw-w6l5-02",
+            "rm-kw-w6l5-03",
+            "rm-kw-w6l5-04",
+            "rm-kw-w6l5-05",
+            "rm-kw-w6l5-06",
+            "rm-kw-w6l5-07",
+            "rm-kw-w6l5-08"
+          ]
+        },
+        {
+          "id": "W6-L6",
+          "week": 6,
+          "lesson": 6,
+          "lessonGlobal": 36,
+          "topicVi": "Động từ & Tính từ phức hợp",
+          "pageRange": "88–91",
+          "dayNumber": 17,
+          "taskId": "d17-kanji-02",
+          "sourceLine": 455,
+          "mergedWith": [
+            "W6-L5"
+          ],
+          "listedWordIds": [
+            "rm-kw-w6l5-01",
+            "rm-kw-w6l5-02",
+            "rm-kw-w6l5-03",
+            "rm-kw-w6l5-04",
+            "rm-kw-w6l5-05",
+            "rm-kw-w6l5-06",
+            "rm-kw-w6l5-07",
+            "rm-kw-w6l5-08"
+          ]
+        }
+      ],
+      "test": {
+        "id": "W6-TEST",
+        "week": 6,
+        "pageRange": "92–93",
+        "dayNumber": 17,
+        "taskId": "d17-kanji-03",
+        "sourceLine": 456
+      }
+    }
+  ],
+  "round2Tests": [
+    {
+      "week": 1,
+      "page": "22",
+      "dayNumber": 18,
+      "taskId": "d18-kanji-01"
+    },
+    {
+      "week": 2,
+      "page": "36",
+      "dayNumber": 18,
+      "taskId": "d18-kanji-01"
+    },
+    {
+      "week": 3,
+      "page": "50",
+      "dayNumber": 18,
+      "taskId": "d18-kanji-01"
+    },
+    {
+      "week": 4,
+      "page": "64",
+      "dayNumber": 20,
+      "taskId": "d20-kanji-01"
+    },
+    {
+      "week": 5,
+      "page": "78",
+      "dayNumber": 20,
+      "taskId": "d20-kanji-01"
+    },
+    {
+      "week": 6,
+      "page": "92",
+      "dayNumber": 20,
+      "taskId": "d20-kanji-01"
+    }
+  ],
+  "finalTest": {
+    "pageRange": "94–111",
+    "dayNumber": 20,
+    "taskId": "d20-kanji-01"
+  },
+  "words": [
+    {
+      "id": "rm-kw-w1l1-01",
+      "word": "乗車",
+      "reading": "じょうしゃ",
+      "meaningVi": "lên tàu",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "乗車 (じょうしゃ - lên tàu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-02",
+      "word": "降車",
+      "reading": "こうしゃ",
+      "meaningVi": "xuống tàu",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "降車 (こうしゃ - xuống tàu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-03",
+      "word": "通過",
+      "reading": "つうか",
+      "meaningVi": "đi qua/không dừng",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "通過 (つうか - đi qua/không dừng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-04",
+      "word": "終点",
+      "reading": "しゅうてん",
+      "meaningVi": "bến cuối",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "終点 (しゅうてん - bến cuối)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-05",
+      "word": "定期券",
+      "reading": "ていきけん",
+      "meaningVi": "vé tháng",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "定期券 (ていきけん - vé tháng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-06",
+      "word": "有効",
+      "reading": "ゆうこう",
+      "meaningVi": "có hiệu lực",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "有効 (ゆうこう - có hiệu lực)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l1-07",
+      "word": "期限",
+      "reading": "きげん",
+      "meaningVi": "thời hạn",
+      "week": 1,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        1
+      ],
+      "lessonTopic": "Tàu điện",
+      "pageRange": "10–11",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-01",
+      "sourceLine": 56,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "期限 (きげん - thời hạn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-01",
+      "word": "改札口",
+      "reading": "かいさつぐち",
+      "meaningVi": "cửa soát vé",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "改札口 (かいさつぐち - cửa soát vé)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-02",
+      "word": "往復",
+      "reading": "おうふく",
+      "meaningVi": "khứ hồi",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "往復 (おうふく - khứ hồi)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-03",
+      "word": "禁煙",
+      "reading": "きんえん",
+      "meaningVi": "cấm hút thuốc",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "禁煙 (きんえん - cấm hút thuốc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-04",
+      "word": "座席",
+      "reading": "ざせき",
+      "meaningVi": "chỗ ngồi",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "座席 (ざせき - chỗ ngồi)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-05",
+      "word": "指定席",
+      "reading": "していせき",
+      "meaningVi": "ghế đặt trước",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "指定席 (していせき - ghế đặt trước)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-06",
+      "word": "混雑",
+      "reading": "こんざつ",
+      "meaningVi": "đông đúc",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "混雑 (こんざつ - đông đúc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l2-07",
+      "word": "両替",
+      "reading": "りょうがえ",
+      "meaningVi": "đổi tiền",
+      "week": 1,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        2
+      ],
+      "lessonTopic": "Nhà ga & Đường phố",
+      "pageRange": "12–13",
+      "dayNumber": 1,
+      "taskId": "d01-kanji-02",
+      "sourceLine": 57,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "両替 (りょうがえ - đổi tiền)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-01",
+      "word": "営業",
+      "reading": "えいぎょう",
+      "meaningVi": "kinh doanh",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "営業 (えいぎょう - kinh doanh)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-02",
+      "word": "本日",
+      "reading": "ほんじつ",
+      "meaningVi": "hôm nay",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "本日 (ほんじつ - hôm nay)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-03",
+      "word": "開店",
+      "reading": "かいてん",
+      "meaningVi": "mở cửa",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "開店 (かいてん - mở cửa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-04",
+      "word": "閉店",
+      "reading": "へいてん",
+      "meaningVi": "đóng cửa",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "閉店 (へいてん - đóng cửa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-05",
+      "word": "半額",
+      "reading": "はんがく",
+      "meaningVi": "nửa giá",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "半額 (はんがく - nửa giá)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-06",
+      "word": "消費税",
+      "reading": "しょうひぜい",
+      "meaningVi": "thuế tiêu dùng",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "消費税 (しょうひぜい - thuế tiêu dùng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l3-07",
+      "word": "合計",
+      "reading": "ごうけい",
+      "meaningVi": "tổng cộng",
+      "week": 1,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        3
+      ],
+      "lessonTopic": "Siêu thị",
+      "pageRange": "14–15",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-01",
+      "sourceLine": 78,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "合計 (ごうけい - tổng cộng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-01",
+      "word": "商品",
+      "reading": "しょうひん",
+      "meaningVi": "sản phẩm",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "商品 (しょうひん - sản phẩm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-02",
+      "word": "価格",
+      "reading": "かかく",
+      "meaningVi": "giá cả",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "価格 (かかく - giá cả)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-03",
+      "word": "無料",
+      "reading": "むりょう",
+      "meaningVi": "miễn phí",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "無料 (むりょう - miễn phí)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-04",
+      "word": "販売",
+      "reading": "はんばい",
+      "meaningVi": "bán hàng",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "販売 (はんばい - bán hàng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-05",
+      "word": "保証書",
+      "reading": "ほしょうしょ",
+      "meaningVi": "phiếu bảo hành",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "保証書 (ほしょうしょ - phiếu bảo hành)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-06",
+      "word": "交換",
+      "reading": "こうかん",
+      "meaningVi": "đổi trả",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "交換 (こうかん - đổi trả)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l4-07",
+      "word": "注文",
+      "reading": "ちゅうもん",
+      "meaningVi": "đặt hàng",
+      "week": 1,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        4
+      ],
+      "lessonTopic": "Mua sắm & Sản phẩm",
+      "pageRange": "16–17",
+      "dayNumber": 2,
+      "taskId": "d02-kanji-02",
+      "sourceLine": 79,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "注文 (ちゅうもん - đặt hàng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-01",
+      "word": "材料",
+      "reading": "ざいりょう",
+      "meaningVi": "nguyên liệu",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "材料 (ざいりょう - nguyên liệu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-02",
+      "word": "調味料",
+      "reading": "ちょうみりょう",
+      "meaningVi": "gia vị",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "調味料 (ちょうみりょう - gia vị)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-03",
+      "word": "焼く",
+      "reading": "やく",
+      "meaningVi": "nướng",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "焼く (やく - nướng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-04",
+      "word": "煮る",
+      "reading": "にる",
+      "meaningVi": "ninh/kho",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "煮る (にる - ninh/kho)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-05",
+      "word": "揚げる",
+      "reading": "あげる",
+      "meaningVi": "chiên rán",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "揚げる (あげる - chiên rán)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-06",
+      "word": "蒸す",
+      "reading": "むす",
+      "meaningVi": "hấp",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "蒸す (むす - hấp)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-07",
+      "word": "冷凍",
+      "reading": "れいとう",
+      "meaningVi": "đông lạnh",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "冷凍 (れいとう - đông lạnh)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l5-08",
+      "word": "保存",
+      "reading": "ほぞん",
+      "meaningVi": "bảo quản",
+      "week": 1,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        5
+      ],
+      "lessonTopic": "Đồ ăn & Nấu nướng",
+      "pageRange": "18–19",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-01",
+      "sourceLine": 102,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "保存 (ほぞん - bảo quản)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l6-01",
+      "word": "非常口",
+      "reading": "ひじょうぐち",
+      "meaningVi": "cửa thoát hiểm",
+      "week": 1,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        6
+      ],
+      "lessonTopic": "Các biển báo nơi công cộng",
+      "pageRange": "20–21",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-02",
+      "sourceLine": 103,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "非常口 (ひじょうぐち - cửa thoát hiểm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l6-02",
+      "word": "優先席",
+      "reading": "ゆうせんせき",
+      "meaningVi": "ghế ưu tiên",
+      "week": 1,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        6
+      ],
+      "lessonTopic": "Các biển báo nơi công cộng",
+      "pageRange": "20–21",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-02",
+      "sourceLine": 103,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "優先席 (ゆうせんせき - ghế ưu tiên)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l6-03",
+      "word": "危険",
+      "reading": "きけん",
+      "meaningVi": "nguy hiểm",
+      "week": 1,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        6
+      ],
+      "lessonTopic": "Các biển báo nơi công cộng",
+      "pageRange": "20–21",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-02",
+      "sourceLine": 103,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "危険 (きけん - nguy hiểm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l6-04",
+      "word": "駐車禁止",
+      "reading": "ちゅうしゃきんし",
+      "meaningVi": "cấm đỗ xe",
+      "week": 1,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        6
+      ],
+      "lessonTopic": "Các biển báo nơi công cộng",
+      "pageRange": "20–21",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-02",
+      "sourceLine": 103,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "駐車禁止 (ちゅうしゃきんし - cấm đỗ xe)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w1l6-05",
+      "word": "立ち入り禁止",
+      "reading": "たちいりきんし",
+      "meaningVi": "cấm vào",
+      "week": 1,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        6
+      ],
+      "lessonTopic": "Các biển báo nơi công cộng",
+      "pageRange": "20–21",
+      "dayNumber": 3,
+      "taskId": "d03-kanji-02",
+      "sourceLine": 103,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "立ち入り禁止 (たちいりきんし - cấm vào)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-01",
+      "word": "観光",
+      "reading": "かんこう",
+      "meaningVi": "tham quan",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "観光 (かんこう - tham quan)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-02",
+      "word": "旅館",
+      "reading": "りょかん",
+      "meaningVi": "lữ quán",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "旅館 (りょかん - lữ quán)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-03",
+      "word": "宿泊",
+      "reading": "しゅくはく",
+      "meaningVi": "trọ lại",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "宿泊 (しゅくはく - trọ lại)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-04",
+      "word": "予約",
+      "reading": "よやく",
+      "meaningVi": "đặt trước",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "予約 (よやく - đặt trước)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-05",
+      "word": "満室",
+      "reading": "まんしつ",
+      "meaningVi": "kín phòng",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "満室 (まんしつ - kín phòng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-06",
+      "word": "空室",
+      "reading": "くうしつ",
+      "meaningVi": "phòng trống",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "空室 (くうしつ - phòng trống)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l1-07",
+      "word": "温泉",
+      "reading": "おんせん",
+      "meaningVi": "suối nước nóng",
+      "week": 2,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        7
+      ],
+      "lessonTopic": "Du lịch & Đặt phòng",
+      "pageRange": "24–25",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-01",
+      "sourceLine": 125,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "温泉 (おんせん - suối nước nóng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-01",
+      "word": "到着",
+      "reading": "とうちゃく",
+      "meaningVi": "đến nơi",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "到着 (とうちゃく - đến nơi)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-02",
+      "word": "出発",
+      "reading": "しゅっぱつ",
+      "meaningVi": "xuất phát",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "出発 (しゅっぱつ - xuất phát)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-03",
+      "word": "国内線",
+      "reading": "こくないせん",
+      "meaningVi": "chuyến bay nội địa",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "国内線 (こくないせん - chuyến bay nội địa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-04",
+      "word": "国際線",
+      "reading": "こくさいせん",
+      "meaningVi": "chuyến bay quốc tế",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "国際線 (こくさいせん - chuyến bay quốc tế)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-05",
+      "word": "搭乗",
+      "reading": "とうじょう",
+      "meaningVi": "lên máy bay",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "搭乗 (とうじょう - lên máy bay)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-06",
+      "word": "手荷物",
+      "reading": "てにもつ",
+      "meaningVi": "hành lý xách tay",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "手荷物 (てにもつ - hành lý xách tay)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l2-07",
+      "word": "貴重品",
+      "reading": "きちょうひん",
+      "meaningVi": "đồ quý giá",
+      "week": 2,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        8
+      ],
+      "lessonTopic": "Sân bay & Khách sạn",
+      "pageRange": "26–27",
+      "dayNumber": 4,
+      "taskId": "d04-kanji-02",
+      "sourceLine": 126,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "貴重品 (きちょうひん - đồ quý giá)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-01",
+      "word": "賃貸",
+      "reading": "ちんたい",
+      "meaningVi": "cho thuê",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "賃貸 (ちんたい - cho thuê)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-02",
+      "word": "契約",
+      "reading": "けいやく",
+      "meaningVi": "hợp đồng",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "契約 (けいやく - hợp đồng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-03",
+      "word": "敷金",
+      "reading": "しききん",
+      "meaningVi": "tiền cọc",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "敷金 (しききん - tiền cọc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-04",
+      "word": "礼金",
+      "reading": "れいきん",
+      "meaningVi": "tiền lễ",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "礼金 (れいきん - tiền lễ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-05",
+      "word": "家賃",
+      "reading": "やちん",
+      "meaningVi": "tiền nhà",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "家賃 (やちん - tiền nhà)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-06",
+      "word": "管理費",
+      "reading": "かんりひ",
+      "meaningVi": "phí quản lý",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "管理費 (かんりひ - phí quản lý)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-07",
+      "word": "徒歩",
+      "reading": "とほ",
+      "meaningVi": "đi bộ",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "徒歩 (とほ - đi bộ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l3-08",
+      "word": "荷造り",
+      "reading": "にづくり",
+      "meaningVi": "đóng gói hành lý",
+      "week": 2,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        9
+      ],
+      "lessonTopic": "Tìm nhà & Chuyển nhà",
+      "pageRange": "28–29",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-01",
+      "sourceLine": 150,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "荷造り (にづくり - đóng gói hành lý)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-01",
+      "word": "燃えるごみ",
+      "reading": "もえるごみ",
+      "meaningVi": "rác cháy được",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "燃えるごみ (もえるごみ - rác cháy được)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-02",
+      "word": "資源ごみ",
+      "reading": "しげんごみ",
+      "meaningVi": "rác tái chế",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "資源ごみ (しげんごみ - rác tái chế)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-03",
+      "word": "分別",
+      "reading": "ぶんべつ",
+      "meaningVi": "phân loại",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "分別 (ぶんべつ - phân loại)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-04",
+      "word": "収集日",
+      "reading": "しゅうしゅうび",
+      "meaningVi": "ngày thu gom",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "収集日 (しゅうしゅうび - ngày thu gom)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-05",
+      "word": "指定",
+      "reading": "してい",
+      "meaningVi": "chỉ định",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "指定 (してい - chỉ định)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-06",
+      "word": "騒音",
+      "reading": "そうおん",
+      "meaningVi": "tiếng ồn",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "騒音 (そうおん - tiếng ồn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l4-07",
+      "word": "迷惑",
+      "reading": "めいわく",
+      "meaningVi": "làm phiền",
+      "week": 2,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        10
+      ],
+      "lessonTopic": "Đổ rác & Quy tắc sống",
+      "pageRange": "30–31",
+      "dayNumber": 5,
+      "taskId": "d05-kanji-02",
+      "sourceLine": 151,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "迷惑 (めいわく - làm phiền)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-01",
+      "word": "掃除",
+      "reading": "そうじ",
+      "meaningVi": "dọn dẹp",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "掃除 (そうじ - dọn dẹp)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-02",
+      "word": "洗濯",
+      "reading": "せんたく",
+      "meaningVi": "giặt giũ",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "洗濯 (せんたく - giặt giũ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-03",
+      "word": "乾燥機",
+      "reading": "かんそうき",
+      "meaningVi": "máy sấy",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "乾燥機 (かんそうき - máy sấy)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-04",
+      "word": "整頓",
+      "reading": "せいとん",
+      "meaningVi": "sắp xếp gọn gàng",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "整頓 (せいとん - sắp xếp gọn gàng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-05",
+      "word": "故障",
+      "reading": "こしょう",
+      "meaningVi": "hỏng hóc",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "故障 (こしょう - hỏng hóc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l5-06",
+      "word": "修理",
+      "reading": "しゅうり",
+      "meaningVi": "sửa chữa",
+      "week": 2,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        11
+      ],
+      "lessonTopic": "Làm việc nhà & Dọn dẹp",
+      "pageRange": "32–33",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-01",
+      "sourceLine": 179,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "修理 (しゅうり - sửa chữa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-01",
+      "word": "口座",
+      "reading": "こうざ",
+      "meaningVi": "tài khoản",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "口座 (こうざ - tài khoản)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-02",
+      "word": "預金",
+      "reading": "よきん",
+      "meaningVi": "tiền gửi",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "預金 (よきん - tiền gửi)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-03",
+      "word": "振り込み",
+      "reading": "ふりこみ",
+      "meaningVi": "chuyển khoản",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "振り込み (ふりこみ - chuyển khoản)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-04",
+      "word": "引き出し",
+      "reading": "ひきだし",
+      "meaningVi": "rút tiền",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "引き出し (ひきだし - rút tiền)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-05",
+      "word": "暗証番号",
+      "reading": "あんしょうばんごう",
+      "meaningVi": "mã PIN",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "暗証番号 (あんしょうばんごう - mã PIN)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-06",
+      "word": "速達",
+      "reading": "そくたつ",
+      "meaningVi": "chuyển phát nhanh",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "速達 (そくたつ - chuyển phát nhanh)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w2l6-07",
+      "word": "書留",
+      "reading": "かきとめ",
+      "meaningVi": "thư bảo đảm",
+      "week": 2,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        12
+      ],
+      "lessonTopic": "Ngân hàng & Bưu điện",
+      "pageRange": "34–35",
+      "dayNumber": 6,
+      "taskId": "d06-kanji-02",
+      "sourceLine": 180,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "書留 (かきとめ - thư bảo đảm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-01",
+      "word": "頭痛",
+      "reading": "ずつう",
+      "meaningVi": "đau đầu",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "頭痛 (ずつう - đau đầu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-02",
+      "word": "腹痛",
+      "reading": "ふくつう",
+      "meaningVi": "đau bụng",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "腹痛 (ふくつう - đau bụng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-03",
+      "word": "吐き気",
+      "reading": "はきけ",
+      "meaningVi": "buồn nôn",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "吐き気 (はきけ - buồn nôn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-04",
+      "word": "発熱",
+      "reading": "はつねつ",
+      "meaningVi": "sốt",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "発熱 (はつねつ - sốt)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-05",
+      "word": "咳",
+      "reading": "せき",
+      "meaningVi": "ho",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "咳 (せき - ho)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-06",
+      "word": "血液型",
+      "reading": "けつえきがた",
+      "meaningVi": "nhóm máu",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "血液型 (けつえきがた - nhóm máu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-07",
+      "word": "骨",
+      "reading": "ほね",
+      "meaningVi": "xương",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "骨 (ほね - xương)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l1-08",
+      "word": "胃",
+      "reading": "い",
+      "meaningVi": "dạ dày",
+      "week": 3,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        13
+      ],
+      "lessonTopic": "Cơ thể & Triệu chứng bệnh",
+      "pageRange": "38–39",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-01",
+      "sourceLine": 202,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "胃 (い - dạ dày)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-01",
+      "word": "内科",
+      "reading": "ないか",
+      "meaningVi": "khoa nội",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "内科 (ないか - khoa nội)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-02",
+      "word": "外科",
+      "reading": "げか",
+      "meaningVi": "khoa ngoại",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "外科 (げか - khoa ngoại)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-03",
+      "word": "歯科",
+      "reading": "しか",
+      "meaningVi": "nha khoa",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "歯科 (しか - nha khoa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-04",
+      "word": "処方箋",
+      "reading": "しょほうせん",
+      "meaningVi": "đơn thuốc",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "処方箋 (しょほうせん - đơn thuốc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-05",
+      "word": "保険証",
+      "reading": "ほけんしょう",
+      "meaningVi": "thẻ bảo hiểm",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "保険証 (ほけんしょう - thẻ bảo hiểm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-06",
+      "word": "検査",
+      "reading": "けんさ",
+      "meaningVi": "xét nghiệm/kiểm tra",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "検査 (けんさ - xét nghiệm/kiểm tra)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-07",
+      "word": "入院",
+      "reading": "にゅういん",
+      "meaningVi": "nhập viện",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "入院 (にゅういん - nhập viện)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l2-08",
+      "word": "退院",
+      "reading": "たいいん",
+      "meaningVi": "xuất viện",
+      "week": 3,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        14
+      ],
+      "lessonTopic": "Bệnh viện & Thuốc",
+      "pageRange": "40–41",
+      "dayNumber": 7,
+      "taskId": "d07-kanji-02",
+      "sourceLine": 203,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "退院 (たいいん - xuất viện)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-01",
+      "word": "睡眠不足",
+      "reading": "すいみんぶそく",
+      "meaningVi": "thiếu ngủ",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "睡眠不足 (すいみんぶそく - thiếu ngủ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-02",
+      "word": "運動不足",
+      "reading": "うんどうぶそく",
+      "meaningVi": "thiếu vận động",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "運動不足 (うんどうぶそく - thiếu vận động)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-03",
+      "word": "禁煙",
+      "reading": "きんえん",
+      "meaningVi": "cai thuốc",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "禁煙 (きんえん - cai thuốc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-04",
+      "word": "肌",
+      "reading": "はだ",
+      "meaningVi": "làn da",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "肌 (はだ - làn da)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-05",
+      "word": "化粧品",
+      "reading": "けしょうひん",
+      "meaningVi": "mỹ phẩm",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "化粧品 (けしょうひん - mỹ phẩm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-06",
+      "word": "効果",
+      "reading": "こうか",
+      "meaningVi": "hiệu quả",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "効果 (こうか - hiệu quả)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l3-07",
+      "word": "維持",
+      "reading": "いじ",
+      "meaningVi": "duy trì",
+      "week": 3,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        15
+      ],
+      "lessonTopic": "Sức khỏe & Làm đẹp",
+      "pageRange": "42–43",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-01",
+      "sourceLine": 224,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "維持 (いじ - duy trì)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-01",
+      "word": "受験",
+      "reading": "じゅけん",
+      "meaningVi": "dự thi",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "受験 (じゅけん - dự thi)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-02",
+      "word": "合格",
+      "reading": "ごうかく",
+      "meaningVi": "thi đỗ",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "合格 (ごうかく - thi đỗ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-03",
+      "word": "進学",
+      "reading": "しんがく",
+      "meaningVi": "học lên cao",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "進学 (しんがく - học lên cao)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-04",
+      "word": "卒業",
+      "reading": "そつぎょう",
+      "meaningVi": "tốt nghiệp",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "卒業 (そつぎょう - tốt nghiệp)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-05",
+      "word": "提出",
+      "reading": "ていしゅつ",
+      "meaningVi": "nộp bài",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "提出 (ていしゅつ - nộp bài)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-06",
+      "word": "欠席",
+      "reading": "けっせき",
+      "meaningVi": "vắng mặt",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "欠席 (けっせき - vắng mặt)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-07",
+      "word": "遅刻",
+      "reading": "ちこく",
+      "meaningVi": "đi muộn",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "遅刻 (ちこく - đi muộn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l4-08",
+      "word": "成績",
+      "reading": "せいせき",
+      "meaningVi": "thành tích",
+      "week": 3,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        16
+      ],
+      "lessonTopic": "Trường học & Học tập",
+      "pageRange": "44–45",
+      "dayNumber": 8,
+      "taskId": "d08-kanji-02",
+      "sourceLine": 225,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "成績 (せいせき - thành tích)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-01",
+      "word": "募集",
+      "reading": "ぼしゅう",
+      "meaningVi": "tuyển dụng",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "募集 (ぼしゅう - tuyển dụng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-02",
+      "word": "応募",
+      "reading": "おうぼ",
+      "meaningVi": "ứng tuyển",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "応募 (おうぼ - ứng tuyển)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-03",
+      "word": "履歴書",
+      "reading": "りれきしょ",
+      "meaningVi": "sơ yếu lý lịch",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "履歴書 (りれきしょ - sơ yếu lý lịch)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-04",
+      "word": "面接",
+      "reading": "めんせつ",
+      "meaningVi": "phỏng vấn",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "面接 (めんせつ - phỏng vấn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-05",
+      "word": "採用",
+      "reading": "さいよう",
+      "meaningVi": "录 dụng",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "採用 (さいよう -录 dụng)",
+      "flags": [
+        "CJK_IN_VIETNAMESE_MEANING"
+      ]
+    },
+    {
+      "id": "rm-kw-w3l5-06",
+      "word": "時給",
+      "reading": "じきゅう",
+      "meaningVi": "lương theo giờ",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "時給 (じきゅう - lương theo giờ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l5-07",
+      "word": "経験者",
+      "reading": "けいけんしゃ",
+      "meaningVi": "người có kinh nghiệm",
+      "week": 3,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        17
+      ],
+      "lessonTopic": "Xin việc & Tuyển dụng",
+      "pageRange": "46–47",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-01",
+      "sourceLine": 259,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "経験者 (けいけんしゃ - người có kinh nghiệm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-01",
+      "word": "出勤",
+      "reading": "しゅっきん",
+      "meaningVi": "đi làm",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "出勤 (しゅっきん - đi làm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-02",
+      "word": "退勤",
+      "reading": "たいきん",
+      "meaningVi": "tan làm",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "退勤 (たいきん - tan làm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-03",
+      "word": "残業",
+      "reading": "ざんぎょう",
+      "meaningVi": "làm thêm giờ",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "残業 (ざんぎょう - làm thêm giờ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-04",
+      "word": "出張",
+      "reading": "しゅっちょう",
+      "meaningVi": "công tác",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "出張 (しゅっちょう - công tác)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-05",
+      "word": "会議",
+      "reading": "かいぎ",
+      "meaningVi": "cuộc họp",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "会議 (かいぎ - cuộc họp)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-06",
+      "word": "資料",
+      "reading": "しりょう",
+      "meaningVi": "tài liệu",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "資料 (しりょう - tài liệu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-07",
+      "word": "印刷",
+      "reading": "いんさつ",
+      "meaningVi": "in ấn",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "印刷 (いんさつ - in ấn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w3l6-08",
+      "word": "確認",
+      "reading": "かくにん",
+      "meaningVi": "xác nhận",
+      "week": 3,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        18
+      ],
+      "lessonTopic": "Công sở & Văn phòng",
+      "pageRange": "48–49",
+      "dayNumber": 9,
+      "taskId": "d09-kanji-02",
+      "sourceLine": 260,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "確認 (かくにん - xác nhận)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-01",
+      "word": "地球",
+      "reading": "ちきゅう",
+      "meaningVi": "trái đất",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "地球 (ちきゅう - trái đất)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-02",
+      "word": "大陸",
+      "reading": "たいりく",
+      "meaningVi": "đại lục",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "大陸 (たいりく - đại lục)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-03",
+      "word": "海岸",
+      "reading": "かいがん",
+      "meaningVi": "bờ biển",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "海岸 (かいがん - bờ biển)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-04",
+      "word": "砂漠",
+      "reading": "さばく",
+      "meaningVi": "sa mạc",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "砂漠 (さばく - sa mạc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-05",
+      "word": "森林",
+      "reading": "しんりん",
+      "meaningVi": "rừng rậm",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "森林 (しんりん - rừng rậm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-06",
+      "word": "植物",
+      "reading": "しょくぶつ",
+      "meaningVi": "thực vật",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "植物 (しょくぶつ - thực vật)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l1-07",
+      "word": "昆虫",
+      "reading": "こんちゅう",
+      "meaningVi": "côn trùng",
+      "week": 4,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        19
+      ],
+      "lessonTopic": "Thiên nhiên & Địa lý",
+      "pageRange": "52–53",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-01",
+      "sourceLine": 282,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "昆虫 (こんちゅう - côn trùng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-01",
+      "word": "天気予報",
+      "reading": "てんきよほう",
+      "meaningVi": "dự báo thời tiết",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "天気予報 (てんきよほう - dự báo thời tiết)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-02",
+      "word": "気温",
+      "reading": "きおん",
+      "meaningVi": "nhiệt độ",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "気温 (きおん - nhiệt độ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-03",
+      "word": "湿度",
+      "reading": "しつど",
+      "meaningVi": "độ ẩm",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "湿度 (しつど - độ ẩm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-04",
+      "word": "降水確率",
+      "reading": "こうすいかくりつ",
+      "meaningVi": "xác suất mưa",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "降水確率 (こうすいかくりつ - xác suất mưa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-05",
+      "word": "梅雨",
+      "reading": "つゆ",
+      "meaningVi": "mùa mưa",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "梅雨 (つゆ - mùa mưa)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-06",
+      "word": "台風",
+      "reading": "たいふう",
+      "meaningVi": "bão",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "台風 (たいふう - bão)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-07",
+      "word": "警報",
+      "reading": "けいほう",
+      "meaningVi": "cảnh báo",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "警報 (けいほう - cảnh báo)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l2-08",
+      "word": "注意報",
+      "reading": "ちゅういほう",
+      "meaningVi": "tin chú ý",
+      "week": 4,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        20
+      ],
+      "lessonTopic": "Dự báo thời tiết",
+      "pageRange": "54–55",
+      "dayNumber": 10,
+      "taskId": "d10-kanji-02",
+      "sourceLine": 283,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "注意報 (ちゅういほう - tin chú ý)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-01",
+      "word": "地震",
+      "reading": "じしん",
+      "meaningVi": "động đất",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "地震 (じしん - động đất)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-02",
+      "word": "津波",
+      "reading": "つなみ",
+      "meaningVi": "sóng thần",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "津波 (つなみ - sóng thần)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-03",
+      "word": "噴火",
+      "reading": "ふんか",
+      "meaningVi": "phun trào",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "噴火 (ふんか - phun trào)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-04",
+      "word": "被害",
+      "reading": "ひがい",
+      "meaningVi": "thiệt hại",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "被害 (ひがい - thiệt hại)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-05",
+      "word": "避難",
+      "reading": "ひなん",
+      "meaningVi": "sơ tán/lánh nạn",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "避難 (ひなん - sơ tán/lánh nạn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-06",
+      "word": "停電",
+      "reading": "ていでん",
+      "meaningVi": "mất điện",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "停電 (ていでん - mất điện)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-07",
+      "word": "断水",
+      "reading": "だんすい",
+      "meaningVi": "mất nước",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "断水 (だんすい - mất nước)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l3-08",
+      "word": "復旧",
+      "reading": "ふっきゅう",
+      "meaningVi": "khôi phục",
+      "week": 4,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        21
+      ],
+      "lessonTopic": "Thiên tai & Sự cố",
+      "pageRange": "56–57",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-01",
+      "sourceLine": 305,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "復旧 (ふっきゅう - khôi phục)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-01",
+      "word": "地球温暖化",
+      "reading": "ちきゅうおんだんか",
+      "meaningVi": "nóng lên toàn cầu",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "地球温暖化 (ちきゅうおんだんか - nóng lên toàn cầu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-02",
+      "word": "環境汚染",
+      "reading": "かんきょうおせん",
+      "meaningVi": "ô nhiễm môi trường",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "環境汚染 (かんきょうおせん - ô nhiễm môi trường)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-03",
+      "word": "節約",
+      "reading": "せつやく",
+      "meaningVi": "tiết kiệm",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "節約 (せつやく - tiết kiệm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-04",
+      "word": "節電",
+      "reading": "せつでん",
+      "meaningVi": "tiết kiệm điện",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "節電 (せつでん - tiết kiệm điện)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-05",
+      "word": "太陽光発電",
+      "reading": "たいようこうはつでん",
+      "meaningVi": "điện mặt trời",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "太陽光発電 (たいようこうはつでん - điện mặt trời)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l4-06",
+      "word": "保護",
+      "reading": "ほご",
+      "meaningVi": "bảo hộ",
+      "week": 4,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        22
+      ],
+      "lessonTopic": "Môi trường & Năng lượng",
+      "pageRange": "58–59",
+      "dayNumber": 11,
+      "taskId": "d11-kanji-02",
+      "sourceLine": 306,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "保護 (ほご - bảo hộ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-01",
+      "word": "事件",
+      "reading": "じけん",
+      "meaningVi": "vụ án",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "事件 (じけん - vụ án)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-02",
+      "word": "逮捕",
+      "reading": "たいほ",
+      "meaningVi": "bắt giữ",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "逮捕 (たいほ - bắt giữ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-03",
+      "word": "警察",
+      "reading": "けいさつ",
+      "meaningVi": "cảnh sát",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "警察 (けいさつ - cảnh sát)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-04",
+      "word": "捜査",
+      "reading": "そうさ",
+      "meaningVi": "điều tra",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "捜査 (そうさ - điều tra)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-05",
+      "word": "景気",
+      "reading": "けいき",
+      "meaningVi": "kinh tế",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "景気 (けいき - kinh tế)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-06",
+      "word": "回復",
+      "reading": "かいふく",
+      "meaningVi": "hồi phục",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "回復 (かいふく - hồi phục)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-07",
+      "word": "増加",
+      "reading": "ぞうか",
+      "meaningVi": "gia tăng",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "増加 (ぞうか - gia tăng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l5-08",
+      "word": "減少",
+      "reading": "げんしょう",
+      "meaningVi": "sụt giảm",
+      "week": 4,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        23
+      ],
+      "lessonTopic": "Tin tức xã hội & Kinh tế",
+      "pageRange": "60–61",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-01",
+      "sourceLine": 328,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "減少 (げんしょう - sụt giảm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-01",
+      "word": "大統領",
+      "reading": "だいとうりょう",
+      "meaningVi": "tổng thống",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "大統領 (だいとうりょう - tổng thống)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-02",
+      "word": "首相",
+      "reading": "しゅしょう",
+      "meaningVi": "thủ tướng",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "首相 (しゅしょう - thủ tướng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-03",
+      "word": "選挙",
+      "reading": "せんきょ",
+      "meaningVi": "bầu cử",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "選挙 (せんきょ - bầu cử)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-04",
+      "word": "投票",
+      "reading": "とうひょう",
+      "meaningVi": "bỏ phiếu",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "投票 (とうひょう - bỏ phiếu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-05",
+      "word": "税金",
+      "reading": "ぜいきん",
+      "meaningVi": "thuế",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "税金 (ぜいきん - thuế)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-06",
+      "word": "輸出",
+      "reading": "ゆしゅつ",
+      "meaningVi": "xuất khẩu",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "輸出 (ゆしゅつ - xuất khẩu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-07",
+      "word": "輸入",
+      "reading": "ゆにゅう",
+      "meaningVi": "nhập khẩu",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "輸入 (ゆにゅう - nhập khẩu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w4l6-08",
+      "word": "発展",
+      "reading": "はってん",
+      "meaningVi": "phát triển",
+      "week": 4,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        24
+      ],
+      "lessonTopic": "Chính trị & Quốc tế",
+      "pageRange": "62–63",
+      "dayNumber": 12,
+      "taskId": "d12-kanji-02",
+      "sourceLine": 329,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "発展 (はってん - phát triển)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-01",
+      "word": "喜ぶ",
+      "reading": "よろこぶ",
+      "meaningVi": "vui mừng",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "喜ぶ (よろこぶ - vui mừng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-02",
+      "word": "悲しむ",
+      "reading": "かなしむ",
+      "meaningVi": "đau buồn",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "悲しむ (かなしむ - đau buồn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-03",
+      "word": "怒る",
+      "reading": "おこる",
+      "meaningVi": "tức giận",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "怒る (おこる - tức giận)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-04",
+      "word": "驚く",
+      "reading": "おどろく",
+      "meaningVi": "ngạc nhiên",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "驚く (おどろく - ngạc nhiên)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-05",
+      "word": "感動",
+      "reading": "かんどう",
+      "meaningVi": "cảm động",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "感動 (かんどう - cảm động)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-06",
+      "word": "緊張",
+      "reading": "きんちょう",
+      "meaningVi": "căng thẳng",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "緊張 (きんちょう - căng thẳng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-07",
+      "word": "安心",
+      "reading": "あんしん",
+      "meaningVi": "yên tâm",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "安心 (あんしん - yên tâm)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l1-08",
+      "word": "不安",
+      "reading": "ふあん",
+      "meaningVi": "bất an",
+      "week": 5,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        25
+      ],
+      "lessonTopic": "Cảm xúc vui buồn",
+      "pageRange": "66–67",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-01",
+      "sourceLine": 354,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "不安 (ふあん - bất an)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-01",
+      "word": "満足",
+      "reading": "まんぞく",
+      "meaningVi": "thỏa mãn",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "満足 (まんぞく - thỏa mãn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-02",
+      "word": "不満",
+      "reading": "ふまん",
+      "meaningVi": "bất mãn",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "不満 (ふまん - bất mãn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-03",
+      "word": "後悔",
+      "reading": "こうかい",
+      "meaningVi": "hối hận",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "後悔 (こうかい - hối hận)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-04",
+      "word": "期待",
+      "reading": "きたい",
+      "meaningVi": "kỳ vọng",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "期待 (きたい - kỳ vọng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-05",
+      "word": "感謝",
+      "reading": "かんしゃ",
+      "meaningVi": "cảm tạ",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "感謝 (かんしゃ - cảm tạ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-06",
+      "word": "希望",
+      "reading": "きぼう",
+      "meaningVi": "hy vọng",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "希望 (きぼう - hy vọng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-07",
+      "word": "努力",
+      "reading": "どりょく",
+      "meaningVi": "nỗ lực",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "努力 (どりょく - nỗ lực)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l2-08",
+      "word": "我慢",
+      "reading": "がまん",
+      "meaningVi": "nhẫn nại",
+      "week": 5,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        26
+      ],
+      "lessonTopic": "Cảm giác & Suy nghĩ",
+      "pageRange": "68–69",
+      "dayNumber": 13,
+      "taskId": "d13-kanji-02",
+      "sourceLine": 355,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "我慢 (がまん - nhẫn nại)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-01",
+      "word": "相談",
+      "reading": "そうだん",
+      "meaningVi": "bàn bạc",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "相談 (そうだん - bàn bạc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-02",
+      "word": "連絡",
+      "reading": "れんらく",
+      "meaningVi": "liên lạc",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "連絡 (れんらく - liên lạc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-03",
+      "word": "約束",
+      "reading": "やくそく",
+      "meaningVi": "hứa hẹn",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "約束 (やくそく - hứa hẹn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-04",
+      "word": "紹介",
+      "reading": "しょうかい",
+      "meaningVi": "giới thiệu",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "紹介 (しょうかい - giới thiệu)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-05",
+      "word": "招待",
+      "reading": "しょうたい",
+      "meaningVi": "mời",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "招待 (しょうたい - mời)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-06",
+      "word": "訪問",
+      "reading": "ほうもん",
+      "meaningVi": "thăm viếng",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "訪問 (ほうもん - thăm viếng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-07",
+      "word": "歓迎",
+      "reading": "かんげい",
+      "meaningVi": "hoan nghênh",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "歓迎 (かんげい - hoan nghênh)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l3-08",
+      "word": "協力",
+      "reading": "きょうりょく",
+      "meaningVi": "hợp tác",
+      "week": 5,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        27
+      ],
+      "lessonTopic": "Giao tiếp & Quan hệ",
+      "pageRange": "70–71",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-01",
+      "sourceLine": 375,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "協力 (きょうりょく - hợp tác)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-01",
+      "word": "誕生",
+      "reading": "たんじょう",
+      "meaningVi": "ra đời",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "誕生 (たんじょう - ra đời)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-02",
+      "word": "成長",
+      "reading": "せいちょう",
+      "meaningVi": "trưởng thành",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "成長 (せいちょう - trưởng thành)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-03",
+      "word": "独身",
+      "reading": "どくしん",
+      "meaningVi": "độc thân",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "独身 (どくしん - độc thân)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-04",
+      "word": "結婚",
+      "reading": "けっこん",
+      "meaningVi": "kết hôn",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "結婚 (けっこん - kết hôn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-05",
+      "word": "離婚",
+      "reading": "りこん",
+      "meaningVi": "ly hôn",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "離婚 (りこん - ly hôn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-06",
+      "word": "夫婦",
+      "reading": "ふうふ",
+      "meaningVi": "vợ chồng",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "夫婦 (ふうふ - vợ chồng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-07",
+      "word": "育児",
+      "reading": "いくじ",
+      "meaningVi": "nuôi con",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "育児 (いくじ - nuôi con)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l4-08",
+      "word": "介護",
+      "reading": "かいご",
+      "meaningVi": "chăm sóc người già",
+      "week": 5,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        28
+      ],
+      "lessonTopic": "Gia đình & Cuộc đời",
+      "pageRange": "72–73",
+      "dayNumber": 14,
+      "taskId": "d14-kanji-02",
+      "sourceLine": 376,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "介護 (かいご - chăm sóc người già)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-01",
+      "word": "正直",
+      "reading": "しょうじき",
+      "meaningVi": "trung thực",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "正直 (しょうじき - trung thực)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-02",
+      "word": "真面目",
+      "reading": "まじめ",
+      "meaningVi": "nghiêm túc",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "真面目 (まじめ - nghiêm túc)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-03",
+      "word": "親切",
+      "reading": "しんせつ",
+      "meaningVi": "tốt bụng",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "親切 (しんせつ - tốt bụng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-04",
+      "word": "丁寧",
+      "reading": "ていねい",
+      "meaningVi": "lịch sự",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "丁寧 (ていねい - lịch sự)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-05",
+      "word": "優秀",
+      "reading": "ゆうしゅう",
+      "meaningVi": "ưu tú",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "優秀 (ゆうしゅう - ưu tú)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-06",
+      "word": "才能",
+      "reading": "さいのう",
+      "meaningVi": "tài năng",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "才能 (さいのう - tài năng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-07",
+      "word": "尊敬",
+      "reading": "そんけい",
+      "meaningVi": "tôn kính",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "尊敬 (そんけい - tôn kính)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l5-08",
+      "word": "信頼",
+      "reading": "しんらい",
+      "meaningVi": "tin cậy",
+      "week": 5,
+      "lessons": [
+        5
+      ],
+      "lessonGlobal": [
+        29
+      ],
+      "lessonTopic": "Tính cách & Đánh giá",
+      "pageRange": "74–75",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-01",
+      "sourceLine": 398,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "信頼 (しんらい - tin cậy)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-01",
+      "word": "原因",
+      "reading": "げんいん",
+      "meaningVi": "nguyên nhân",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "原因 (げんいん - nguyên nhân)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-02",
+      "word": "結果",
+      "reading": "けっか",
+      "meaningVi": "kết quả",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "結果 (けっか - kết quả)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-03",
+      "word": "目的",
+      "reading": "もくてき",
+      "meaningVi": "mục đích",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "目的 (もくてき - mục đích)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-04",
+      "word": "方法",
+      "reading": "ほうほう",
+      "meaningVi": "phương pháp",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "方法 (ほうほう - phương pháp)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-05",
+      "word": "関係",
+      "reading": "かんけい",
+      "meaningVi": "quan hệ",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "関係 (かんけい - quan hệ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-06",
+      "word": "影響",
+      "reading": "えいきょう",
+      "meaningVi": "ảnh hưởng",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "影響 (えいきょう - ảnh hưởng)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-07",
+      "word": "比較",
+      "reading": "ひかく",
+      "meaningVi": "so sánh",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "比較 (ひかく - so sánh)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w5l6-08",
+      "word": "選択",
+      "reading": "せんたく",
+      "meaningVi": "lựa chọn",
+      "week": 5,
+      "lessons": [
+        6
+      ],
+      "lessonGlobal": [
+        30
+      ],
+      "lessonTopic": "Từ vựng trừu tượng",
+      "pageRange": "76–77",
+      "dayNumber": 15,
+      "taskId": "d15-kanji-02",
+      "sourceLine": 399,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "選択 (せんたく - lựa chọn)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-01",
+      "word": "待つ",
+      "reading": "まつ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg01",
+      "source": "roadmap_highlight",
+      "rawText": "待つ (まつ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-02",
+      "word": "持つ",
+      "reading": "もつ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg01",
+      "source": "roadmap_highlight",
+      "rawText": "持つ (もつ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-03",
+      "word": "働く",
+      "reading": "はたらく",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg02",
+      "source": "roadmap_highlight",
+      "rawText": "働く (はたらく)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-04",
+      "word": "動く",
+      "reading": "うごく",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg02",
+      "source": "roadmap_highlight",
+      "rawText": "動く (うごく)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-05",
+      "word": "拾う",
+      "reading": "ひろう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg03",
+      "source": "roadmap_highlight",
+      "rawText": "拾う (ひろう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-06",
+      "word": "捨てる",
+      "reading": "すてる",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg03",
+      "source": "roadmap_highlight",
+      "rawText": "捨てる (すてる)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-07",
+      "word": "届ける",
+      "reading": "とどける",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg04",
+      "source": "roadmap_highlight",
+      "rawText": "届ける (とどける)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-08",
+      "word": "届く",
+      "reading": "とどく",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg04",
+      "source": "roadmap_highlight",
+      "rawText": "届く (とどく)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-09",
+      "word": "預ける",
+      "reading": "あずける",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg05",
+      "source": "roadmap_highlight",
+      "rawText": "預ける (あずける)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l1-10",
+      "word": "預かる",
+      "reading": "あずかる",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        1
+      ],
+      "lessonGlobal": [
+        31
+      ],
+      "lessonTopic": "Các chữ Kanji dễ nhìn nhầm nét",
+      "pageRange": "80–81",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-01",
+      "sourceLine": 421,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": "rm-kw-w6l1-cg05",
+      "source": "roadmap_highlight",
+      "rawText": "預かる (あずかる)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-01",
+      "word": "不便",
+      "reading": "ふべん",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "不便 (ふべん)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-02",
+      "word": "不足",
+      "reading": "ふそく",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "不足 (ふそく)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-03",
+      "word": "不安",
+      "reading": "ふあん",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "不安 (ふあん)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-04",
+      "word": "無料",
+      "reading": "むりょう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "無料 (むりょう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-05",
+      "word": "無理",
+      "reading": "むり",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "無理 (むり)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-06",
+      "word": "無駄",
+      "reading": "むだ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "無駄 (むだ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-07",
+      "word": "未成年",
+      "reading": "みせいねん",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "未成年 (みせいねん)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-08",
+      "word": "未定",
+      "reading": "みてい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "未定 (みてい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-09",
+      "word": "非常",
+      "reading": "ひじょう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "非常 (ひじょう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l2-10",
+      "word": "非難",
+      "reading": "ひなん",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        2
+      ],
+      "lessonGlobal": [
+        32
+      ],
+      "lessonTopic": "Các từ có tiền tố 不・無・未・非",
+      "pageRange": "82–83",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-02",
+      "sourceLine": 422,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "非難 (ひなん)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-01",
+      "word": "具体的",
+      "reading": "ぐたいてき",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "具体的 (ぐたいてき)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-02",
+      "word": "積極的",
+      "reading": "せっきょくてき",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "積極的 (せっきょくてき)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-03",
+      "word": "一般的",
+      "reading": "いっぱんてき",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "一般的 (いっぱんてき)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-04",
+      "word": "可能性",
+      "reading": "かのうせい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "可能性 (かのうせい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-05",
+      "word": "危険性",
+      "reading": "きけんせい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "危険性 (きけんせい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-06",
+      "word": "国際化",
+      "reading": "こくさいか",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "国際化 (こくさいか)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-07",
+      "word": "高齢化",
+      "reading": "こうれいか",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "高齢化 (こうれいか)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l3-08",
+      "word": "責任感",
+      "reading": "せきにんかん",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        3
+      ],
+      "lessonGlobal": [
+        33
+      ],
+      "lessonTopic": "Các từ có hậu tố 的・性・化・感",
+      "pageRange": "84–85",
+      "dayNumber": 16,
+      "taskId": "d16-kanji-03",
+      "sourceLine": 423,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "責任感 (せきにんかん)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-01",
+      "word": "都合",
+      "reading": "つごう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "都合 (つごう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-02",
+      "word": "都会",
+      "reading": "とかい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "都会 (とかい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-03",
+      "word": "首都",
+      "reading": "しゅと",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "首都 (しゅと)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-04",
+      "word": "工夫",
+      "reading": "くふう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "工夫 (くふう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-05",
+      "word": "夫婦",
+      "reading": "ふうふ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "夫婦 (ふうふ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-06",
+      "word": "大家",
+      "reading": "おおや",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "大家 (おおや)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-07",
+      "word": "大事",
+      "reading": "だいじ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "大事 (だいじ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-08",
+      "word": "大いに",
+      "reading": "おおいに",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "大いに (おおいに)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-09",
+      "word": "生物",
+      "reading": "せいぶつ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "生物 (せいぶつ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-10",
+      "word": "生地",
+      "reading": "きじ",
+      "meaningVi": "vải/bột",
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "生地 (きじ - vải/bột)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l4-11",
+      "word": "生まれる",
+      "reading": "うまれる",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        4
+      ],
+      "lessonGlobal": [
+        34
+      ],
+      "lessonTopic": "Các chữ có nhiều cách đọc đặc biệt",
+      "pageRange": "86–87",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-01",
+      "sourceLine": 454,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "生まれる (うまれる)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-01",
+      "word": "落ち着く",
+      "reading": "おちつく",
+      "meaningVi": "bình tĩnh/ổn định",
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "落ち着く (おちつく - bình tĩnh/ổn định)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-02",
+      "word": "支払う",
+      "reading": "しはらう",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "支払う (しはらう)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-03",
+      "word": "受け取る",
+      "reading": "うけとる",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "受け取る (うけとる)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-04",
+      "word": "申し込む",
+      "reading": "もうしこむ",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "申し込む (もうしこむ)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-05",
+      "word": "差し上げる",
+      "reading": "さしあげる",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "差し上げる (さしあげる)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-06",
+      "word": "懐かしい",
+      "reading": "なつかしい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "懐かしい (なつかしい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-07",
+      "word": "羨ましい",
+      "reading": "うらやましい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "羨ましい (うらやましい)",
+      "flags": []
+    },
+    {
+      "id": "rm-kw-w6l5-08",
+      "word": "恥ずかしい",
+      "reading": "はずかしい",
+      "meaningVi": null,
+      "week": 6,
+      "lessons": [
+        5,
+        6
+      ],
+      "lessonGlobal": [
+        35,
+        36
+      ],
+      "lessonTopic": "Động từ & Tính từ phức hợp",
+      "pageRange": "88–91",
+      "dayNumber": 17,
+      "taskId": "d17-kanji-02",
+      "sourceLine": 455,
+      "textbookId": "soumatome_kanji",
+      "contrastGroup": null,
+      "source": "roadmap_highlight",
+      "rawText": "恥ずかしい (はずかしい)",
+      "flags": []
+    }
+  ],
+  "homophoneGroups": [
+    {
+      "id": "rm-hom-01",
+      "reading": "きかん",
+      "members": [
+        {
+          "id": "rm-hom-01-1",
+          "word": "期間",
+          "reading": null,
+          "meaningVi": "khoảng thời gian",
+          "rawText": "期間 (khoảng thời gian)"
+        },
+        {
+          "id": "rm-hom-01-2",
+          "word": "期限",
+          "reading": null,
+          "meaningVi": "thời hạn",
+          "rawText": "期限 (thời hạn)"
+        },
+        {
+          "id": "rm-hom-01-3",
+          "word": "機関",
+          "reading": null,
+          "meaningVi": "cơ quan/tổ chức",
+          "rawText": "機関 (cơ quan/tổ chức)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 541,
+      "rawText": "`きかん`: 期間 (khoảng thời gian) vs 期限 (thời hạn) vs 機関 (cơ quan/tổ chức).",
+      "source": "roadmap_highlight",
+      "flags": [
+        "MEMBER_READING_DIFFERS"
+      ]
+    },
+    {
+      "id": "rm-hom-02",
+      "reading": "いがい",
+      "members": [
+        {
+          "id": "rm-hom-02-1",
+          "word": "以外",
+          "reading": null,
+          "meaningVi": "ngoài ra",
+          "rawText": "以外 (ngoài ra)"
+        },
+        {
+          "id": "rm-hom-02-2",
+          "word": "意外",
+          "reading": null,
+          "meaningVi": "bất ngờ",
+          "rawText": "意外 (bất ngờ)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 542,
+      "rawText": "`いがい`: 以外 (ngoài ra) vs 意外 (bất ngờ).",
+      "source": "roadmap_highlight",
+      "flags": []
+    },
+    {
+      "id": "rm-hom-03",
+      "reading": "かいふく",
+      "members": [
+        {
+          "id": "rm-hom-03-1",
+          "word": "回復",
+          "reading": null,
+          "meaningVi": "hồi phục sức khỏe/kinh tế",
+          "rawText": "回復 (hồi phục sức khỏe/kinh tế)"
+        },
+        {
+          "id": "rm-hom-03-2",
+          "word": "往復",
+          "reading": null,
+          "meaningVi": "khứ hồi",
+          "rawText": "往復 (khứ hồi)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 543,
+      "rawText": "`かいふく`: 回復 (hồi phục sức khỏe/kinh tế) vs 往復 (khứ hồi).",
+      "source": "roadmap_highlight",
+      "flags": [
+        "MEMBER_READING_DIFFERS"
+      ]
+    },
+    {
+      "id": "rm-hom-04",
+      "reading": "こうか",
+      "members": [
+        {
+          "id": "rm-hom-04-1",
+          "word": "効果",
+          "reading": null,
+          "meaningVi": "hiệu quả",
+          "rawText": "効果 (hiệu quả)"
+        },
+        {
+          "id": "rm-hom-04-2",
+          "word": "硬貨",
+          "reading": null,
+          "meaningVi": "tiền xu",
+          "rawText": "硬貨 (tiền xu)"
+        },
+        {
+          "id": "rm-hom-04-3",
+          "word": "高価",
+          "reading": null,
+          "meaningVi": "đắt giá",
+          "rawText": "高価 (đắt giá)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 544,
+      "rawText": "`こうか`: 効果 (hiệu quả) vs 硬貨 (tiền xu) vs 高価 (đắt giá).",
+      "source": "roadmap_highlight",
+      "flags": []
+    },
+    {
+      "id": "rm-hom-05",
+      "reading": "しょうひ",
+      "members": [
+        {
+          "id": "rm-hom-05-1",
+          "word": "消費",
+          "reading": null,
+          "meaningVi": "tiêu thụ",
+          "rawText": "消費 (tiêu thụ)"
+        },
+        {
+          "id": "rm-hom-05-2",
+          "word": "浪費",
+          "reading": null,
+          "meaningVi": "lãng phí",
+          "rawText": "浪費 (lãng phí)"
+        },
+        {
+          "id": "rm-hom-05-3",
+          "word": "経費",
+          "reading": null,
+          "meaningVi": "kinh phí",
+          "rawText": "経費 (kinh phí)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 545,
+      "rawText": "`しょうひ`: 消費 (tiêu thụ) vs 浪費 (lãng phí) vs 経費 (kinh phí).",
+      "source": "roadmap_highlight",
+      "flags": [
+        "MEMBERS_NOT_HOMOPHONES"
+      ]
+    },
+    {
+      "id": "rm-hom-06",
+      "reading": "たいしょう",
+      "members": [
+        {
+          "id": "rm-hom-06-1",
+          "word": "対象",
+          "reading": null,
+          "meaningVi": "đối tượng",
+          "rawText": "対象 (đối tượng)"
+        },
+        {
+          "id": "rm-hom-06-2",
+          "word": "対照",
+          "reading": null,
+          "meaningVi": "đối chiếu",
+          "rawText": "対照 (đối chiếu)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 546,
+      "rawText": "`たいしょう`: 対象 (đối tượng) vs 対照 (đối chiếu).",
+      "source": "roadmap_highlight",
+      "flags": []
+    },
+    {
+      "id": "rm-hom-07",
+      "reading": "ほしょう",
+      "members": [
+        {
+          "id": "rm-hom-07-1",
+          "word": "保証",
+          "reading": null,
+          "meaningVi": "bảo hành/đảm bảo",
+          "rawText": "保証 (bảo hành/đảm bảo)"
+        },
+        {
+          "id": "rm-hom-07-2",
+          "word": "補償",
+          "reading": null,
+          "meaningVi": "bồi thường",
+          "rawText": "補償 (bồi thường)"
+        },
+        {
+          "id": "rm-hom-07-3",
+          "word": "保障",
+          "reading": null,
+          "meaningVi": "bảo đảm quyền lợi/an sinh",
+          "rawText": "保障 (bảo đảm quyền lợi/an sinh)"
+        }
+      ],
+      "dayNumber": 22,
+      "taskId": "d22-kanji-01",
+      "sourceLine": 547,
+      "rawText": "`ほしょう`: 保証 (bảo hành/đảm bảo) vs 補償 (bồi thường) vs 保障 (bảo đảm quyền lợi/an sinh).",
+      "source": "roadmap_highlight",
+      "flags": []
+    }
+  ],
+  "revisionTopics": [
+    {
+      "key": "similar_looking",
+      "labelVi": "Chữ Kanji dễ nhìn nhầm nét",
+      "taskIds": [
+        "d16-kanji-01"
+      ]
+    },
+    {
+      "key": "prefixes",
+      "labelVi": "Tiền tố 不・無・未・非",
+      "taskIds": [
+        "d16-kanji-02"
+      ]
+    },
+    {
+      "key": "suffixes",
+      "labelVi": "Hậu tố 的・性・化・感",
+      "taskIds": [
+        "d16-kanji-03"
+      ]
+    },
+    {
+      "key": "special_readings",
+      "labelVi": "Chữ có nhiều cách đọc đặc biệt",
+      "taskIds": [
+        "d17-kanji-01"
+      ]
+    },
+    {
+      "key": "long_vowel_sokuon_rendaku",
+      "labelVi": "Trường âm, âm ngắt っ, biến âm (rendaku)",
+      "taskIds": [
+        "d18-kanji-01"
+      ]
+    },
+    {
+      "key": "homophones",
+      "labelVi": "Đồng âm khác nghĩa (Mondai 2 Từ vựng)",
+      "taskIds": [
+        "d22-kanji-01"
+      ]
+    }
+  ],
+  "characters": [],
+  "extractionStatus": {
+    "status": "partial",
+    "listedWords": 269,
+    "missing": [
+      "336 chữ Kanji riêng lẻ",
+      "âm On/Kun từng chữ",
+      "chữ dễ nhầm theo từng chữ",
+      "ví dụ câu"
+    ],
+    "explanation": "36 bài × 6 tuần, trang và bài Test tuần đầy đủ; nội dung là từ ghép tiêu biểu như trong lộ trình."
+  },
+  "importTemplate": {
+    "format": "csv",
+    "columns": [
+      "id",
+      "kanji",
+      "week",
+      "lesson",
+      "meaningVi",
+      "onyomi",
+      "kunyomi",
+      "jukugo",
+      "jukugoMeaningsVi",
+      "similarKanji",
+      "source"
+    ]
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "Lộ trình ôn JLPT N3 cấp tốc 25 ngày (10_11 - 04_12).md",
+    "sha256": "039e186797f3b1325cc7f9e443769e76cec9c94c6409ca7960d82db37f43d0aa",
+    "lineCount": 605
+  },
+  "issueCount": 42,
+  "bySeverity": {
+    "error": 2,
+    "warning": 20,
+    "info": 20
+  },
+  "issues": [
+    {
+      "id": "ISSUE-001",
+      "code": "GRAMMAR_PAIR_UNLINKED",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Các mẫu trong 'cặp dễ nhầm' (Ngày 15) không có mục tương ứng trong danh sách mẫu đã liệt kê: ～向け, ～向き, ～ことにする, ～ことになる",
+      "dayNumber": 15,
+      "sourceLines": [],
+      "evidence": [],
+      "taskIds": [],
+      "suggestion": "Sẽ tự liên kết khi người học nhập đủ 112 mẫu.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-002",
+      "code": "CORRUPTED_TEXT_HANGUL",
+      "severity": "error",
+      "category": "data_quality",
+      "message": "Ký tự tiếng Hàn '절' xuất hiện trong nghĩa tiếng Việt: …phòng), ルール (quy tắc), マナー (lễ절).…",
+      "dayNumber": 10,
+      "sourceLines": [
+        278
+      ],
+      "evidence": [
+        "- **Công việc & Kinh doanh**: スケジュール (lịch trình), アポイント (cuộc hẹn), キャリア (sự nghiệp), ベテラン (người kỳ cựu), アドバイス (lời khuyên), クレーム (khiếu nại), トラブル (rắc rối), ミス (lỗi), コスト (chi phí), ビジネス (kinh doanh), オフィス (văn phòng), ルール (quy tắc), マナー (lễ절)."
+      ],
+      "taskIds": [],
+      "suggestion": "Có thể là lỗi gõ/AI. Với マナー nghĩa đúng có lẽ là 'phép lịch sự / quy tắc ứng xử' (như Ngày 7). Cần xác nhận — dữ liệu được giữ nguyên.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-003",
+      "code": "CORRUPTED_TEXT_CJK",
+      "severity": "error",
+      "category": "data_quality",
+      "message": "Nghĩa tiếng Việt của 採用 chứa ký tự Hán lạ: '录 dụng'.",
+      "dayNumber": 9,
+      "sourceLines": [
+        259
+      ],
+      "evidence": [
+        "- **Bài 5 (Xin việc & Tuyển dụng - trang 46–47)**: 募集 (ぼしゅう - tuyển dụng), 応募 (おうぼ - ứng tuyển), 履歴書 (りれきしょ - sơ yếu lý lịch), 面接 (めんせつ - phỏng vấn), 採用 (さいよう -录 dụng), 時給 (じきゅう - lương theo giờ), 経験者 (けいけんしゃ - người có kinh nghiệm)."
+      ],
+      "taskIds": [
+        "d09-kanji-01"
+      ],
+      "suggestion": "採用 (さいよう) thường nghĩa là 'tuyển dụng'. Cần xác nhận — dữ liệu được giữ nguyên.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-004",
+      "code": "EXAM_DATE_WEEKDAY",
+      "severity": "warning",
+      "category": "dates",
+      "message": "Ngày thi 05/12/2026 là Thứ Bảy (Saturday). Kỳ thi JLPT tháng 12 thường tổ chức vào Chủ Nhật đầu tiên của tháng (06/12/2026).",
+      "dayNumber": null,
+      "sourceLines": [
+        1
+      ],
+      "evidence": [
+        "# LỘ TRÌNH ÔN THI JLPT N3 CẤP TỐC 25 NGÀY (10/11 – 04/12 | THI 05/12)"
+      ],
+      "taskIds": [],
+      "suggestion": "Kiểm tra lại ngày giờ trên Phiếu dự thi (受験票). Ngày thi được lưu thành cấu hình có thể chỉnh trong ứng dụng.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-005",
+      "code": "VOCAB_PARTIAL_LISTING",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Lộ trình chỉ liệt kê 428 từ tiêu biểu cho dải 1–880 (mỗi ngày ~27 từ / ~55 từ được giao). Số thứ tự mục từ (item number), từ loại, câu ví dụ, audio KHÔNG có trong nguồn.",
+      "dayNumber": null,
+      "sourceLines": [],
+      "evidence": [],
+      "taskIds": [],
+      "suggestion": "Nhập danh sách 880 từ đầy đủ từ sách Mimi kara Oboeru N3 Goi qua CSV (mẫu sẽ được cung cấp). Không tự sinh dữ liệu.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-006",
+      "code": "VOCAB_DUPLICATE_ACROSS_UNITS",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Từ '寿命' xuất hiện ở nhiều Unit: Unit 1 (Ngày 1), Unit 4 (Ngày 6).",
+      "dayNumber": null,
+      "sourceLines": [
+        53,
+        176
+      ],
+      "evidence": [
+        "- **Tính cách & Trạng thái**: 癖 (くせ - thói quen xấu/tật), 機嫌 (きげん - tâm trạng), 笑顔 (えがお - khuôn mặt tươi cười), 姿勢 (しせい - tư thế/thái độ), 寿命 (じゅみょう - tuổi thọ).",
+        "- **Sức khỏe & Y tế**: 症状 (しょうじょう - triệu chứng), 診察 (しんさつ - khám bệnh), 治療 (ちりょう - điều trị), 手術 (しゅじゅつ - phẫu thuật), 予防 (よぼう - phòng ngừa), 睡眠 (すいみん - giấc ngủ), 疲れ (つかれ - sự mệt mỏi), ストレス (căng thẳng), 寿命 (じゅみょう - tuổi thọ)."
+      ],
+      "taskIds": [
+        "d01-vocab-01",
+        "d06-vocab-01"
+      ],
+      "suggestion": "Kiểm tra trong sách Goi xem từ thực sự thuộc Unit nào. Ứng dụng giữ cả hai mục, liên kết chung một thẻ SRS.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-007",
+      "code": "VOCAB_DUPLICATE_ACROSS_UNITS",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Từ '迷う' xuất hiện ở nhiều Unit: Unit 2 (Ngày 3), Unit 5 (Ngày 8).",
+      "dayNumber": null,
+      "sourceLines": [
+        99,
+        221
+      ],
+      "evidence": [
+        "- **Cảm xúc & Suy nghĩ**: 憧れる (あこがれる - ngưỡng mộ/khao khát), 敬う (うやまう - kính trọng), 迷う (まよう - phân vân/lạc đường), 悩む (なやむ - trăn trở), 慌てる (あわてる - hốt hoảng), 落ち込む (おちこむ - suy sụp/buồn), 飽きる (あきる - chán), 諦める (あきらめる - từ bỏ), 慣れる (なれる - quen với), 怠ける (なまける - lười biếng).",
+        "- **Tư duy & Nhận thức**: 気づく (きづく - nhận ra), 疑う (うたがう - nghi ngờ), 信じる (しんじる - tin tưởng), 認める (みとめる - công nhận/thừa nhận), 確かめる (たしかめる - xác nhận), 比べる (くらべる - so sánh), 選ぶ (えらぶ - lựa chọn), 迷う (まよう - phân vân), 想像する (そうぞうする - tưởng tượng), 予想する (よそうする - dự đoán), 期待する (きたいする - kỳ vọng), 誤解する (ごかいする - hiểu lầm)."
+      ],
+      "taskIds": [
+        "d03-vocab-01",
+        "d08-vocab-01"
+      ],
+      "suggestion": "Kiểm tra trong sách Goi xem từ thực sự thuộc Unit nào. Ứng dụng giữ cả hai mục, liên kết chung một thẻ SRS.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-008",
+      "code": "VOCAB_DUPLICATE_ACROSS_UNITS",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Từ 'マナー' xuất hiện ở nhiều Unit: Unit 4 (Ngày 7), Unit 6 (Ngày 10).",
+      "dayNumber": null,
+      "sourceLines": [
+        198,
+        278
+      ],
+      "evidence": [
+        "- **Văn hóa, Quy tắc & Xã hội**: 伝統 (でんとう - truyền thống), 習慣 (しゅうかん - tập quán/thói quen), 行儀 (ぎょうぎ - lễ nghi/cách cư xử), マナー (quy tắc ứng xử), 規則 (きそく - quy tắc), 違反 (いはん - vi phạm), 義務 (ぎむ - nghĩa vụ), 権利 (けんり - quyền lợi), 責任 (せきにん - trách nhiệm).",
+        "- **Công việc & Kinh doanh**: スケジュール (lịch trình), アポイント (cuộc hẹn), キャリア (sự nghiệp), ベテラン (người kỳ cựu), アドバイス (lời khuyên), クレーム (khiếu nại), トラブル (rắc rối), ミス (lỗi), コスト (chi phí), ビジネス (kinh doanh), オフィス (văn phòng), ルール (quy tắc), マナー (lễ절)."
+      ],
+      "taskIds": [
+        "d07-vocab-01",
+        "d10-vocab-01"
+      ],
+      "suggestion": "Kiểm tra trong sách Goi xem từ thực sự thuộc Unit nào. Ứng dụng giữ cả hai mục, liên kết chung một thẻ SRS.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-009",
+      "code": "VOCAB_DUPLICATE_ACROSS_UNITS",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Từ 'うっかり' xuất hiện ở nhiều Unit: Unit 7 (Ngày 11), Unit 10 (Ngày 16).",
+      "dayNumber": null,
+      "sourceLines": [
+        302,
+        417
+      ],
+      "evidence": [
+        "- **Phó từ chỉ trạng thái & Thời gian**: いきなり (đột ngột), 突然 (とつぜん - bất ngờ), ついに (cuối cùng thì), とうとう (rốt cuộc thì), やっと / ようやく (cuối cùng cũng - sau nhiều nỗ lực), いつのまにか (từ lúc nào không hay), あっという間に (trong chớp mắt), 次第に (しだいに - dần dần), 徐々に (じょじょに - từ từ), 相変わらず (あいかわらず - vẫn như mọi khi), わざと (cố tình), わざわざ (cất công), うっかり (lơ đễnh/vô ý), つい (lỡ/buột), 思い切って (おもいきって - quyết tâm/liều",
+        "- ぐっすり (ngủ say), すっきり (sảng khoái/gọn gàng), はっきり (rõ ràng), しっかり (vững vàng/chắc chắn), うっかり (vô ý), ぴったり (vừa khít), そっくり (giống hệt), ぎっしり (chật kín), ばったり (tình cờ gặp), ざっと (qua loa/ước chừng), どっと (ồ ạt/cười ồ/mệt ập đến)."
+      ],
+      "taskIds": [
+        "d11-vocab-01",
+        "d16-vocab-01"
+      ],
+      "suggestion": "Kiểm tra trong sách Goi xem từ thực sự thuộc Unit nào. Ứng dụng giữ cả hai mục, liên kết chung một thẻ SRS.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-010",
+      "code": "KANJI_DUPLICATE_WORD",
+      "severity": "info",
+      "category": "data_quality",
+      "message": "Từ ghép '禁煙' xuất hiện ở nhiều bài Kanji: Tuần 1 Bài 2 (cấm hút thuốc), Tuần 3 Bài 3 (cai thuốc).",
+      "dayNumber": null,
+      "sourceLines": [
+        57,
+        224
+      ],
+      "evidence": [
+        "- **Bài 2 (Nhà ga & Đường phố - trang 12–13)**: 改札口 (かいさつぐち - cửa soát vé), 往復 (おうふく - khứ hồi), 禁煙 (きんえん - cấm hút thuốc), 座席 (ざせき - chỗ ngồi), 指定席 (していせき - ghế đặt trước), 混雑 (こんざつ - đông đúc), 両替 (りょうがえ - đổi tiền).",
+        "- **Bài 3 (Sức khỏe & Làm đẹp - trang 42–43)**: 睡眠不足 (すいみんぶそく - thiếu ngủ), 運動不足 (うんどうぶそく - thiếu vận động), 禁煙 (きんえん - cai thuốc), 肌 (はだ - làn da), 化粧品 (けしょうひん - mỹ phẩm), 効果 (こうか - hiệu quả), 維持 (いじ - duy trì)."
+      ],
+      "taskIds": [
+        "d01-kanji-02",
+        "d08-kanji-01"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-011",
+      "code": "KANJI_DUPLICATE_WORD",
+      "severity": "info",
+      "category": "data_quality",
+      "message": "Từ ghép '無料' xuất hiện ở nhiều bài Kanji: Tuần 1 Bài 4 (miễn phí), Tuần 6 Bài 2 (None).",
+      "dayNumber": null,
+      "sourceLines": [
+        79,
+        422
+      ],
+      "evidence": [
+        "- **Bài 4 (Mua sắm & Sản phẩm - trang 16–17)**: 商品 (しょうひん - sản phẩm), 価格 (かかく - giá cả), 無料 (むりょう - miễn phí), 販売 (はんばい - bán hàng), 保証書 (ほしょうしょ - phiếu bảo hành), 交換 (こうかん - đổi trả), 注文 (ちゅうもん - đặt hàng).",
+        "- **Bài 2 (Các từ có tiền tố 不・無・未・非 - trang 82–83)**: 不便 (ふべん), 不足 (ふそく), 不安 (ふあん), 無料 (むりょう), 無理 (むり), 無駄 (むだ), 未成年 (みせいねん), 未定 (みてい), 非常 (ひじょう), 非難 (ひなん)."
+      ],
+      "taskIds": [
+        "d02-kanji-02",
+        "d16-kanji-02"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-012",
+      "code": "KANJI_DUPLICATE_WORD",
+      "severity": "info",
+      "category": "data_quality",
+      "message": "Từ ghép '不安' xuất hiện ở nhiều bài Kanji: Tuần 5 Bài 1 (bất an), Tuần 6 Bài 2 (None).",
+      "dayNumber": null,
+      "sourceLines": [
+        354,
+        422
+      ],
+      "evidence": [
+        "- **Bài 1 (Cảm xúc vui buồn - trang 66–67)**: 喜ぶ (よろこぶ - vui mừng), 悲しむ (かなしむ - đau buồn), 怒る (おこる - tức giận), 驚く (おどろく - ngạc nhiên), 感動 (かんどう - cảm động), 緊張 (きんちょう - căng thẳng), 安心 (あんしん - yên tâm), 不安 (ふあん - bất an).",
+        "- **Bài 2 (Các từ có tiền tố 不・無・未・非 - trang 82–83)**: 不便 (ふべん), 不足 (ふそく), 不安 (ふあん), 無料 (むりょう), 無理 (むり), 無駄 (むだ), 未成年 (みせいねん), 未定 (みてい), 非常 (ひじょう), 非難 (ひなん)."
+      ],
+      "taskIds": [
+        "d13-kanji-01",
+        "d16-kanji-02"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-013",
+      "code": "KANJI_DUPLICATE_WORD",
+      "severity": "info",
+      "category": "data_quality",
+      "message": "Từ ghép '夫婦' xuất hiện ở nhiều bài Kanji: Tuần 5 Bài 4 (vợ chồng), Tuần 6 Bài 4 (None).",
+      "dayNumber": null,
+      "sourceLines": [
+        376,
+        454
+      ],
+      "evidence": [
+        "- **Bài 4 (Gia đình & Cuộc đời - trang 72–73)**: 誕生 (たんじょう - ra đời), 成長 (せいちょう - trưởng thành), 独身 (どくしん - độc thân), 結婚 (けっこん - kết hôn), 離婚 (りこん - ly hôn), 夫婦 (ふうふ - vợ chồng), 育児 (いくじ - nuôi con), 介護 (かいご - chăm sóc người già).",
+        "- **Bài 4 (Các chữ có nhiều cách đọc đặc biệt - trang 86–87)**: 都合 (つごう), 都会 (とかい), 首都 (しゅと), 工夫 (くふう), 夫婦 (ふうふ), 大家 (おおや), 大事 (だいじ), 大いに (おおいに), 生物 (せいぶつ), 生地 (きじ - vải/bột), 生まれる (うまれる)."
+      ],
+      "taskIds": [
+        "d14-kanji-02",
+        "d17-kanji-01"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-014",
+      "code": "GRAMMAR_COUNT_MISMATCH",
+      "severity": "warning",
+      "category": "completeness",
+      "message": "Ngày 5 — Unit 3 (Mẫu 26–37): dải có 12 mẫu nhưng nguồn chỉ liệt kê 11 mục: ～おかげで・～おかげだ | ～せいで・～せいだ・～せいか | ～ため（に）・～ためだ | ～から・～ことから | ～あまり | ～っぱなし | ～かけ（の・だ・る） | ～きる・～きれる・～きれない | ～通す（とおす） | ～出す（だす） | ～抜く（ぬく）",
+      "dayNumber": 5,
+      "sourceLines": [
+        152
+      ],
+      "evidence": [
+        "- **3. Ngữ pháp (*Mimi kara Oboeru N3 Bunpou* — Unit 3, trọn Unit: Mẫu 26 – 37)**:"
+      ],
+      "taskIds": [
+        "d05-grammar-01"
+      ],
+      "suggestion": "Không gán số thứ tự mẫu cho các mục này. Đối chiếu Mục lục sách Mimi kara Bunpou và nhập bổ sung.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-015",
+      "code": "GRAMMAR_COUNT_MISMATCH",
+      "severity": "warning",
+      "category": "completeness",
+      "message": "Ngày 10 — Unit 6 (Mẫu 69–75): dải có 7 mẫu nhưng nguồn chỉ liệt kê 6 mục: ～てたまらない・～てしょうがない | ～てならない | ～ずにはいられない・～ないではいられない | ～ざるを得ない（ざるをえない） | ～かねる | ～かねない",
+      "dayNumber": 10,
+      "sourceLines": [
+        284
+      ],
+      "evidence": [
+        "- **3. Ngữ pháp (*Mimi kara Oboeru N3 Bunpou* — Unit 6, nửa sau: Mẫu 69 – 75)**:"
+      ],
+      "taskIds": [
+        "d10-grammar-01"
+      ],
+      "suggestion": "Không gán số thứ tự mẫu cho các mục này. Đối chiếu Mục lục sách Mimi kara Bunpou và nhập bổ sung.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-016",
+      "code": "GRAMMAR_COUNT_MISMATCH",
+      "severity": "warning",
+      "category": "completeness",
+      "message": "Ngày 11 — Unit 7 (Mẫu 76–88): dải có 13 mẫu nhưng nguồn chỉ liệt kê 8 mục: ～たとたん（に） | ～から～にかけて | ～につれて・～にしたがって | ～とともに | ～ば～ほど | ～ばかりだ・～一方だ | ～つつある | ～つつ（も）",
+      "dayNumber": 11,
+      "sourceLines": [
+        307
+      ],
+      "evidence": [
+        "- **3. Ngữ pháp (*Mimi kara Oboeru N3 Bunpou* — Unit 7, trọn Unit: Mẫu 76 – 88)**:"
+      ],
+      "taskIds": [
+        "d11-grammar-01"
+      ],
+      "suggestion": "Không gán số thứ tự mẫu cho các mục này. Đối chiếu Mục lục sách Mimi kara Bunpou và nhập bổ sung.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-017",
+      "code": "GRAMMAR_COUNT_MISMATCH",
+      "severity": "warning",
+      "category": "completeness",
+      "message": "Ngày 12 — Unit 8 (Mẫu 89–100): dải có 12 mẫu nhưng nguồn chỉ liệt kê 9 mục: ～た結果・～の結果 | ～をきっかけに・～をきっかけとして | ～を機に・～を機会に | ～ことになっている | ～ことにしている | ～ようにする・～ようにしている | ～ようになる | ～ようとする | ～ようとしない",
+      "dayNumber": 12,
+      "sourceLines": [
+        331
+      ],
+      "evidence": [
+        "- **3. Ngữ pháp (*Mimi kara Oboeru N3 Bunpou* — Unit 8, trọn Unit: Mẫu 89 – 100)**:"
+      ],
+      "taskIds": [
+        "d12-grammar-01"
+      ],
+      "suggestion": "Không gán số thứ tự mẫu cho các mục này. Đối chiếu Mục lục sách Mimi kara Bunpou và nhập bổ sung.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-018",
+      "code": "GRAMMAR_COUNT_MISMATCH",
+      "severity": "warning",
+      "category": "completeness",
+      "message": "Ngày 14 — Unit 9 (Mẫu 107–112): dải có 6 mẫu nhưng nguồn chỉ liệt kê 7 mục: ～にしても・～にしろ・～にせよ | （たとえ）～ても | （もし / かりに）～たら | ～さえ～ば | ～ないことには～ない | ～くらいなら・～ぐらいなら | ～ようがない・～ようもない",
+      "dayNumber": 14,
+      "sourceLines": [
+        377
+      ],
+      "evidence": [
+        "- **3. Ngữ pháp (*Mimi kara Oboeru N3 Bunpou* — Unit 9, nửa sau: Mẫu 107 – 112 - HOÀN TẤT 9 UNIT NGỮ PHÁP)**:"
+      ],
+      "taskIds": [
+        "d14-grammar-01"
+      ],
+      "suggestion": "Không gán số thứ tự mẫu cho các mục này. Đối chiếu Mục lục sách Mimi kara Bunpou và nhập bổ sung.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-019",
+      "code": "GRAMMAR_PARTIAL_LISTING",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Nguồn liệt kê 103 mục ngữ pháp cho dải 112 mẫu. Cấu trúc chia (formation), cách dùng, bản dịch câu ví dụ, lỗi thường gặp KHÔNG có trong nguồn.",
+      "dayNumber": null,
+      "sourceLines": [],
+      "evidence": [],
+      "taskIds": [],
+      "suggestion": "Nhập bổ sung từ sách Mimi kara Bunpou; các trường trống được hiển thị là 'chưa có dữ liệu', không tự sinh.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-020",
+      "code": "GRAMMAR_OVERLAP",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Mẫu '～といえば' xuất hiện ở 2 mục liền nhau của Ngày 13: ～といえば | ～というと・～といえば・～といったら.",
+      "dayNumber": 13,
+      "sourceLines": [
+        361,
+        362
+      ],
+      "evidence": [
+        "- `～といえば`: Nhắc đến X là nghĩ ngay đến Y (`日本の夏といえば花火だ`).",
+        "- `～というと・～といえば・～といったら`: Nghe nói đến X thì... / Xác nhận lại thông tin vừa nghe."
+      ],
+      "taskIds": [
+        "d13-grammar-01"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-021",
+      "code": "GRAMMAR_REVIEW_NOTE",
+      "severity": "info",
+      "category": "interpretation",
+      "message": "Dòng 'Ôn lại `～てみる` (thử làm), `～ておく` (làm sẵn), `～てしまう` (làm xong hoàn toàn / lỡ làm).' (Ngày 12) là ôn lại mẫu cơ bản — không được tính là mẫu N3 mới.",
+      "dayNumber": 12,
+      "sourceLines": [
+        341
+      ],
+      "evidence": [
+        "- Ôn lại `～てみる` (thử làm), `～ておく` (làm sẵn), `～てしまう` (làm xong hoàn toàn / lỡ làm)."
+      ],
+      "taskIds": [
+        "d12-grammar-01"
+      ],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-022",
+      "code": "GRAMMAR_EXERCISE_NOT_ASSIGNED",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Không có task 'Làm bài tập tổng hợp' riêng cho Unit 3, 5, 7, 8 vào ngày học Unit đó (bảng phân bổ thời gian vẫn ghi chung 'làm bài tập cuối Unit'). Ứng dụng không tự thêm task.",
+      "dayNumber": null,
+      "sourceLines": [
+        34
+      ],
+      "evidence": [
+        "| **Ca 2 (Chiều / Tối)** | 45 phút | **Ngữ pháp Mimi kara** (6–7 mẫu/ngày: đọc cấu trúc + câu ví dụ + làm bài tập cuối Unit). |"
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-023",
+      "code": "KANJI_CHARACTERS_NOT_LISTED",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Nguồn không liệt kê 336 chữ Kanji riêng lẻ, chỉ có 269 từ ghép tiêu biểu (kèm cách đọc/nghĩa). Âm On/Kun, chữ dễ nhầm theo từng chữ… KHÔNG có trong nguồn.",
+      "dayNumber": null,
+      "sourceLines": [],
+      "evidence": [],
+      "taskIds": [],
+      "suggestion": "Nhập danh sách 336 chữ từ sách Soumatome N3 Kanji qua CSV.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-024",
+      "code": "HOMOPHONE_READING_CONFLICT",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Nhóm đồng âm `きかん` chứa 期限, nhưng chính lộ trình ghi 期限 đọc là きげん.",
+      "dayNumber": 22,
+      "sourceLines": [
+        541
+      ],
+      "evidence": [
+        "- `きかん`: 期間 (khoảng thời gian) vs 期限 (thời hạn) vs 機関 (cơ quan/tổ chức)."
+      ],
+      "taskIds": [
+        "d22-kanji-01"
+      ],
+      "suggestion": "Đây là cặp dễ nhầm (gần âm / cùng chữ Hán), không phải đồng âm. Ứng dụng sẽ hiển thị là 'cặp dễ nhầm'.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-025",
+      "code": "HOMOPHONE_READING_CONFLICT",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Nhóm đồng âm `かいふく` chứa 往復, nhưng chính lộ trình ghi 往復 đọc là おうふく.",
+      "dayNumber": 22,
+      "sourceLines": [
+        543
+      ],
+      "evidence": [
+        "- `かいふく`: 回復 (hồi phục sức khỏe/kinh tế) vs 往復 (khứ hồi)."
+      ],
+      "taskIds": [
+        "d22-kanji-01"
+      ],
+      "suggestion": "Đây là cặp dễ nhầm (gần âm / cùng chữ Hán), không phải đồng âm. Ứng dụng sẽ hiển thị là 'cặp dễ nhầm'.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-026",
+      "code": "HOMOPHONE_NOT_HOMOPHONE",
+      "severity": "warning",
+      "category": "data_quality",
+      "message": "Nhóm `しょうひ`: 浪費 đọc là ろうひ và 経費 đọc là けいひ (theo từ điển) — không đồng âm với 消費; đây là nhóm cùng chữ 費.",
+      "dayNumber": 22,
+      "sourceLines": [
+        545
+      ],
+      "evidence": [
+        "- `しょうひ`: 消費 (tiêu thụ) vs 浪費 (lãng phí) vs 経費 (kinh phí)."
+      ],
+      "taskIds": [
+        "d22-kanji-01"
+      ],
+      "suggestion": "Giữ nguyên dữ liệu, hiển thị là 'nhóm chữ dễ nhầm' thay vì 'đồng âm'.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-027",
+      "code": "RENDAKU_EXAMPLE_QUESTIONABLE",
+      "severity": "info",
+      "category": "data_quality",
+      "message": "Ngày 18 dùng `洗濯 - せんたく` làm ví dụ trong nhóm biến âm, nhưng せんたく không có biến âm (濯 = たく). Có thể đây là ví dụ đối chiếu.",
+      "dayNumber": 18,
+      "sourceLines": [
+        477
+      ],
+      "evidence": [
+        "- Làm lại 3 bài Test tổng hợp cuối Tuần 1 (trang 22), Tuần 2 (trang 36), Tuần 3 (trang 50). Chú ý phân biệt trường âm (`おう/う`, `えい/い`) và âm ngắt (`っ`) hoặc biến âm (`ん + h -> p/b`, `k/s/t/h -> g/z/d/b` như `人々 - ひとびと`, `株式会社 - かぶしきがいしゃ`, `洗濯 - せんたく`)."
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-028",
+      "code": "READING_BOOK_BOUNDARY",
+      "severity": "warning",
+      "category": "inconsistency",
+      "message": "Mục I ghi Shinkanzen cho Ngày 1–8 và Speed Master cho Ngày 9–22, nhưng lịch chi tiết chuyển sang Speed Master từ Ngày 8 (Shinkanzen chỉ dùng Ngày 1–7; Speed Master Ngày 8–18 & 20; Ngày 22 làm lại bài sai của cả hai sách).",
+      "dayNumber": 8,
+      "sourceLines": [
+        22,
+        23,
+        242
+      ],
+      "evidence": [
+        "- **Ngày 1 – Ngày 8**: Dùng **Shinkanzen Master Phần 1 & 2** để lấy lại gốc đọc câu dài (xác định chủ ngữ bị ẩn, mệnh đề bổ nghĩa, từ chỉ thị こ・そ・あ, từ nối, thông báo/email).",
+        "- **Ngày 9 – Ngày 22**: Dùng **Speed Master Phần 2 & 3** để luyện tốc độ và bấm giờ thực chiến theo 4 dạng bài thi thật: Đoạn ngắn (短文 - Bài 1–20), Đoạn trung (中文 - Bài 21–32), Đoạn dài (長文 - Bài 33–38), Tìm kiếm thông tin (情報検索 - Bài 39–45).",
+        "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 1: Khởi động Bài 1–5 & Phần 2: Đoạn ngắn Bài 1–3)**:"
+      ],
+      "taskIds": [
+        "d08-reading-01"
+      ],
+      "suggestion": "Ứng dụng theo lịch chi tiết từng ngày (Ngày 8 = Speed Master). Xác nhận nếu muốn khác.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-029",
+      "code": "READING_MOCK_HEADER_MISMATCH",
+      "severity": "warning",
+      "category": "inconsistency",
+      "message": "Ngày 18: tiêu đề ghi 'Đề thi thử Đọc hiểu số 1 & số 2' nhưng nội dung chỉ giao 模擬試験 1; 模擬試験 2 được giao ở Ngày 20.",
+      "dayNumber": 18,
+      "sourceLines": [
+        480,
+        481,
+        482
+      ],
+      "evidence": [
+        "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 3: Đề thi thử Đọc hiểu số 1 & số 2)**:",
+        "- Bấm giờ nghiêm ngặt **50 phút/đề** làm **模擬試験 1 (Đề thi thử 1)** và chữa kỹ.",
+        "- Thứ tự làm bài Đọc hiểu chuẩn trong phòng thi:"
+      ],
+      "taskIds": [
+        "d18-reading-01"
+      ],
+      "suggestion": "Ứng dụng giao Đề 1 cho Ngày 18 và Đề 2 cho Ngày 20 (theo nội dung chi tiết).",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-030",
+      "code": "READING_SHINKANZEN_MOCK_UNASSIGNED",
+      "severity": "warning",
+      "category": "inconsistency",
+      "message": "Ngày 20: tiêu đề nhắc '& Shinkanzen Master Đề tổng hợp' nhưng nội dung không có yêu cầu cụ thể nào cho đề này.",
+      "dayNumber": 20,
+      "sourceLines": [
+        516,
+        517
+      ],
+      "evidence": [
+        "- **4. Đọc hiểu (*Speed Master N3 Dokkai* — Phần 3: Đề thi thử Đọc hiểu số 2 & *Shinkanzen Master* Đề tổng hợp)**:",
+        "- Làm **模擬試験 2 (Đề thi thử 2)** trong *Speed Master Dokkai* (50 phút)."
+      ],
+      "taskIds": [
+        "d20-reading-01"
+      ],
+      "suggestion": "Giữ nguyên trong mô tả task; không tạo task riêng. Xác nhận nếu muốn tạo task tùy chọn.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-031",
+      "code": "LISTENING_AMBIGUOUS_MOCK_REF",
+      "severity": "warning",
+      "category": "ambiguity",
+      "message": "Ngày 20: 'Mondai 4 & Mondai 5 của Đề thi thử số 1' — không rõ là Đề thi thử Nghe số 1 của Mimi kara (Ngày 14), của Speed Master (Ngày 16) hay Đề thi thử Full số 1 (Ngày 19, hôm trước).",
+      "dayNumber": 20,
+      "sourceLines": [
+        518,
+        519
+      ],
+      "evidence": [
+        "- **5. Nghe hiểu**:",
+        "- Nghe lại (tốc độ 1.1x hoặc 1.25x) phần Mondai 4 & Mondai 5 của Đề thi thử số 1 để luyện phản xạ tức thì."
+      ],
+      "taskIds": [
+        "d20-listening-01"
+      ],
+      "suggestion": "Mặc định liên kết với Đề Full số 1 (Ngày 19) vì là đề gần nhất; người học chọn lại được.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-032",
+      "code": "LISTENING_NUMBERING_ACROSS_BOOKS",
+      "severity": "info",
+      "category": "ambiguity",
+      "message": "Speed Master Choukai được giao 'Bài 3 & 4' (Ngày 7, 8, 11) trong khi 'Bài 1 & 2' của cùng Mondai lại làm bằng sách Mimi kara (Ngày 3, 4, 5). Tương tự 'Đề luyện số 2' (Ngày 9) và 'số 3' (Ngày 13) không có 'Đề luyện số 1'.",
+      "dayNumber": null,
+      "sourceLines": [
+        214,
+        244,
+        271,
+        318,
+        365
+      ],
+      "evidence": [
+        "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 1, Bài 3 & 4)**:",
+        "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 2, Bài 3 & 4)**:",
+        "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 4 & 5, Đề luyện số 2)**:",
+        "- **5. Nghe hiểu (*Speed Master N3 Choukai* — Luyện Mondai 3: Nghe hiểu khái quát, Bài 3 & 4)**:"
+      ],
+      "taskIds": [],
+      "suggestion": "Giữ nguyên số bài như nguồn. Kiểm tra lại số bài thực tế trong sách Speed Master Choukai.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-033",
+      "code": "KANJI_PACING_STATEMENT",
+      "severity": "info",
+      "category": "inconsistency",
+      "message": "Mục I ghi 'Gộp 2 bài/ngày trong 18 ngày đầu' nhưng lịch chi tiết hoàn tất 36 bài vào Ngày 17 (Tuần 6 học 3 bài/ngày ở Ngày 16 và 17).",
+      "dayNumber": null,
+      "sourceLines": [
+        19
+      ],
+      "evidence": [
+        "- *Chiến thuật*: Gộp **2 bài/ngày trong 18 ngày đầu** để phủ hết 36 bài (chỉ học **nhận diện mặt chữ + đọc âm ghép Jukugo**, tuyệt đối không tập viết tay từng nét vì thi trắc nghiệm)."
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-034",
+      "code": "GRAMMAR_PACING_STATEMENT",
+      "severity": "info",
+      "category": "inconsistency",
+      "message": "Mục I ghi 'mỗi ngày 1 nửa Unit = 6–7 mẫu' trong 18 ngày, nhưng lịch chi tiết học trọn Unit 3, 5, 7, 8 trong 1 ngày (12–13 mẫu) và hoàn tất 112 mẫu vào Ngày 14.",
+      "dayNumber": null,
+      "sourceLines": [
+        16
+      ],
+      "evidence": [
+        "- *Chiến thuật*: Chia đều hoàn thành trọn vẹn **9 Unit trong 18 ngày đầu** (mỗi ngày 1 nửa Unit = 6–7 mẫu), 7 ngày cuối tổng ôn và luyện bài đục lỗ + dấu sao (★)."
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-035",
+      "code": "PHASE1_OBJECTIVE_VS_SCHEDULE",
+      "severity": "info",
+      "category": "inconsistency",
+      "message": "Mục tiêu Giai đoạn 1 ghi 'Unit 1–3 Từ vựng, Unit 1–4 Ngữ pháp, Tuần 1–3 Kanji', nhưng lịch Ngày 1–8 thực tế: Từ vựng tới từ số 448 (hết Unit 4 + nửa Unit 5), Ngữ pháp hết Unit 5 (Mẫu 62), Kanji tới Tuần 3 Bài 4 (Bài 5–6 + Test Tuần 3 ở Ngày 9).",
+      "dayNumber": null,
+      "sourceLines": [
+        46
+      ],
+      "evidence": [
+        "*Mục tiêu: Lấy lại cảm giác tiếng Nhật, nắm chắc Unit 1–3 Từ vựng, Unit 1–4 Ngữ pháp, Tuần 1–3 Kanji Soumatome, và kỹ thuật mổ xẻ câu dài trong Shinkanzen Dokkai.*"
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-036",
+      "code": "STAR_RULES_COUNT",
+      "severity": "warning",
+      "category": "inconsistency",
+      "message": "Ngày 16: ghi 'Nắm 5 quy tắc giải nhanh bài Dấu sao (★)' nhưng chỉ liệt kê 4 quy tắc.",
+      "dayNumber": 16,
+      "sourceLines": [
+        425,
+        426,
+        427,
+        428,
+        429
+      ],
+      "evidence": [
+        "- Nắm 5 quy tắc giải nhanh bài Dấu sao (★):",
+        "1. Ghép các cụm cố định trước (`～に違いない`, `～わけではない`, `～ざるを得ない`, `～かのようだ`).",
+        "2. Trợ từ `の` hoặc `連体形` (thể thông thường) phải đứng ngay trước Danh từ.",
+        "3. Phó từ đầu câu (`いくら` đi với `～ても`, `もし` đi với `～たら`, `決して` đi với `～ない`, `まるで` đi với `～ようだ`)."
+      ],
+      "taskIds": [],
+      "suggestion": "Hiển thị đúng 4 quy tắc có trong nguồn, ghi chú thiếu quy tắc thứ 5.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-037",
+      "code": "SCORE_SECTION_MAPPING",
+      "severity": "warning",
+      "category": "scoring",
+      "message": "Mục tiêu Ngày 23 chia điểm theo tiết thi (Từ vựng / Ngữ pháp & Đọc hiểu / Nghe), nhưng JLPT N3 chấm theo 3 phần: Kiến thức ngôn ngữ (Từ vựng + Ngữ pháp) 0–60, Đọc hiểu 0–60, Nghe hiểu 0–60. Hai cách chia không trùng nhau.",
+      "dayNumber": 23,
+      "sourceLines": [
+        564,
+        565,
+        566,
+        567
+      ],
+      "evidence": [
+        "- Từ vựng: Đạt $\\ge 38/60$ điểm (đúng khoảng 24–26/35 câu).",
+        "- Ngữ pháp & Đọc hiểu: Đạt $\\ge 40/60$ điểm.",
+        "- Nghe hiểu: Đạt $\\ge 40/60$ điểm.",
+        "- *(Điểm đỗ N3 là **95/180 điểm** và không có phần nào bị điểm liệt dưới **19/60 điểm**)*."
+      ],
+      "taskIds": [],
+      "suggestion": "Ứng dụng hiển thị CẢ HAI: mục tiêu theo tiết của lộ trình và điểm ước tính theo 3 phần chấm chính thức (gắn nhãn 'ước tính').",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-038",
+      "code": "UNOFFICIAL_POINT_VALUES",
+      "severity": "info",
+      "category": "scoring",
+      "message": "Ngày 15 ghi 'mỗi câu 4 điểm' cho Trường văn. JLPT không công bố điểm từng câu (điểm quy đổi theo thang chuẩn hóa).",
+      "dayNumber": 15,
+      "sourceLines": [
+        408
+      ],
+      "evidence": [
+        "- Làm 3 bài **Đoạn văn dài (長文 - Choubun, Bài 33, 34, 35)**. Mỗi bài có 4 câu hỏi (mỗi câu 4 điểm — điểm rất lớn!). Mẹo làm bài: Đọc câu hỏi 1 $\\rightarrow$ đọc 1/4 đầu bài để trả lời ngay $\\rightarrow$ đọc câu hỏi 2 $\\rightarrow$ đọc tiếp đoạn 2. Không đọc hết cả trang dài rồi mới nhìn câu hỏi!"
+      ],
+      "taskIds": [],
+      "suggestion": "Mọi điểm tính trong ứng dụng đều gắn nhãn 'ước tính'.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-039",
+      "code": "MOCK4_NO_REVIEW_SESSION",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Ngày 24 (Đề số 4) không có phần 'Chữa đề' riêng; 60 phút còn lại dành cho Tổng ôn Sổ tay Lỗi sai.",
+      "dayNumber": 24,
+      "sourceLines": [
+        573
+      ],
+      "evidence": [
+        "#### 📅 NGÀY 24 — Thứ Năm, 03/12: Thi thử Đề số 4 (Đề chốt) & Tổng ôn Sổ tay Lỗi sai"
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-040",
+      "code": "DAILY_REVIEW_RECURRING",
+      "severity": "info",
+      "category": "interpretation",
+      "message": "Khung 'Ôn tập cuối buổi — 15 phút' trong bảng phân bổ thời gian được thêm thành task hằng ngày (origin = daily_schedule_table) cho các ngày theo cấu trúc 5 ca (Ngày 1–18, 20, 22). Không thêm vào ngày thi thử (19, 21, 23, 24) và Ngày 25.",
+      "dayNumber": null,
+      "sourceLines": [
+        37
+      ],
+      "evidence": [
+        "| **Ôn tập cuối buổi** | 15 phút | Quét lại các từ/Kanji/mẫu câu đánh dấu đỏ trong ngày. |"
+      ],
+      "taskIds": [],
+      "suggestion": "Xác nhận có muốn task này xuất hiện hằng ngày hay không.",
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-041",
+      "code": "NO_PER_TASK_DURATION",
+      "severity": "info",
+      "category": "completeness",
+      "message": "Phần lớn task không có thời lượng riêng. Ứng dụng chỉ hiển thị thời lượng khi nguồn ghi rõ (vd. 140 phút, 50 phút/đề, 40 phút); các task khác hiển thị khung giờ chung của ca học (vd. 'Ca 1 · 45 phút, phần Từ vựng 25 phút').",
+      "dayNumber": null,
+      "sourceLines": [
+        33
+      ],
+      "evidence": [
+        "| **Ca 1 (Sáng / Trưa)** | 45 phút | **Từ vựng Mimi kara** (25 phút: nghe audio + đọc to 40–45 từ) + **Kanji Soumatome** (20 phút: 2 bài/ngày, che furigana đọc từ ghép). |"
+      ],
+      "taskIds": [],
+      "suggestion": null,
+      "resolution": "pending_user_confirmation"
+    },
+    {
+      "id": "ISSUE-042",
+      "code": "PAGES_NOT_VERIFIED",
+      "severity": "info",
+      "category": "verification",
+      "message": "Số trang/số bài/số mục từ được trích nguyên văn từ lộ trình nhưng CHƯA được đối chiếu với sách giấy (không có sách trong workspace). Các phiên bản sách khác nhau có thể lệch trang.",
+      "dayNumber": null,
+      "sourceLines": [],
+      "evidence": [],
+      "taskIds": [],
+      "suggestion": "Người học đối chiếu nhanh trang của Ngày 1–3 trước; nếu lệch, có thể ghi đè bằng 'điều chỉnh cá nhân' (không sửa lộ trình gốc).",
+      "resolution": "pending_user_confirmation"
+    }
+  ]
+}

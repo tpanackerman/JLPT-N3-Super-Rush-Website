@@ -1,0 +1,403 @@
+{
+  "schemaVersion": "1.0.0",
+  "source": {
+    "file": "Lộ trình ôn JLPT N3 cấp tốc 25 ngày (10_11 - 04_12).md",
+    "sha256": "039e186797f3b1325cc7f9e443769e76cec9c94c6409ca7960d82db37f43d0aa",
+    "lineCount": 605
+  },
+  "examDate": "2026-12-05",
+  "examStructure": {
+    "totalMinutes": 140,
+    "sections": [
+      {
+        "id": "vocabulary",
+        "nameJa": "文字・語彙",
+        "nameVi": "Từ vựng",
+        "minutes": 30,
+        "mondai": [
+          {
+            "mondai": 1,
+            "nameVi": "Cách đọc Kanji",
+            "questions": 8
+          },
+          {
+            "mondai": 2,
+            "nameVi": "Chọn chữ Kanji",
+            "questions": 6
+          },
+          {
+            "mondai": 3,
+            "nameVi": "Điền từ vào chỗ trống",
+            "questions": 11
+          },
+          {
+            "mondai": 4,
+            "nameVi": "Từ đồng nghĩa",
+            "questions": 5
+          },
+          {
+            "mondai": 5,
+            "nameVi": "Cách dùng từ",
+            "questions": 5
+          }
+        ],
+        "totalQuestions": 35,
+        "sourceLine": 499
+      },
+      {
+        "id": "grammar_reading",
+        "nameJa": "文法・読解",
+        "nameVi": "Ngữ pháp & Đọc hiểu",
+        "minutes": 70,
+        "internalSplit": {
+          "grammarMinutes": 18,
+          "readingMinutes": 52,
+          "alternativeGuidance": "Ngày 25: Ngữ pháp tối đa 18–20 phút, phút thứ 20 chuyển sang Mondai 7.",
+          "configurable": true
+        },
+        "sourceLine": 500
+      },
+      {
+        "id": "listening",
+        "nameJa": "聴解",
+        "nameVi": "Nghe hiểu",
+        "minutes": 40,
+        "sourceLine": 501
+      }
+    ]
+  },
+  "officialPassingReference": {
+    "totalPass": 95,
+    "totalMax": 180,
+    "sectionMinimum": 19,
+    "sectionMax": 60,
+    "scoringSections": [
+      {
+        "id": "language_knowledge",
+        "nameVi": "Kiến thức ngôn ngữ (Từ vựng + Ngữ pháp)",
+        "max": 60,
+        "min": 19
+      },
+      {
+        "id": "reading",
+        "nameVi": "Đọc hiểu",
+        "max": 60,
+        "min": 19
+      },
+      {
+        "id": "listening",
+        "nameVi": "Nghe hiểu",
+        "max": 60,
+        "min": 19
+      }
+    ],
+    "sourceLine": 567,
+    "note": "Điểm JLPT là điểm quy đổi (scaled). Mọi điểm tính trong ứng dụng chỉ là ƯỚC TÍNH."
+  },
+  "roadmapTargets": {
+    "dayNumber": 23,
+    "sourceLines": [
+      564,
+      565,
+      566
+    ],
+    "targets": [
+      {
+        "id": "vocabulary",
+        "labelVi": "Từ vựng",
+        "minScore": 38,
+        "max": 60,
+        "questionHint": "đúng khoảng 24–26/35 câu"
+      },
+      {
+        "id": "grammar_reading",
+        "labelVi": "Ngữ pháp & Đọc hiểu",
+        "minScore": 40,
+        "max": 60
+      },
+      {
+        "id": "listening",
+        "labelVi": "Nghe hiểu",
+        "minScore": 40,
+        "max": 60
+      }
+    ],
+    "note": "Mục tiêu theo TIẾT THI của lộ trình — khác cách chia 3 phần chấm điểm chính thức (xem SCORE_SECTION_MAPPING)."
+  },
+  "fullMocks": [
+    {
+      "id": "mock-full-1",
+      "number": 1,
+      "dayNumber": 19,
+      "date": "2026-11-28",
+      "taskId": "d19-mock-01",
+      "followUpTaskIds": [
+        "d19-review-01"
+      ],
+      "durationMinutes": 140,
+      "material": "Đề thi thật JLPT N3 (user-provided)",
+      "materialBasis": "phase_objective",
+      "instructions": [
+        "Phần 1 — Từ vựng (文字・語彙): 30 phút (Mondai 1: Cách đọc Kanji 8 câu; Mondai 2: Chọn chữ Kanji 6 câu; Mondai 3: Điền từ vào chỗ trống 11 câu; Mondai 4: Từ đồng nghĩa 5 câu; Mondai 5: Cách dùng từ 5 câu).",
+        "Phần 2 — Ngữ pháp & Đọc hiểu (文法・読解): 70 phút (Chia cứng: 18 phút cho Ngữ pháp Mondai 1–2–3 + 52 phút cho Đọc hiểu Mondai 4–5–6–7).",
+        "Phần 3 — Nghe hiểu (聴解): 40 phút."
+      ],
+      "sourceLines": [
+        498,
+        499,
+        500,
+        501
+      ]
+    },
+    {
+      "id": "mock-full-2",
+      "number": 2,
+      "dayNumber": 21,
+      "date": "2026-11-30",
+      "taskId": "d21-mock-01",
+      "followUpTaskIds": [
+        "d21-review-01"
+      ],
+      "durationMinutes": 140,
+      "material": "Đề thi thật JLPT N3 (user-provided)",
+      "materialBasis": "task_text",
+      "instructions": [
+        "Làm trọn bộ Đề thi thật JLPT N3 số 2 (30 phút Từ vựng + 70 phút Ngữ pháp & Đọc hiểu + 40 phút Nghe hiểu).",
+        "Rèn kỷ luật phòng thi: Nếu 1 câu Ngữ pháp suy nghĩ quá 45 giây chưa ra, chọn đáp án cảm tính nhất rồi chuyển ngay sang phần Đọc hiểu để không bị thiếu giờ đọc."
+      ],
+      "sourceLines": [
+        524,
+        525,
+        526
+      ]
+    },
+    {
+      "id": "mock-full-3",
+      "number": 3,
+      "dayNumber": 23,
+      "date": "2026-12-02",
+      "taskId": "d23-mock-01",
+      "followUpTaskIds": [
+        "d23-review-01"
+      ],
+      "durationMinutes": 140,
+      "material": "Đề thi thật JLPT N3 (user-provided)",
+      "materialBasis": "task_text",
+      "instructions": [
+        "Làm trọn bộ Đề thi thật JLPT N3 số 3 đúng khung giờ thi thật của bạn (buổi sáng hoặc buổi chiều ngày 05/12).",
+        "Kiểm soát điểm mục tiêu:",
+        "Từ vựng: Đạt ≥ 38/60 điểm (đúng khoảng 24–26/35 câu).",
+        "Ngữ pháp & Đọc hiểu: Đạt ≥ 40/60 điểm.",
+        "Nghe hiểu: Đạt ≥ 40/60 điểm.",
+        "(Điểm đỗ N3 là 95/180 điểm và không có phần nào bị điểm liệt dưới 19/60 điểm)."
+      ],
+      "sourceLines": [
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567
+      ]
+    },
+    {
+      "id": "mock-full-4",
+      "number": 4,
+      "dayNumber": 24,
+      "date": "2026-12-03",
+      "taskId": "d24-mock-01",
+      "followUpTaskIds": [
+        "d24-review-01"
+      ],
+      "durationMinutes": 140,
+      "material": "Đề thi thật JLPT N3 (user-provided)",
+      "materialBasis": "phase_objective",
+      "instructions": [
+        "Làm bộ đề cuối cùng để giữ cảm giác phân bổ thời gian nhạy bén nhất."
+      ],
+      "sourceLines": [
+        574,
+        575
+      ]
+    }
+  ],
+  "sectionMocksAndReviews": [
+    {
+      "taskId": "d14-listening-01",
+      "dayNumber": 14,
+      "skill": "listening",
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 1",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "timeLimitMinutes": 40
+    },
+    {
+      "taskId": "d15-listening-01",
+      "dayNumber": 15,
+      "skill": "listening",
+      "taskType": "error_review",
+      "title": "Nghe hiểu — Chữa chi tiết Đề thi thử số 1",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "timeLimitMinutes": null
+    },
+    {
+      "taskId": "d16-listening-01",
+      "dayNumber": 16,
+      "skill": "listening",
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 1 trong Speed Master",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "timeLimitMinutes": null
+    },
+    {
+      "taskId": "d17-listening-01",
+      "dayNumber": 17,
+      "skill": "listening",
+      "taskType": "error_review",
+      "title": "Nghe hiểu — Chữa chi tiết Đề thi thử số 1",
+      "textbookIds": [
+        "speed_choukai"
+      ],
+      "timeLimitMinutes": null
+    },
+    {
+      "taskId": "d18-reading-01",
+      "dayNumber": 18,
+      "skill": "reading",
+      "taskType": "mock_exam",
+      "title": "Đọc hiểu — Phần 3: Đề thi thử Đọc hiểu số 1 & số 2",
+      "textbookIds": [
+        "speed_dokkai"
+      ],
+      "timeLimitMinutes": 50
+    },
+    {
+      "taskId": "d18-listening-01",
+      "dayNumber": 18,
+      "skill": "listening",
+      "taskType": "mock_exam",
+      "title": "Nghe hiểu — Làm Đề thi thử Nghe hiểu số 2",
+      "textbookIds": [
+        "mimi_choukai"
+      ],
+      "timeLimitMinutes": 40
+    },
+    {
+      "taskId": "d20-reading-01",
+      "dayNumber": 20,
+      "skill": "reading",
+      "taskType": "mock_exam",
+      "title": "Đọc hiểu — Phần 3: Đề thi thử Đọc hiểu số 2 & Shinkanzen Master Đề tổng hợp",
+      "textbookIds": [
+        "speed_dokkai",
+        "shinkanzen_dokkai"
+      ],
+      "timeLimitMinutes": null
+    },
+    {
+      "taskId": "d20-kanji-01",
+      "dayNumber": 20,
+      "skill": "kanji",
+      "taskType": "revision",
+      "title": "Kanji — Ôn tập vòng 2 Soumatome N3 Kanji — Tuần 4, 5, 6",
+      "textbookIds": [
+        "soumatome_kanji"
+      ],
+      "timeLimitMinutes": null
+    },
+    {
+      "taskId": "d20-grammar-01",
+      "dayNumber": 20,
+      "skill": "grammar",
+      "taskType": "revision",
+      "title": "Ngữ pháp — Ôn tập vòng 2 Mimi kara Oboeru N3 Bunpou — Unit 5 đến Unit 9",
+      "textbookIds": [
+        "mimi_bunpou"
+      ],
+      "timeLimitMinutes": null
+    }
+  ],
+  "examStrategies": [
+    {
+      "id": "es-reading-order",
+      "titleVi": "Thứ tự làm Đọc hiểu (Mondai 7 → 4 → 5 → 6)",
+      "dayNumber": 18,
+      "sourceLines": [
+        482,
+        483,
+        484,
+        485,
+        486
+      ],
+      "text": "  - Thứ tự làm bài Đọc hiểu chuẩn trong phòng thi:\n    1. Mondai 7 (Tìm kiếm thông tin - Bài cuối cùng): Làm mất 7–8 phút → chắc chắn 100% ăn điểm.\n    2. Mondai 4 (Đoạn ngắn - 4 bài): Làm mất 10–12 phút.\n    3. Mondai 5 (Đoạn trung - 2 bài): Làm mất 15 phút.\n    4. Mondai 6 (Đoạn dài - 1 bài): Làm mất 15 phút cuối."
+    },
+    {
+      "id": "es-45-seconds",
+      "titleVi": "Quy tắc 45 giây cho câu Ngữ pháp",
+      "dayNumber": 21,
+      "sourceLines": [
+        526
+      ],
+      "text": "  - Rèn kỷ luật phòng thi: Nếu 1 câu Ngữ pháp suy nghĩ quá 45 giây chưa ra, chọn đáp án cảm tính nhất rồi chuyển ngay sang phần Đọc hiểu để không bị thiếu giờ đọc."
+    },
+    {
+      "id": "es-review-method",
+      "titleVi": "Cách chữa đề & lập Sổ tay Lỗi sai",
+      "dayNumber": 19,
+      "sourceLines": [
+        503,
+        504
+      ],
+      "text": "  - Tra toàn bộ các từ vựng nằm trong 4 đáp án (kể cả các đáp án không được chọn vì JLPT rất hay lấy đáp án phụ của năm trước làm đáp án chính của năm sau!).\n  - Ghi lại các mẫu ngữ pháp làm sai và đối chiếu lại trong Mimi kara Oboeru N3 Bunpou."
+    },
+    {
+      "id": "es-distractors",
+      "titleVi": "Phân tích đáp án nhiễu Đọc hiểu",
+      "dayNumber": 21,
+      "sourceLines": [
+        528
+      ],
+      "text": "  - Phân tích kỹ phần Đọc hiểu: Tại sao mình lại phân vân giữa 2 đáp án? (Thường đáp án sai sẽ chứa 1 từ giống hệt trong bài nhưng bị thay đổi phạm vi như `すべて/全員/いつも` hoặc đảo ngược quan hệ nhân quả)."
+    },
+    {
+      "id": "es-golden",
+      "titleVi": "Chiến thuật Vàng trong phòng thi ngày 05/12",
+      "dayNumber": 25,
+      "sourceLines": [
+        599,
+        600,
+        601,
+        602,
+        603,
+        604
+      ],
+      "text": "  - Nhắc lại Chiến thuật Vàng trong phòng thi ngày 05/12:\n    1. Tiết 1 (Từ vựng - 30 phút): Làm thật nhanh Mondai 1, 2, 3 (chỉ mất 12–15 phút), dành thời gian suy nghĩ kỹ cho Mondai 4 (Đồng nghĩa) và Mondai 5 (Cách dùng từ).\n    2. Tiết 2 (Ngữ pháp & Đọc hiểu - 70 phút):\n       - Làm Ngữ pháp Mondai 1, 2, 3 trong tối đa 18–20 phút.\n       - Ngay phút thứ 20, lật xuống cuối đề làm Mondai 7 (Tìm kiếm thông tin) trước để lấy trọn điểm dễ, sau đó quay lại làm Mondai 4 (Đoạn ngắn) → Mondai 5 (Đoạn trung) → Mondai 6 (Đoạn dài).\n    3. Tiết 3 (Nghe hiểu - 40 phút): Tô đáp án vào phiếu trả lời ngay sau mỗi câu nghe (vì hết băng nghe là giám thị thu bài ngay lập tức, không có thời gian tô lại!). Câu nào lỡ không nghe kịp thì chọn dứt khoát 1 đáp án rồi nhìn ngay sang tranh/đáp án câu tiếp theo."
+    },
+    {
+      "id": "es-checklist",
+      "titleVi": "Hành trang phòng thi",
+      "dayNumber": 25,
+      "sourceLines": [
+        595,
+        596,
+        597,
+        598
+      ],
+      "text": "  - Kiểm tra đầy đủ:\n    - Phiếu dự thi (受験票) + Giấy tờ tùy thân (CCCD/Hộ chiếu bản gốc còn hạn).\n    - 2–3 bút chì 2B/HB đã gọt sẵn (dùng bút chì gỗ tô trắc nghiệm nhanh hơn bút chì bấm), tẩy chì tốt.\n    - Đồng hồ đeo tay kim cơ học (rất quan trọng để canh 18 phút Ngữ pháp + 52 phút Đọc hiểu vì nhiều phòng thi không treo đồng hồ và cấm đồng hồ thông minh)."
+    }
+  ],
+  "extractionStatus": {
+    "status": "complete_for_schedule",
+    "missing": [
+      "câu hỏi đề thi"
+    ],
+    "explanation": "Lịch 4 đề Full, cấu trúc đề, mục tiêu điểm và chiến thuật đầy đủ. Đề thi phải do người học nhập."
+  }
+}
